@@ -60,8 +60,40 @@ research_domains:
       - "cs.AI"
       - "cs.MA"
       - "cs.RO"
-    priority: 6
+    priority: 5
 
+  "AI_Agent_&_Coding":
+    keywords:
+      # AI Coding 相关
+      - "AI coding"
+      - "code generation"
+      - "automated software engineering"
+      - "repository-level"
+      - "SWE-bench"  # 关键评测集，研究 AI 编程必看
+      - "program synthesis"
+      
+      # AI Agent 相关
+      - "LLM agents"
+      - "autonomous agents"
+      - "tool-use"
+      - "function calling"
+      - "ReAct"  # 经典的推理-行动架构
+      - "multi-agent systems"
+      
+      # 具体产品/技术（可选，用于跟踪最新动态）
+      - "Claude Code"
+      - "agentic workflow"
+      - "coding assistant"
+      
+    arxiv_categories:
+      - "cs.SE"  # Software Engineering（软件工程）：AI 编程、自动化修复代码的最核心分类
+      - "cs.CL"  # Computation and Language（计算与语言）：LLM 的理解与生成能力
+      - "cs.AI"  # Artificial Intelligence（人工智能）：Agent 的规划、决策、逻辑推理
+      - "cs.LG"  # Machine Learning（机器学习）：底层模型微调与架构
+      - "cs.PL"  # Programming Languages（编程语言）：涉及代码形式化验证、静态分析与 AI 的结合
+      - "cs.HC"  # Human-Computer Interaction（人机交互）：研究开发者如何与 AI Coding 工具协作
+    priority: 8
+    
   "自动驾驶":
     keywords:
       - "E2E"
@@ -69,10 +101,14 @@ research_domains:
       - "VLM"
       - "World Model"
       - "planning"
+      - "autonomous driving"
+      - "embodied AI"
     arxiv_categories:
-      - "cs.AI"
-      - "cs.MA"
-      - "cs.RO"
+      - "cs.RO"  # Robotics（机器人学）：自动驾驶和规划的最核心分类
+      - "cs.CV"  # Computer Vision（计算机视觉）：VLM、VLA 和感知层的核心
+      - "cs.LG"  # Machine Learning（机器学习）：世界模型、端到端训练算法
+      - "cs.AI"  # Artificial Intelligence（人工智能）：通用的 AI 决策与推理
+      - "cs.CL"  # Computation and Language（计算与语言）：涉及 VLM/VLA 中的语言理解部分
     priority: 8
 
 # 排除的关键词（可选）
