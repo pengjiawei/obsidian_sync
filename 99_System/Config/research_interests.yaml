@@ -1,0 +1,91 @@
+# evil-read-arxiv 配置文件示例
+# 复制此文件为 config.yaml 并修改为你自己的路径
+
+# 语言设置 (zh/en)
+# - "zh": 中文报告 (default)
+# - "en": English reports
+language: "zh"
+
+# Obsidian Vault 路径（必填）
+vault_path: "/home/pengjiawei/Documents/obsidian_storage"
+
+# Papers 目录相对于 vault 的路径（可选，默认为 20_Research/Papers）
+papers_dir: "20_Research/Papers"
+
+# Semantic Scholar API Key（可选，配置后可减少 429 限流）
+# 免费申请: https://www.semanticscholar.org/product/api#api-key
+# semantic_scholar_api_key: "your-api-key-here"
+
+# 研究兴趣配置（必填）
+research_domains:
+  # 研究领域名称可以自定义
+  "大模型":
+    # 关键词列表，用于搜索和匹配论文
+    keywords:
+      - "pre-training"
+      - "foundation model"
+      - "model architecture"
+      - "large language model"
+      - "LLM"
+      - "transformer"
+    # arXiv 分类（可选）
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.LG"
+      - "cs.CL"
+    # 优先级（可选，1-10，数值越高越优先）
+    priority: 5
+
+  # "多模态技术":
+  #   keywords:
+  #     - "vision-language"
+  #     - "multimodal"
+  #     - "image-text"
+  #     - "visual"
+  #     - "cross-modal"
+  #   arxiv_categories:
+  #     - "cs.CV"
+  #     - "cs.MM"
+  #     - "cs.CL"
+  #   priority: 4
+
+  "智能体":
+    keywords:
+      - "agent"
+      - "multi-agent"
+      - "orchestration"
+      - "autonomous"
+      - "planning"
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.MA"
+      - "cs.RO"
+    priority: 6
+
+  "自动驾驶":
+    keywords:
+      - "E2E"
+      - "VLA"
+      - "VLM"
+      - "World Model"
+      - "planning"
+    arxiv_categories:
+      - "cs.AI"
+      - "cs.MA"
+      - "cs.RO"
+    priority: 8
+
+# 排除的关键词（可选）
+excluded_keywords:
+  - "3D"
+  - "review"
+  - "workshop"
+  - "survey"
+
+# 自定义通用词过滤列表（可选）
+# 这些词在自动关键词链接时会被跳过，不会被替换为 wikilink
+# 默认已包含常见英语功能词和通用 ML 术语，此处可添加额外的过滤词
+# extra_common_words:
+#   - "dataset"
+#   - "results"
+#   - "performance"
