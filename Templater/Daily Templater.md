@@ -2,8 +2,9 @@
 date: <% tp.date.now("YYYY-MM-DD") %>
 week: <% tp.date.now("WW") %>
 weekday: <% tp.date.now("dddd") %>
-mood: 
-tags: [日记/日常]
+mood:
+tags:
+  - 日记/日常
 ---
 
 # <% tp.date.now("YYYY年MM月DD日 dddd") %> 的日记
