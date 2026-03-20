@@ -3,3 +3,13 @@
 .obsidian/core-plugins-migration.json
 .trash/
 .DS_Store
+# 忽略所有常见的图片格式
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.bmp
+*.webp
+*.tiff
+*.ico
+*.svg
