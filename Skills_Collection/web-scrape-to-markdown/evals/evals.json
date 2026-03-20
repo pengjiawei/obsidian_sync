@@ -1,0 +1,23 @@
+{
+  "skill_name": "web-scrape-to-markdown",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "帮我爬取这篇文章并保存为 Markdown：https://example.com/blog/article-1",
+      "expected_output": "生成的 Markdown 文件包含：标题、作者、日期、正文内容、图片、表格（如果有）、AI 总结",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "把这个网页内容提取成 markdown 文档：https://example.com/blog/technical-tutorial",
+      "expected_output": "生成的 Markdown 文件包含：代码块正确保留、格式清晰、有 AI 总结",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "我想把这个博客文章保存到本地，URL 是 https://example.com/blog/news-post",
+      "expected_output": "保存为本地 Markdown 文件，包含完整内容和总结",
+      "files": []
+    }
+  ]
+}
