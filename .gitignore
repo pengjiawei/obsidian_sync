@@ -4,12 +4,12 @@
 .trash/
 .DS_Store
 # 忽略所有常见的图片格式
-*.jpg
-*.jpeg
-*.png
-*.gif
-*.bmp
-*.webp
-*.tiff
-*.ico
-*.svg
+Daily_Paper/**/*.jpg
+Daily_Paper/**/*.jpeg
+Daily_Paper/**/*.png
+Daily_Paper/**/*.gif
+Daily_Paper/**/*.bmp
+Daily_Paper/**/*.svg
+Daily_Paper/**/*.tiff
+Daily_Paper/**/*.tif
+Daily_Paper/**/*.webp
