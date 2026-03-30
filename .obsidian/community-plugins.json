@@ -1,5 +1,7 @@
 [
   "obsidian-git",
   "templater-obsidian",
-  "obsidian-kanban"
+  "obsidian-kanban",
+  "obsidian-weread-plugin",
+  "open-in-terminal"
 ]
