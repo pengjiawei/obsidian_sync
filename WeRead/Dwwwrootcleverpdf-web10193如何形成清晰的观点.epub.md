@@ -1,10 +1,12 @@
 ---
 doc_type: weread-highlights-reviews
 bookId: CB_7aX0Ob0ObAVa6Ri6Pw
+title: D:\wwwroot\cleverpdf-web\10193\如何形成清晰的观点.epub
 reviewCount: 0
 noteCount: 4
 author: ""
 cover: https://res.weread.qq.com/wrepub/CB_7aX0Ob0ObAVa6Ri6Pw_parsecover
+readingStatus: "2"
 progress: 43%
 readingTime: 5小时50分钟
 readingDate: 1970-01-01

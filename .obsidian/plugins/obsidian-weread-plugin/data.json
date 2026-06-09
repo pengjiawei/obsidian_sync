@@ -23,7 +23,7 @@
     },
     {
       "name": "wr_skey",
-      "value": "LH0b8nGo"
+      "value": "l_0YspdX"
     },
     {
       "name": "wr_vid",
@@ -35,11 +35,11 @@
     },
     {
       "name": "wr_rt",
-      "value": "web@A4e7YpK3diWS7~~Fwmq_AL"
+      "value": "web@PrpExjb7A1BEmZnyi7y_AL"
     },
     {
       "name": "wr_gid",
-      "value": "284519480"
+      "value": "276371155"
     }
   ],
   "noteLocation": "/WeRead",
@@ -47,8 +47,8 @@
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",
   "dailyNotesFormat": "YYYY-MM-DD",
-  "lastCookieTime": 1774835354377,
-  "isCookieValid": false,
+  "lastCookieTime": 1780973309465,
+  "isCookieValid": true,
   "user": "",
   "userVid": "5501060",
   "userAvatar": "",
@@ -60,7 +60,7 @@
   "removeParens": false,
   "removeParensWhitelist": "",
   "filterInlineImages": false,
-  "dailyNotesToggle": false,
+  "dailyNotesToggle": true,
   "notesBlacklist": "",
   "notesWhitelist": "",
   "syncMode": "blacklist",
@@ -80,10 +80,457 @@
   "cookieRefreshInterval": 12,
   "scheduledSyncToggle": false,
   "scheduledSyncInterval": 5,
-  "lastSyncTime": 0,
-  "lastSyncBookCount": 0,
+  "lastSyncTime": 1780973825819,
+  "lastSyncBookCount": 87,
   "lastSyncBookTitles": [],
-  "syncLogs": [],
+  "syncLogs": [
+    {
+      "id": "sync-1780973772503",
+      "timestamp": 1780973772503,
+      "totalBooks": 88,
+      "syncedBooks": 87,
+      "skippedBooks": 0,
+      "duration": 53.315,
+      "notes": [
+        {
+          "bookId": "42724927",
+          "title": "西方哲学史讲演录",
+          "filePath": "WeRead/西方哲学史讲演录.md"
+        },
+        {
+          "bookId": "3300200010",
+          "title": "我所相信的生活",
+          "filePath": "WeRead/我所相信的生活.md"
+        },
+        {
+          "bookId": "915628",
+          "title": "中国哲学简史（插图修订版）",
+          "filePath": "WeRead/中国哲学简史（插图修订版）.md"
+        },
+        {
+          "bookId": "3300024284",
+          "title": "毛泽东选集（全四卷）",
+          "filePath": "WeRead/毛泽东选集（全四卷）.md"
+        },
+        {
+          "bookId": "3300016646",
+          "title": "可能性的艺术：比较政治学30讲",
+          "filePath": "WeRead/可能性的艺术：比较政治学30讲.md"
+        },
+        {
+          "bookId": "CB_G4z4UX4VXART72t71F6ZJ8RP",
+          "title": "book1-claude-code",
+          "filePath": "WeRead/book1-claude-code.md"
+        },
+        {
+          "bookId": "3300027208",
+          "title": "乡土中国（果麦经典）",
+          "filePath": "WeRead/乡土中国（果麦经典）.md"
+        },
+        {
+          "bookId": "30840316",
+          "title": "陪老婆怀孕",
+          "filePath": "WeRead/陪老婆怀孕.md"
+        },
+        {
+          "bookId": "3300143875",
+          "title": "九诗心：暗夜里的文学启明",
+          "filePath": "WeRead/九诗心：暗夜里的文学启明.md"
+        },
+        {
+          "bookId": "CB_D4KCP2CPC2lG71W71FDKh969",
+          "title": "與中國打交道——美國前財長鮑爾森的二十年內幕觀察",
+          "filePath": "WeRead/與中國打交道——美國前財長鮑爾森的二十年內幕觀察.md"
+        },
+        {
+          "bookId": "25409386",
+          "title": "红星照耀中国",
+          "filePath": "WeRead/红星照耀中国.md"
+        },
+        {
+          "bookId": "3300164493",
+          "title": "不止于正义",
+          "filePath": "WeRead/不止于正义.md"
+        },
+        {
+          "bookId": "35039171",
+          "title": "历史深处的民国（全集）",
+          "filePath": "WeRead/历史深处的民国（全集）.md"
+        },
+        {
+          "bookId": "3300151432",
+          "title": "人生解忧：佛学入门四十讲",
+          "filePath": "WeRead/人生解忧：佛学入门四十讲.md"
+        },
+        {
+          "bookId": "25031485",
+          "title": "中国通史（上下册）",
+          "filePath": "WeRead/中国通史（上下册）.md"
+        },
+        {
+          "bookId": "3300161719",
+          "title": "我的心渴望一种更加惊险的生活（果麦经典）",
+          "filePath": "WeRead/我的心渴望一种更加惊险的生活（果麦经典）.md"
+        },
+        {
+          "bookId": "32307641",
+          "title": "何为良好生活：行之于途而应于心",
+          "filePath": "WeRead/何为良好生活：行之于途而应于心.md"
+        },
+        {
+          "bookId": "37724838",
+          "title": "一个无政府主义者的意外死亡",
+          "filePath": "WeRead/一个无政府主义者的意外死亡.md"
+        },
+        {
+          "bookId": "3300104586",
+          "title": "在峡江的转弯处：陈行甲人生笔记",
+          "filePath": "WeRead/在峡江的转弯处：陈行甲人生笔记.md"
+        },
+        {
+          "bookId": "3300145715",
+          "title": "我们活着的理由：弗兰克尔论生命的意义",
+          "filePath": "WeRead/我们活着的理由：弗兰克尔论生命的意义.md"
+        },
+        {
+          "bookId": "3300144668",
+          "title": "我们如何思考",
+          "filePath": "WeRead/我们如何思考.md"
+        },
+        {
+          "bookId": "3300122278",
+          "title": "我才不想做家务（全网剖析隐形家务最彻底的一本书！）",
+          "filePath": "WeRead/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md"
+        },
+        {
+          "bookId": "3300080867",
+          "title": "法律的悖论",
+          "filePath": "WeRead/法律的悖论.md"
+        },
+        {
+          "bookId": "25445341",
+          "title": "道德经（中华国学经典精粹）",
+          "filePath": "WeRead/道德经（中华国学经典精粹）.md"
+        },
+        {
+          "bookId": "26991921",
+          "title": "你一生的故事（译林幻系列）",
+          "filePath": "WeRead/你一生的故事（译林幻系列）.md"
+        },
+        {
+          "bookId": "40963066",
+          "title": "明朝那些事儿·全集（2021年 增补版）",
+          "filePath": "WeRead/明朝那些事儿·全集（2021年 增补版）.md"
+        },
+        {
+          "bookId": "23523072",
+          "title": "中国历代政治得失",
+          "filePath": "WeRead/中国历代政治得失.md"
+        },
+        {
+          "bookId": "3300090202",
+          "title": "人生总会有答案",
+          "filePath": "WeRead/人生总会有答案.md"
+        },
+        {
+          "bookId": "27403440",
+          "title": "芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）",
+          "filePath": "WeRead/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md"
+        },
+        {
+          "bookId": "679003",
+          "title": "你永远都无法叫醒一个装睡的人",
+          "filePath": "WeRead/你永远都无法叫醒一个装睡的人.md"
+        },
+        {
+          "bookId": "3300028723",
+          "title": "你的敏感，就是你的天赋",
+          "filePath": "WeRead/你的敏感，就是你的天赋.md"
+        },
+        {
+          "bookId": "33628204",
+          "title": "认知觉醒：开启自我改变的原动力",
+          "filePath": "WeRead/认知觉醒：开启自我改变的原动力.md"
+        },
+        {
+          "bookId": "33800862",
+          "title": "少有人走的路：心智成熟的旅程",
+          "filePath": "WeRead/少有人走的路：心智成熟的旅程.md"
+        },
+        {
+          "bookId": "35177921",
+          "title": "如何克服社交焦虑",
+          "filePath": "WeRead/如何克服社交焦虑.md"
+        },
+        {
+          "bookId": "3300059552",
+          "title": "文学中的人生进化课",
+          "filePath": "WeRead/文学中的人生进化课.md"
+        },
+        {
+          "bookId": "3300026591",
+          "title": "德米安：彷徨少年时（黑塞精选集）",
+          "filePath": "WeRead/德米安：彷徨少年时（黑塞精选集）.md"
+        },
+        {
+          "bookId": "3300090206",
+          "title": "维特根斯坦十讲",
+          "filePath": "WeRead/维特根斯坦十讲.md"
+        },
+        {
+          "bookId": "3300049187",
+          "title": "停止想太多：写给高敏者的职场突破指南",
+          "filePath": "WeRead/停止想太多：写给高敏者的职场突破指南.md"
+        },
+        {
+          "bookId": "3300058349",
+          "title": "生成式人工智能",
+          "filePath": "WeRead/生成式人工智能.md"
+        },
+        {
+          "bookId": "3300056657",
+          "title": "人生借阅室（打开一种人生）",
+          "filePath": "WeRead/人生借阅室（打开一种人生）.md"
+        },
+        {
+          "bookId": "3300065341",
+          "title": "多谈谈问题（单读33）",
+          "filePath": "WeRead/多谈谈问题（单读33）.md"
+        },
+        {
+          "bookId": "25731054",
+          "title": "倦怠社会",
+          "filePath": "WeRead/倦怠社会.md"
+        },
+        {
+          "bookId": "3300043000",
+          "title": "滔滔生活",
+          "filePath": "WeRead/滔滔生活.md"
+        },
+        {
+          "bookId": "3300030955",
+          "title": "命运",
+          "filePath": "WeRead/命运.md"
+        },
+        {
+          "bookId": "3300065326",
+          "title": "逃避自由（弗洛姆作品系列）",
+          "filePath": "WeRead/逃避自由（弗洛姆作品系列）.md"
+        },
+        {
+          "bookId": "3300053150",
+          "title": "摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配",
+          "filePath": "WeRead/摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配.md"
+        },
+        {
+          "bookId": "924389",
+          "title": "失明症漫记（罗翔推荐）",
+          "filePath": "WeRead/失明症漫记（罗翔推荐）.md"
+        },
+        {
+          "bookId": "37462156",
+          "title": "做一个清醒的现代人",
+          "filePath": "WeRead/做一个清醒的现代人.md"
+        },
+        {
+          "bookId": "912326",
+          "title": "西西弗神话",
+          "filePath": "WeRead/西西弗神话.md"
+        },
+        {
+          "bookId": "3300035133",
+          "title": "足利女童连续失踪事件",
+          "filePath": "WeRead/足利女童连续失踪事件.md"
+        },
+        {
+          "bookId": "3300033043",
+          "title": "始于极限：女性主义往复书简",
+          "filePath": "WeRead/始于极限：女性主义往复书简.md"
+        },
+        {
+          "bookId": "25803777",
+          "title": "荒原狼",
+          "filePath": "WeRead/荒原狼.md"
+        },
+        {
+          "bookId": "827629",
+          "title": "古龙作品大全集",
+          "filePath": "WeRead/古龙作品大全集.md"
+        },
+        {
+          "bookId": "40726681",
+          "title": "焦虑的人",
+          "filePath": "WeRead/焦虑的人.md"
+        },
+        {
+          "bookId": "41577531",
+          "title": "82年生的金智英（再版｜同名电影原著）",
+          "filePath": "WeRead/82年生的金智英（再版｜同名电影原著）.md"
+        },
+        {
+          "bookId": "567287",
+          "title": "带队伍：不会带团队，你就只能干到死!",
+          "filePath": "WeRead/带队伍：不会带团队，你就只能干到死!.md"
+        },
+        {
+          "bookId": "3300023630",
+          "title": "读者（2022年第13期）",
+          "filePath": "WeRead/读者（2022年第13期）.md"
+        },
+        {
+          "bookId": "3300004399",
+          "title": "从零开始的女性主义",
+          "filePath": "WeRead/从零开始的女性主义.md"
+        },
+        {
+          "bookId": "CB_3dqAR0APsD5j6Qp6Pw",
+          "title": "刘擎西方现代思想讲义",
+          "filePath": "WeRead/刘擎西方现代思想讲义.md"
+        },
+        {
+          "bookId": "43896728",
+          "title": "不能承受的生命之轻（米兰·昆德拉作品系列·2022版）",
+          "filePath": "WeRead/不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md"
+        },
+        {
+          "bookId": "CB_7aX0Ob0ObAVa6Ri6Pw",
+          "title": "D:\\wwwroot\\cleverpdf-web\\10193\\如何形成清晰的观点.epub",
+          "filePath": "WeRead/Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md"
+        },
+        {
+          "bookId": "839211",
+          "title": "面纱",
+          "filePath": "WeRead/面纱.md"
+        },
+        {
+          "bookId": "856239",
+          "title": "非暴力沟通",
+          "filePath": "WeRead/非暴力沟通.md"
+        },
+        {
+          "bookId": "25615385",
+          "title": "被讨厌的勇气：“自我启发之父”阿德勒的哲学课",
+          "filePath": "WeRead/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md"
+        },
+        {
+          "bookId": "635921",
+          "title": "基业长青（珍藏版）",
+          "filePath": "WeRead/基业长青（珍藏版）.md"
+        },
+        {
+          "bookId": "31608468",
+          "title": "别想生活有答案：改变生活的100个思维大冒险",
+          "filePath": "WeRead/别想生活有答案：改变生活的100个思维大冒险.md"
+        },
+        {
+          "bookId": "CB_0dR9ML9M480B6Kx6Ln",
+          "title": "哲学的故事",
+          "filePath": "WeRead/哲学的故事.md"
+        },
+        {
+          "bookId": "932993",
+          "title": "维特根斯坦传：天才之为责任",
+          "filePath": "WeRead/维特根斯坦传：天才之为责任.md"
+        },
+        {
+          "bookId": "651366",
+          "title": "乡土中国",
+          "filePath": "WeRead/乡土中国.md"
+        },
+        {
+          "bookId": "26713355",
+          "title": "你当像鸟飞往你的山",
+          "filePath": "WeRead/你当像鸟飞往你的山.md"
+        },
+        {
+          "bookId": "26785321",
+          "title": "打开：周濂的100堂西方哲学课",
+          "filePath": "WeRead/打开：周濂的100堂西方哲学课.md"
+        },
+        {
+          "bookId": "907334",
+          "title": "坏小孩（秦昊、王景春《隐秘的角落》原著）",
+          "filePath": "WeRead/坏小孩（秦昊、王景春《隐秘的角落》原著）.md"
+        },
+        {
+          "bookId": "758887",
+          "title": "毛姆短篇小说精选集",
+          "filePath": "WeRead/毛姆短篇小说精选集.md"
+        },
+        {
+          "bookId": "913687",
+          "title": "宽容",
+          "filePath": "WeRead/宽容.md"
+        },
+        {
+          "bookId": "25995813",
+          "title": "思维的囚徒",
+          "filePath": "WeRead/思维的囚徒.md"
+        },
+        {
+          "bookId": "861002",
+          "title": "人生的智慧",
+          "filePath": "WeRead/人生的智慧.md"
+        },
+        {
+          "bookId": "27329034",
+          "title": "东野圭吾经典推理作品集（套装共6册）",
+          "filePath": "WeRead/东野圭吾经典推理作品集（套装共6册）.md"
+        },
+        {
+          "bookId": "935258",
+          "title": "心是孤独的猎手",
+          "filePath": "WeRead/心是孤独的猎手.md"
+        },
+        {
+          "bookId": "25131764",
+          "title": "人生海海",
+          "filePath": "WeRead/人生海海.md"
+        },
+        {
+          "bookId": "837686",
+          "title": "局外人（果麦经典）",
+          "filePath": "WeRead/局外人（果麦经典）.md"
+        },
+        {
+          "bookId": "635942",
+          "title": "反脆弱：从不确定性中获益",
+          "filePath": "WeRead/反脆弱：从不确定性中获益.md"
+        },
+        {
+          "bookId": "857316",
+          "title": "上瘾：让用户养成使用习惯的四大产品逻辑",
+          "filePath": "WeRead/上瘾：让用户养成使用习惯的四大产品逻辑.md"
+        },
+        {
+          "bookId": "22623001",
+          "title": "浪花少年侦探团",
+          "filePath": "WeRead/浪花少年侦探团.md"
+        },
+        {
+          "bookId": "853116",
+          "title": "杀死一只知更鸟（同名电影原著）",
+          "filePath": "WeRead/杀死一只知更鸟（同名电影原著）.md"
+        },
+        {
+          "bookId": "511149",
+          "title": "皮囊",
+          "filePath": "WeRead/皮囊.md"
+        },
+        {
+          "bookId": "230107",
+          "title": "白夜行",
+          "filePath": "WeRead/白夜行.md"
+        },
+        {
+          "bookId": "22623009",
+          "title": "布鲁特斯的心脏",
+          "filePath": "WeRead/布鲁特斯的心脏.md"
+        }
+      ],
+      "success": true
+    }
+  ],
   "bookshelfSortMode": "recent",
   "bookshelfGroupByYear": true,
   "bookshelfDefaultSyncStatusFilter": "all",
