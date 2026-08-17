@@ -1,0 +1,142 @@
+## 2026-07-13T01:47:12.470Z | 布鲁特斯的心脏.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T01:54:05.055Z | 反脆弱：从不确定性中获益.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:00:02.385Z | 东野圭吾经典推理作品集（套装共6册）.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:06:20.560Z | 坏小孩（秦昊、王景春《隐秘的角落》原著）.md
+
+1. FILE block "wiki/sources/紫金陈-2018-坏小孩.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:08:09.838Z | 打开：周濂的100堂西方哲学课.md
+
+1. FILE block "wiki/sources/打开：周濂的100堂西方哲学课.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:11:56.412Z | 乡土中国.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:13:48.561Z | 维特根斯坦传：天才之为责任.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:15:04.516Z | 哲学的故事.md
+
+1. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:16:44.674Z | 别想生活有答案：改变生活的100个思维大冒险.md
+
+1. FILE block "wiki/sources/别想生活有答案：改变生活的100个思维大冒险.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:20:24.284Z | 被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md
+
+1. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:23:47.377Z | 面纱.md
+
+1. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T02:24:53.879Z | Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md
+
+1. FILE block "wiki/sources/Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:31:23.259Z | 刘擎西方现代思想讲义.md
+
+1. FILE block "wiki/sources/刘擎西方现代思想讲义.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Aggregate repair failed: error decoding response body
+3. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:32:36.916Z | 从零开始的女性主义.md
+
+1. FILE block "wiki/sources/从零开始的女性主义.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:37:18.252Z | 焦虑的人.md
+
+1. FILE block "wiki/sources/焦虑的人.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:40:24.526Z | 荒原狼.md
+
+1. FILE block "wiki/sources/荒原狼.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:45:40.487Z | 西西弗神话.md
+
+1. FILE block "wiki/sources/西西弗神话.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T02:56:43.952Z | 滔滔生活.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:01:22.467Z | 多谈谈问题（单读33）.md
+
+1. FILE block "wiki/sources/多谈谈问题（单读33）.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Aggregate repair failed: error decoding response body
+3. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:04:44.436Z | 生成式人工智能.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:11:38.739Z | 维特根斯坦十讲.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:15:19.480Z | 文学中的人生进化课.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:18:28.520Z | 如何克服社交焦虑.md
+
+1. FILE block "wiki/log.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. Dropped 2 non-aggregate block(s) from aggregate repair output: wiki/index.md, wiki/overview.md
+
+## 2026-07-13T03:22:25.398Z | 认知觉醒：开启自我改变的原动力.md
+
+1. FILE block "wiki/sources/认知觉醒：开启自我改变的原动力.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:29:09.046Z | 人生总会有答案.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:35:19.155Z | 你一生的故事（译林幻系列）.md
+
+1. FILE block "wiki/sources/你一生的故事（译林幻系列）.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:40:09.332Z | 我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md
+
+1. FILE block "wiki/sources/纪静蓉-我才不想做家务.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T03:44:39.758Z | 我们如何思考.md
+
+1. FILE block "wiki/sources/我们如何思考.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T04:00:54.257Z | 人生解忧：佛学入门四十讲.md
+
+1. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T04:06:02.683Z | 红星照耀中国.md
+
+1. FILE block "wiki/sources/红星照耀中国.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T04:16:45.989Z | 可能性的艺术：比较政治学30讲.md
+
+1. FILE block "wiki/concepts/非自由的民主.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T04:17:30.409Z | 毛泽东选集（全四卷）.md
+
+1. FILE block "wiki/sources/毛泽东选集（全四卷）.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+
+## 2026-07-13T04:24:39.044Z | 西方哲学史讲演录.md
+
+1. FILE block "wiki/sources/西方哲学史讲演录.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.
+2. FILE block "wiki/index.md" was not closed before end of stream — likely truncation (model hit max_tokens, timeout, or connection dropped). Block dropped.

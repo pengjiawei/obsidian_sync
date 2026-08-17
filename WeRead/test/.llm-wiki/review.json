@@ -1,0 +1,4022 @@
+[
+  {
+    "type": "suggestion",
+    "title": "比较东野圭吾作品中的诡计设计",
+    "description": "本源材料揭示了《布鲁特斯的心脏》中“尸体接力”这一特定诡计。东野圭吾在其多部推理作品（如《嫌疑人X的献身》等）中均设计了逻辑复杂且服务于人物情感的犯罪诡计。建议创建一个比较页面，分析其不同作品中诡计设计在逻辑类型（如密室、不在场证明、时间诡计）、与情感动机的结合程度、以及叙事功能上的异同，以深入理解作者的创作风格。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/布鲁特斯的心脏.md",
+    "affectedPages": [
+      "wiki/comparisons/东野圭吾诡计设计比较.md"
+    ],
+    "searchQueries": [
+      "东野圭吾 推理小说 诡计设计 比较",
+      "不在场证明 密室诡计 东野圭吾",
+      "嫌疑人X的献身 布鲁特斯的心脏 诡计对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4fd36604",
+    "resolved": false,
+    "createdAt": 1783907232486
+  },
+  {
+    "type": "suggestion",
+    "title": "微信读书用户评论行为缺失原因探究",
+    "description": "《白夜行》阅读记录显示用户已100%读完，但 `reviewCount` 和 `noteCount` 均为0。这与微信读书平台通常鼓励社交互动和笔记分享的设计形成对比。探究用户在此平台“只读不评”模式的原因（例如，是个人习惯、隐私考虑、还是特定阅读目的），对于更准确地解读此类阅读记录数据、理解用户的个人知识管理风格具有重要价值。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/白夜行.md",
+    "affectedPages": [
+      "wiki/sources/白夜行.md",
+      "wiki/log.md"
+    ],
+    "searchQueries": [
+      "微信读书 评论 行为 分析",
+      "无笔记阅读 模式",
+      "东野圭吾 阅读 社交"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c7b8629a",
+    "resolved": false,
+    "createdAt": 1783907297493
+  },
+  {
+    "type": "suggestion",
+    "title": "核心隐喻“皮囊”的深度",
+    "description": "源文档与现有分析强调了《皮囊》探讨的“乡土与远方”、“生命与死亡”等主题，但其核心书名“皮囊”本身是一个强大的隐喻，指向肉体、外在皮相与内在真实生命体验的关系。这一隐喻在书中可能通过不同故事有更具体的展开，但当前基于简介的记录未深入探讨。这可能是一个值得挖掘的、连接全书各故事的深层概念。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/皮囊.md",
+    "affectedPages": [
+      "wiki/concepts/皮囊.md"
+    ],
+    "searchQueries": [
+      "皮囊 隐喻 肉体 灵魂 文学分析",
+      "蔡崇达 皮囊 书名 含义",
+      "皮囊 散文 集 主题分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f4e957b9",
+    "resolved": false,
+    "createdAt": 1783907349951
+  },
+  {
+    "type": "suggestion",
+    "title": "概念扩展建议",
+    "description": "基于《杀死一只知更鸟》分析中提到的“道德成长与家庭教育”以及“南方哥特与社会批判”主题，建议考虑创建更通用的概念页面，以与其他文学或教育案例进行关联。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/杀死一只知更鸟（同名电影原著）.md",
+    "affectedPages": [
+      "wiki/concepts/成长小说.md",
+      "wiki/concepts/南方哥特.md"
+    ],
+    "searchQueries": [
+      "成长小说 教育意义 文学母题",
+      "南方哥特 文学风格 特征"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-207782e2",
+    "resolved": false,
+    "createdAt": 1783907426805
+  },
+  {
+    "type": "missing-page",
+    "title": "黑天鹅事件",
+    "description": "“黑天鹅事件”是理解《反脆弱》全书逻辑与背景的关键前置概念，且在现有wiki索引中被多次引用（如在《反脆弱》、反脆弱概念、纳西姆·尼古拉斯·塔勒布等页面中），但尚未创建独立的详细概念页面。这构成了一个核心的知识空白，阻碍了对反脆弱理论起源与针对性的深入理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/反脆弱：从不确定性中获益.md",
+    "affectedPages": [
+      "wiki/sources/反脆弱：从不确定性中获益.md",
+      "wiki/concepts/反脆弱.md",
+      "wiki/entities/纳西姆-尼古拉斯-塔勒布.md"
+    ],
+    "searchQueries": [
+      "黑天鹅事件 定义 塔勒布",
+      "Nassim Taleb Black Swan theory concept"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1ad8a20b",
+    "resolved": true,
+    "createdAt": 1783907645072,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "问责制缺失",
+    "description": "“问责制缺失”是塔勒布在《反脆弱》前言中提出的尖锐批判，被视为导致现代系统脆弱性的核心症结。它是连接反脆弱理论与现实社会批判的关键纽带，但当前wiki中仅作为《反脆弱》源页面的一个观点提及，缺乏专门的概念阐释和深入分析。创建此页面能显著提升wiki的批判性深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/反脆弱：从不确定性中获益.md",
+    "affectedPages": [
+      "wiki/sources/反脆弱：从不确定性中获益.md",
+      "wiki/concepts/反脆弱.md"
+    ],
+    "searchQueries": [
+      "问责制缺失 社会批判 塔勒布",
+      "accountability deficit Taleb systemic risk"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c7b6c89d",
+    "resolved": true,
+    "createdAt": 1783907645072,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "塔勒布思想谱系梳理",
+    "description": "现有wiki为塔勒布创建了个人页面，并关联了《反脆弱》和《黑天鹅》。然而，他的思想体系（包括《随机漫步的傻瓜》等著作）是一个连贯的演进过程。建议创建一个综合性的比较或综合页面，系统梳理塔勒布思想的核心脉络、关键概念之间的递进关系（如从“黑天鹅”到“反脆弱”的解决方案演进），以及不同著作间的侧重。这将极大提升对作者整体思想的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/反脆弱：从不确定性中获益.md",
+    "affectedPages": [
+      "wiki/entities/纳西姆-尼古拉斯-塔勒布.md",
+      "wiki/sources/反脆弱：从不确定性中获益.md",
+      "wiki/concepts/反脆弱.md"
+    ],
+    "searchQueries": [
+      "塔勒布 思想体系 黑天鹅 反脆弱 谱系",
+      "Nassim Taleb Incerto series concepts overview"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a90ac5d1",
+    "resolved": false,
+    "createdAt": 1783907645072
+  },
+  {
+    "type": "suggestion",
+    "title": "反脆弱的具体应用案例研究",
+    "description": "当前关于“如何构建反脆弱性”的查询页面提出了核心问题，但回答主要停留在理论原则层面。为使这一知识更具实践价值，需要搜集和整理反脆弱理念在**具体领域**（如个人投资、医疗健康、组织管理、政策设计）的成功应用或失败案例。这类案例研究是连接理论与实践的桥梁。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/反脆弱：从不确定性中获益.md",
+    "affectedPages": [
+      "wiki/queries/如何构建反脆弱性.md",
+      "wiki/concepts/反脆弱.md"
+    ],
+    "searchQueries": [
+      "反脆弱 应用案例 个人投资 组织管理",
+      "antifragile practical examples case studies"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-254d809a",
+    "resolved": false,
+    "createdAt": 1783907645072
+  },
+  {
+    "type": "suggestion",
+    "title": "存在主义哲学的系统性梳理",
+    "description": "现有维基页面将《局外人》与“存在主义”标签关联，并创建了“世界的荒诞与陌生感”等概念页，但未对“存在主义”这一核心哲学流派本身进行系统介绍。这对理解加缪思想的谱系（如与萨特、克尔凯郭尔的关系）、作品的创作背景及其在思想史上的位置至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/局外人（果麦经典）.md",
+    "affectedPages": [
+      "wiki/concepts/世界的荒诞与陌生感.md"
+    ],
+    "searchQueries": [
+      "存在主义哲学核心观点",
+      "加缪与萨特荒诞观的区别",
+      "存在主义文学代表作品"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fadc595b",
+    "resolved": false,
+    "createdAt": 1783907711109
+  },
+  {
+    "type": "suggestion",
+    "title": "加缪与萨特的哲学分歧",
+    "description": "分析报告中已提出开放问题：“加缪的‘荒诞’与后续存在主义哲学家（如萨特）的‘自由选择’之间有何异同？”这触及了存在主义运动内部的核心张力。深入研究此问题能更精确地定位加缪的哲学立场，避免将其简单归入宽泛的“存在主义”标签。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/局外人（果麦经典）.md",
+    "affectedPages": [
+      "wiki/entities/阿尔贝-加缪.md"
+    ],
+    "searchQueries": [
+      "加缪与萨特决裂原因",
+      "加缪反对萨特存在主义具体观点",
+      "荒诞与自由选择哲学对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-3699de73",
+    "resolved": false,
+    "createdAt": 1783907711109
+  },
+  {
+    "type": "suggestion",
+    "title": "“果麦经典”作为出版品牌的编辑意图分析",
+    "description": "在来源分析中，“果麦经典”被标记为可视为出版社细分类别、通常不需单独建页。但作为一个有明确风格和受众定位的现代出版品牌，其选书标准、装帧设计、宣传文案（如本源文档中的简介）共同塑造了新一代读者对《局外人》这类经典作品的接受框架。此分析属于“接受美学”或“出版研究”范畴，能丰富对作品传播维度的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/局外人（果麦经典）.md",
+    "affectedPages": [
+      "wiki/sources/局外人（果麦经典）.md"
+    ],
+    "searchQueries": [
+      "果麦经典出版品牌定位",
+      "经典名著重译策略与读者市场",
+      "出版品牌如何塑造经典文学接受"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-849dd076",
+    "resolved": false,
+    "createdAt": 1783907711109
+  },
+  {
+    "type": "suggestion",
+    "title": "《局外人》中司法审判与社会规训的深度机制",
+    "description": "现有概念页“社会的规训与审判”概述了情节，但未深入分析小说中法庭审判的具体文学呈现手法及其社会学隐喻。加缪如何通过检察官、律师、陪审团等角色的言行，具象化地展示一个社会机制如何“生产”出罪犯？这需要结合法律社会学（如福柯的规训理论）进行交叉分析，以深化对“妖魔化”过程的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/局外人（果麦经典）.md",
+    "affectedPages": [
+      "wiki/concepts/社会的规训与审判.md"
+    ],
+    "searchQueries": [
+      "加缪《局外人》法庭审判场景分析",
+      "福柯规训理论与文学文本",
+      "法律社会学视角下的文学审判叙事"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-fa4e8531",
+    "resolved": false,
+    "createdAt": 1783907711109
+  },
+  {
+    "type": "suggestion",
+    "title": "社会变革路径的比较研究：从文学辩论到社会理论",
+    "description": "小说中杰克与科普兰医生的辩论（理想启蒙 vs. 直接行动）是文学中的经典冲突。建议创建一个比较页面，将此文学张力与现实中的社会运动理论（如马丁·路德·金的非暴力抵抗与马尔科姆·X的自卫权辩论、或葛兰西的文化霸权理论）进行连接，以深化“理想与行动的冲突”这一概念的现实维度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/心是孤独的猎手.md",
+    "affectedPages": [
+      "wiki/concepts/理想与行动的冲突.md"
+    ],
+    "searchQueries": [
+      "非暴力抵抗 vs 直接行动 理论",
+      "社会运动变革路径",
+      "革命策略 文学比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-182a5a9e",
+    "resolved": false,
+    "createdAt": 1783907881605
+  },
+  {
+    "type": "suggestion",
+    "title": "卡森·麦卡勒斯的文学谱系与南方哥特风格",
+    "description": "当前 [[卡森-麦卡勒斯]] 实体页面较为简要。建议深入研究她在“南方哥特”文学流派中的位置，以及她与同时代作家（如福克纳、弗兰纳里·奥康纳）的异同，这将巩固其文学史地位，并为理解小说的独特美学和主题提供更广阔的背景。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/心是孤独的猎手.md",
+    "affectedPages": [
+      "wiki/entities/卡森-麦卡勒斯.md"
+    ],
+    "searchQueries": [
+      "卡森·麦卡勒斯 南方哥特",
+      "美国南方文学 流派比较",
+      "Carson McCullers literary style"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6303c4c0",
+    "resolved": false,
+    "createdAt": 1783907881605
+  },
+  {
+    "type": "suggestion",
+    "title": "跨文本“孤独”主题比较：从加缪到麦卡勒斯",
+    "description": "现有 [[concepts/孤独]] 页面主要基于本书。建议发起一个比较研究，将《心是孤独的猎手》中情境化、社会性的孤独，与已有页面 [[sources/局外人（果麦经典）]] 及 [[concepts/世界的荒诞与陌生感]] 中存在主义、形而上的孤独进行对话，构建更立体、多维度的“孤独”概念网络。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/心是孤独的猎手.md",
+    "affectedPages": [
+      "wiki/concepts/孤独.md",
+      "wiki/sources/局外人（果麦经典）.md"
+    ],
+    "searchQueries": [
+      "文学中的孤独 比较分析",
+      "存在主义孤独 vs 社会性孤独",
+      "Alienation in McCullers and Camus"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b0353d6b",
+    "resolved": false,
+    "createdAt": 1783907881605
+  },
+  {
+    "type": "suggestion",
+    "title": "小说历史背景深化：美国大萧条与南方社会",
+    "description": "小说背景设定在20世纪30年代的美国南方。建议研究这一时期的具体历史事件（如大萧条、种族隔离的“吉姆·克劳法”、劳工运动），以将人物（如米克的经济困境、科普兰医生的种族斗争）置于更真实的社会历史语境中，增强对小说批判性的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/心是孤独的猎手.md",
+    "affectedPages": [
+      "wiki/sources/心是孤独的猎手.md"
+    ],
+    "searchQueries": [
+      "1930年代美国南方 社会状况",
+      "大萧条 对美国文学影响",
+      "Jim Crow laws 历史背景"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-37e1c32e",
+    "resolved": false,
+    "createdAt": 1783907881605
+  },
+  {
+    "type": "suggestion",
+    "title": "更新“悬疑推理”概念页以纳入伦理与人性转向",
+    "description": "对东野圭吾经典推理作品集的分析表明，其核心价值在于展示了推理小说从解谜向社会、伦理、人性深度探讨的演进。现有的`[[concepts/悬疑推理]]`页面可能仍侧重于本格或类型定义，缺乏对这一重要创作转向的充分讨论。更新该页面，将其作为社会派推理向伦理困境与人性复杂性深化的典型例证，将显著提升维基中对东野圭吾及当代推理小说的理解深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/东野圭吾经典推理作品集（套装共6册）.md",
+    "affectedPages": [
+      "wiki/concepts/悬疑推理.md"
+    ],
+    "searchQueries": [
+      "东野圭吾 推理小说 伦理转向",
+      "社会派推理 人性探索",
+      "东野圭吾 创作风格演变"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5122d090",
+    "resolved": false,
+    "createdAt": 1783908002404
+  },
+  {
+    "type": "suggestion",
+    "title": "研究东野圭吾作品中“特殊能力”的隐秘关联与创作母题",
+    "description": "来源分析中，读者将《魔力的胎动》的“捕手”与《拉普拉斯的魔女》中的能力相关联，暗示不同作品中可能存在关于“特殊感知能力”的隐秘关联或反复出现的创作母题。这是一个深层的、跨文本的文学研究问题，如果证实，将为理解东野圭吾的作品宇宙提供全新视角。目前缺乏系统性证据，需要专门研究。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/东野圭吾经典推理作品集（套装共6册）.md",
+    "affectedPages": [
+      "wiki/sources/东野圭吾经典推理作品集（套装共6册）.md",
+      "wiki/sources/白夜行.md",
+      "wiki/sources/布鲁特斯的心脏.md"
+    ],
+    "searchQueries": [
+      "东野圭吾 作品 隐秘关联 母题",
+      "东野圭吾 特殊能力 角色",
+      "东野圭吾 创作 主题 跨文本分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f49bbf3b",
+    "resolved": false,
+    "createdAt": 1783908002404
+  },
+  {
+    "type": "contradiction",
+    "title": "宗教改革的历史评价张力",
+    "description": "分析指出，房龙对宗教改革的批判性评价（“另一个监狱”）可能与Wiki中可能存在的对宗教改革的其他正面评价（如作为思想解放运动）形成历史解释上的张力。建议检查现有Wiki中是否已有相关页面（如涉及宗教改革、马丁·路德等），若存在，则应在相关概念或来源页面中记录这种评价差异，并可能链接至此处的[[concepts/宗教改革的监狱隐喻]]页面。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/宽容.md",
+    "affectedPages": [
+      "wiki/concepts/宗教改革的监狱隐喻.md"
+    ],
+    "searchQueries": [
+      "宗教改革 思想解放 正面评价",
+      "宗教改革 局限性 批判",
+      "历史评价 宗教改革 多面性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9d0d2d28",
+    "resolved": false,
+    "createdAt": 1783908224887
+  },
+  {
+    "type": "suggestion",
+    "title": "阅读深度与个性化解读的局限",
+    "description": "当前基于`毛姆短篇小说精选集.md`生成的所有Wiki页面，其内容均主要依赖书籍的官方简介和元数据，源于文档中记录的42%阅读进度及缺失的读书笔记/评论。这导致分析缺乏读者（用户）个人的具体反馈、情感反应、对特定篇目的偏好或深度的文本细读证据。\n\n**描述**：Wiki内容目前反映的是作品的公共定位，而非用户可能的、个性化的知识构建与解读。未来若有更完整的阅读记录、笔记或评论数据导入，可能需要对现有页面（尤其是源页面和实体页面）进行补充和深化，以纳入这些更主观、更具体的见解。\n\n**选项**：Create Page | Skip\n**SEARCH**: 毛姆短篇小说 阅读笔记 | 文学作品个性化解读 | 基于元数据的知识局限",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/毛姆短篇小说精选集.md",
+    "options": [
+      {
+        "label": "Approve",
+        "action": "Approve"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-730831bf",
+    "resolved": false,
+    "createdAt": 1783908304473
+  },
+  {
+    "type": "suggestion",
+    "title": "紫金陈与东野圭吾的悬疑推理创作比较研究",
+    "description": "现有Wiki已收录紫金陈《坏小孩》与东野圭吾系列作品，但缺乏对两位作家（及其代表的中日悬疑推理风格）的系统性比较分析。进行此研究可深化Wiki对“悬疑推理”概念的理解，揭示不同文化语境下犯罪动机、叙事结构与人性探讨的差异。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/坏小孩（秦昊、王景春《隐秘的角落》原著）.md",
+    "affectedPages": [
+      "wiki/sources/紫金陈-2018-坏小孩.md",
+      "wiki/sources/东野圭吾经典推理作品集（套装共6册）.md",
+      "wiki/concepts/悬疑推理.md"
+    ],
+    "searchQueries": [
+      "紫金陈 东野圭吾 创作比较",
+      "中日悬疑推理小说差异",
+      "社会派推理 本格推理 中国日本"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-4a672647",
+    "resolved": false,
+    "createdAt": 1783908380584
+  },
+  {
+    "type": "suggestion",
+    "title": "哲学实用功能的实证研究",
+    "description": "《打开：周濂的100堂西方哲学课》提出的“哲学实用功能”论断，激发了一个重要的跨学科研究问题。当前维基中尚未有条目系统梳理哲学（作为一种实践或训练）对个体心理健康、决策质量或生活满意度的实证影响。这是一个值得深入探索的交叉领域。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/打开：周濂的100堂西方哲学课.md",
+    "affectedPages": [
+      "wiki/queries/哲学的实用功能是否有实证支持.md"
+    ],
+    "searchQueries": [
+      "哲学治疗 实证研究",
+      "理性思维提升幸福感 心理学",
+      "哲学训练对决策的影响 实证"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-b37d407a",
+    "resolved": false,
+    "createdAt": 1783908489856
+  },
+  {
+    "type": "suggestion",
+    "title": "关于家庭与个人实现的伦理边界",
+    "description": "分析指出书中情节可能引发关于“家庭和解是否必要/可能”以及“个人实现与家庭忠诚的伦理准则”的思考。这是一个值得深入探讨的开放性问题，与Wiki中现有的关于个人成长、传统权威的主题（如[[sources/宽容]]）可能存在关联。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你当像鸟飞往你的山.md",
+    "affectedPages": [
+      "wiki/queries/ethics-of-family-loyalty-vs-self-actualization.md"
+    ],
+    "searchQueries": [
+      "家庭忠诚与个人自我实现伦理",
+      "原生家庭伤害后的和解是否必要",
+      "个人主义与家庭主义的文化冲突哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-253bad20",
+    "resolved": false,
+    "createdAt": 1783908574899
+  },
+  {
+    "type": "suggestion",
+    "title": "补充费孝通在《乡土中国》中其他核心概念（血缘与地缘、名实的分离、长老统治等）",
+    "description": "当前Wiki已收录《乡土中国》的核心分析框架（差序格局、礼治秩序）及其伦理表现（维系着私人的道德），但费孝通在同一著作中提出的其他重要概念，如“血缘与地缘”（社会结构的空间维度）、“名实的分离”（权力运作与变迁机制）以及“长老统治”（社会权力类型）等尚未收录。这些概念对于完整理解乡土社会的运行机制、权力结构及其变迁动力至关重要，填补此缺口能显著提升该理论体系在Wiki中的解释完整性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/乡土中国.md",
+    "affectedPages": [
+      "wiki/sources/乡土中国.md"
+    ],
+    "searchQueries": [
+      "费孝通 乡土中国 血缘与地缘",
+      "费孝通 名实的分离 长老统治",
+      "乡土中国 核心概念梳理"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9f7cf0b3",
+    "resolved": false,
+    "createdAt": 1783908716435
+  },
+  {
+    "type": "suggestion",
+    "title": "深化“礼治秩序”与“法治”在当代中国社会转型中的具体交织与实践张力",
+    "description": "现有查询（差序格局理论的现代适用性）虽触及社会变迁，但未专门聚焦于“礼治秩序”这一治理模式本身在当代的演变。费孝通对“礼”（传统、教化）与“法”（国家强制力）的区分极具洞察力。一个关键的后续研究是分析在当代中国，尤其是基层治理（如社区调解、乡村治理）中，“礼治”的逻辑与“法治”的原则是如何具体交织、冲突或融合的。这需要超越理论推演，寻找具体的实践案例或制度研究。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/乡土中国.md",
+    "affectedPages": [
+      "wiki/concepts/礼治秩序.md",
+      "wiki/queries/差序格局理论在现代中国社会是否仍然适用.md"
+    ],
+    "searchQueries": [
+      "中国基层治理 礼治 法治 交织",
+      "乡村治理 传统习惯 法律",
+      "费孝通 礼治秩序 当代转型"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-34ae9cd8",
+    "resolved": false,
+    "createdAt": 1783908716435
+  },
+  {
+    "type": "missing-page",
+    "title": "维特根斯坦的核心哲学思想：前期与后期",
+    "description": "维基中已有维特根斯坦传记、其“天才之为责任”的驱动力概念及其与罗素的关系，但完全没有触及他最具影响力的哲学思想内容（如《逻辑哲学论》的“语言图像论”与《哲学研究》的“语言游戏”、“家族相似性”、“治疗性哲学”等），这造成了“人物生平”与“思想贡献”之间的巨大空白。这是理解该人物及分析哲学传统最关键的知识缺口。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/维特根斯坦传：天才之为责任.md",
+    "affectedPages": [
+      "wiki/entities/维特根斯坦.md",
+      "wiki/sources/维特根斯坦传：天才之为责任.md"
+    ],
+    "searchQueries": [
+      "维特根斯坦 前期哲学 逻辑哲学论 语言图像论",
+      "维特根斯坦 后期哲学 语言游戏 家族相似性",
+      "Wittstein Tractatus Philosophicus Philosophical Investigations"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-21a1fae6",
+    "resolved": true,
+    "createdAt": 1783908828592,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "惯习与个体行为的深度关联",
+    "description": "书中仅简要引述布尔迪厄关于个体独特性社会建构的观点，但其理论核心（惯习、场域、资本）与个体行为的深层关联未展开。深入研究“惯习”（habitus）概念能极大深化Wiki中相关社会学理论的厚度，并为分析个体行为提供更系统的框架。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/别想生活有答案：改变生活的100个思维大冒险.md",
+    "affectedPages": [
+      "wiki/entities/布尔迪厄.md",
+      "wiki/concepts/个体独特性的社会建构.md",
+      "wiki/concepts/社会影响与个体表现.md"
+    ],
+    "searchQueries": [
+      "布尔迪厄 惯习 理论详解",
+      "Bourdieu habitus concept explained",
+      "惯习与个体能动性关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-96666e8f",
+    "resolved": false,
+    "createdAt": 1783909004695
+  },
+  {
+    "type": "suggestion",
+    "title": "个体独特性哲学争论对比",
+    "description": "“个体独特性是真实还是社会建构”这一核心问题，在哲学史上存在持续辩论。将布尔迪厄的社会建构论与存在主义（如萨特的“存在先于本质”）、自由主义个人主义及心理学自我理论进行对比，能显著提升Wiki的思辨深度，形成更全面的知识网络。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/别想生活有答案：改变生活的100个思维大冒险.md",
+    "affectedPages": [
+      "wiki/queries/个体独特性的根源是真实差异还是社会建构.md",
+      "wiki/concepts/个体独特性的社会建构.md"
+    ],
+    "searchQueries": [
+      "个体独特性 存在主义 vs 社会建构",
+      "philosophical debate on individual uniqueness",
+      "自由意志 个人主义 批判"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d4286fcc",
+    "resolved": false,
+    "createdAt": 1783909004695
+  },
+  {
+    "type": "suggestion",
+    "title": "数字时代的个体性社会建构",
+    "description": "布尔迪厄的理论诞生于前数字时代。当前Wiki中已关联至“数字身份”的待探讨问题极具现实意义。专门研究社交媒体人设、算法推荐、网红经济等如何成为新的“社会模型”来塑造个体独特性，将使经典理论与当代实践产生关键对话，极大增强Wiki的时效性与应用性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/别想生活有答案：改变生活的100个思维大冒险.md",
+    "affectedPages": [
+      "wiki/concepts/社会影响与个体表现.md",
+      "wiki/queries/个体独特性的根源是真实差异还是社会建构.md"
+    ],
+    "searchQueries": [
+      "数字身份 社会建构 布尔迪厄",
+      "社交媒体 个人品牌 惯习",
+      "算法塑造 个体 行为模式"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9e2fe85d",
+    "resolved": false,
+    "createdAt": 1783909004695
+  },
+  {
+    "type": "duplicate",
+    "title": "利润神话",
+    "description": "概念“利润神话”与现有wiki中“反脆弱”（[[sources/反脆弱：从不确定性中获益]]）的核心理念（如反脆弱性、拥抱波动）存在潜在交叉或对比。虽然角度不同（一个挑战利润目的论，一个讨论系统韧性），但值得检查是否需要明确关联或区分。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/基业长青（珍藏版）.md",
+    "affectedPages": [
+      "wiki/concepts/利润神话.md",
+      "wiki/concepts/反脆弱.md"
+    ],
+    "searchQueries": [
+      "利润目标 vs 反脆弱性",
+      "企业长期主义与短期主义平衡",
+      "柯林斯与塔勒布管理思想对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d4824b0c",
+    "resolved": true,
+    "createdAt": 1783909097467,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "duplicate",
+    "title": "核心理念与短期业绩压力如何调和",
+    "description": "查询“核心理念与短期业绩压力如何调和”与概念“务实的理想主义”高度相关，几乎是后者的实践困境具体化。可能不需要独立的查询页面，而应在“务实的理想主义”概念页面中作为实践挑战进行阐述。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/基业长青（珍藏版）.md",
+    "affectedPages": [
+      "wiki/queries/核心理念与短期业绩压力如何调和.md",
+      "wiki/concepts/务实的理想主义.md"
+    ],
+    "searchQueries": [
+      "企业价值观与股东压力冲突",
+      "长期战略与短期绩效管理",
+      "基业长青实践中的挑战"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b8b455d1",
+    "resolved": false,
+    "createdAt": 1783909097467
+  },
+  {
+    "type": "missing-page",
+    "title": "弗洛伊德（与阿德勒的对比）",
+    "description": "阿德勒的“目的论”是作为对弗洛伊德“原因论”的直接挑战而提出的。要真正理解《被讨厌的勇气》的核心主张及其激进性，一个清晰的、介绍西格蒙德·弗洛伊德及其核心观点（尤其是决定论、潜意识、童年创伤论）的页面是必不可少的背景。当前维基中缺失这一关键对比实体，导致阿德勒思想的“革命性”缺乏明确的参照系。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "affectedPages": [
+      "wiki/entities/阿尔弗雷德-阿德勒.md",
+      "wiki/concepts/目的论.md"
+    ],
+    "searchQueries": [
+      "西格蒙德·弗洛伊德 心理学思想 简介",
+      "弗洛伊德 原因论 决定论 vs 阿德勒 目的论",
+      "精神分析 vs 个体心理学 对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-21f153d6",
+    "resolved": true,
+    "createdAt": 1783909224309,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "自卑感与自卑情结",
+    "description": "源文档分析报告中提到阿德勒思想的“自卑与超越”是其核心要点之一，但生成的Wiki中并未创建独立的“自卑感”或“自卑情结”概念页面。这两个概念是理解阿德勒人格发展理论和“目的论”应用场景（如通过制造症状维持优越感）的关键，是连接其早期思想与《被讨厌的勇气》中后期思想的重要桥梁。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "affectedPages": [
+      "wiki/entities/阿尔弗雷德-阿德勒.md",
+      "wiki/concepts/目的论.md"
+    ],
+    "searchQueries": [
+      "阿德勒 自卑感 自卑情结 区别",
+      "Adler inferiority complex striving for superiority",
+      "自卑感 阿德勒心理学 核心概念"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-cd37c178",
+    "resolved": true,
+    "createdAt": 1783909224309,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "《被讨厌的勇气》中“勇气”的具体哲学内涵",
+    "description": "书名即核心——“勇气”。然而，当前的Wiki页面虽讨论了“被讨厌的勇气”（作为自由的代价），却未深入剖析“勇气”本身在阿德勒哲学中的独特定义。它如何区别于普通意义上的勇敢？它与“自我接纳”、“他者贡献”的实践关系是什么？对此进行专门梳理，能深化对全书实践哲学的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "affectedPages": [
+      "wiki/sources/被讨厌的勇气.md",
+      "wiki/concepts/他者贡献.md"
+    ],
+    "searchQueries": [
+      "阿德勒 勇气 哲学定义",
+      "被讨厌的勇气 书 勇气 含义",
+      "courage in Adlerian psychology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f85aab01",
+    "resolved": false,
+    "createdAt": 1783909224309
+  },
+  {
+    "type": "duplicate",
+    "title": "“古贺史健”实体页面的必要性",
+    "description": "当前已为《被讨厌的勇气》的合著者岸见一郎创建了独立实体页面。作为另一位合著者，作家古贺史健在本书的成书、对话结构设计以及思想普及中扮演了关键角色。考虑到维基中已收录多位作者（如房龙、麦家），为古贺史健创建页面以保持信息完整性和记录本书创作背景是合理的，尽管其思想贡献可能弱于岸见一郎。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+    "affectedPages": [
+      "wiki/entities/岸见一郎.md",
+      "wiki/sources/被讨厌的勇气.md"
+    ],
+    "searchQueries": [
+      "古贺史健 作家 简介",
+      "古贺史健 被讨厌的勇气 合作",
+      "Koga Fumitake writer"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f063761f",
+    "resolved": true,
+    "createdAt": 1783909224309,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "contradiction",
+    "title": "非暴力沟通与课题分离的理念张力",
+    "description": "Wiki 中同时存在强调深度联结的「非暴力沟通」与强调人际边界的「课题分离」。二者在处理亲密关系或高冲突情境时，可能指向不同的行为选择（如：是否应主动回应对方的情绪需求）。这种理论张力需要用户判断如何整合或应用。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/非暴力沟通.md",
+    "affectedPages": [
+      "wiki/concepts/非暴力沟通.md",
+      "wiki/concepts/课题分离.md"
+    ],
+    "searchQueries": [
+      "nonviolent communication versus separateness of tasks",
+      "亲密关系中的边界与联结",
+      "Adlerian psychology and NVC integration"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c8b25e85",
+    "resolved": false,
+    "createdAt": 1783909283016
+  },
+  {
+    "type": "suggestion",
+    "title": "毛姆作品中救赎主题的比较研究",
+    "description": "现有Wiki已收录《面纱》中关于救赎与精神成长的核心主题，以及[[sources/毛姆短篇小说精选集]]所体现的[[concepts/冷峻叙事]]。创建一个比较页面，系统分析《面纱》（长篇，展示完整的救赎弧光）与《刀锋》或其短篇集中特定故事（如《雨》）在探讨救赎、信仰、个体选择时的不同手法与思想侧重，能深化对毛姆创作全景与思想演进的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/面纱.md",
+    "affectedPages": [
+      "wiki/sources/面纱.md",
+      "wiki/sources/毛姆短篇小说精选集.md"
+    ],
+    "searchQueries": [
+      "毛姆 面纱 刀锋 救赎 比较",
+      "Somerset Maugham redemption theme comparison",
+      "毛姆 短篇小说 雨 救赎 分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5c1d0bed",
+    "resolved": false,
+    "createdAt": 1783909427409
+  },
+  {
+    "type": "suggestion",
+    "title": "“安宁”与“幸福”：概念辨析与跨文化比较",
+    "description": "小说结局中凯蒂寻求的是“安宁”（peace）而非“幸福”（happiness）。这一区分触及了小说的核心哲学思考，也与现代积极心理学、存在主义等关于美好生活（eudaimonia）的论述形成潜在对话。深入研究“安宁”在小说语境中的具体内涵，并与西方哲学传统中的“幸福”概念及东亚文化中的相关理念进行辨析，可以丰富对小说结尾及毛姆思想深度的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/面纱.md",
+    "affectedPages": [
+      "wiki/concepts/揭开生活的面纱.md",
+      "wiki/concepts/意义疗法.md"
+    ],
+    "searchQueries": [
+      "毛姆 面纱 安宁 幸福 区别",
+      "Peace vs happiness philosophy",
+      "东方哲学 安宁 内在平静"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-353673e3",
+    "resolved": false,
+    "createdAt": 1783909427409
+  },
+  {
+    "type": "missing-page",
+    "title": "修道院院长（《面纱》）",
+    "description": "在《面纱》中，湄潭府修道院的院长是向凯蒂阐述“道”的思想、并对其精神转变产生关键影响的人物。她代表了一种融合了信仰实践与深刻哲思的智慧形象。目前Wiki中已有[[concepts/文学中的道诠释]]，但作为这一核心思想的具体阐释者与载体，这位修道院院长本身值得作为一个独立实体进行记录和分析。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/面纱.md",
+    "affectedPages": [
+      "wiki/sources/面纱.md",
+      "wiki/concepts/文学中的道诠释.md"
+    ],
+    "searchQueries": [
+      "面纱 修道院院长 角色分析",
+      "面纱院长 道 解读",
+      "The nun superior The Painted Veil analysis"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-592af97c",
+    "resolved": true,
+    "createdAt": 1783909427409,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "相关哲学概念对比",
+    "description": "分析建议追踪昆德拉的“轻”与加缪的“荒诞”的异同。虽然已在查询页提出问题，但可能缺乏一个专门的比较页面来系统梳理两者在哲学谱系和文学表现上的关系。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md",
+    "affectedPages": [
+      "wiki/comparisons/kundera-light-vs-camus-absurd.md"
+    ],
+    "searchQueries": [
+      "Milan Kundera lightness vs Albert Camus absurdity comparison",
+      "存在主义文学 轻与荒诞",
+      "哲学概念对比 不能承受的生命之轻 局外人"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9a0a3050",
+    "resolved": false,
+    "createdAt": 1783909592400
+  },
+  {
+    "type": "missing-page",
+    "title": "形而上学批判",
+    "description": "讲义将尼采的“上帝死了”核心解读为对“形而上学”的批判，这是一个基础且影响深远的哲学概念与方法，但目前wiki中缺乏独立页面进行系统阐述（例如追溯其在康德、海德格尔等处的脉络）。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/刘擎西方现代思想讲义.md",
+    "affectedPages": [
+      "wiki/concepts/形而上学批判.md"
+    ],
+    "searchQueries": [
+      "形而上学批判 哲学概念",
+      "尼采对形而上学的批判",
+      "康德 海德格尔 形而上学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ab44a2a2",
+    "resolved": false,
+    "createdAt": 1783909883280
+  },
+  {
+    "type": "missing-page",
+    "title": "科学的边界",
+    "description": "讲义明确将“科学的边界”（科学无法回答“应然”与生命意义问题）作为韦伯分析的核心论点之一，这是一个重要的哲学命题，目前wiki中缺乏对应页面。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/刘擎西方现代思想讲义.md",
+    "affectedPages": [
+      "wiki/concepts/科学的边界.md"
+    ],
+    "searchQueries": [
+      "科学的边界 哲学",
+      "韦伯 科学价值判断",
+      "科学能否回答价值问题"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-434c437b",
+    "resolved": false,
+    "createdAt": 1783909883280
+  },
+  {
+    "type": "suggestion",
+    "title": "跨领域关联",
+    "description": "分析指出，本书提供的思想史框架可与现有wiki中的文学、社会学等作品进行关联（如韦伯的理性化/铁笼与《上瘾》设计；尼采的超人与《你当像鸟飞往你的山》中的解放）。值得在未来深入研究中探索这些跨领域的概念对话，可能产生新的综合分析页面。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/刘擎西方现代思想讲义.md",
+    "affectedPages": [
+      "wiki/synthesis/"
+    ],
+    "searchQueries": [
+      "韦伯铁笼 现代组织设计",
+      "尼采超人 个体解放教育",
+      "现代性困境 文学作品分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-24caa8cb",
+    "resolved": false,
+    "createdAt": 1783909883280
+  },
+  {
+    "type": "suggestion",
+    "title": "跨领域思想关联",
+    "description": "分析报告指出，本书提供的思想史框架（如韦伯的“理性化/铁笼”、尼采的“超人”）可与现有wiki中的文学、社会学等作品（如《上瘾》、《你当像鸟飞往你的山》）进行概念对话。探索这些跨领域的思想关联，可能催生富有洞见的综合分析。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/刘擎西方现代思想讲义.md",
+    "affectedPages": [
+      "wiki/synthesis/"
+    ],
+    "searchQueries": [
+      "韦伯铁笼 现代组织设计",
+      "尼采超人 个体解放教育",
+      "现代性困境 文学作品分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-91bf8647",
+    "resolved": false,
+    "createdAt": 1783909883280
+  },
+  {
+    "type": "suggestion",
+    "title": "女性主义的内部张力：弱者尊重与女性崛起的话语差异",
+    "description": "《从零开始的女性主义》中强调的“追求弱者也能得到尊重的思想”这一核心定义，与当下流行的强调“女性力量”、“女性崛起”的论述之间，存在何种理论或实践上的张力？澄清这一差异有助于厘清当代女性主义思潮的内部分歧与策略选择。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/从零开始的女性主义.md",
+    "affectedPages": [
+      "wiki/concepts/女性主义作为弱者尊重的思想.md",
+      "wiki/sources/从零开始的女性主义.md"
+    ],
+    "searchQueries": [
+      "女性主义 弱者尊重 女性崛起 话语差异",
+      "上野千鹤子 女性主义 哲学分歧",
+      "女性主义内部流派 比较研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8a64834a",
+    "resolved": false,
+    "createdAt": 1783909956939
+  },
+  {
+    "type": "missing-page",
+    "title": "斯蒂芬·P·罗宾斯",
+    "description": "斯蒂芬·P·罗宾斯是管理学大师，其管理者角色理论被《带队伍》引用。维基中缺乏其专用页面，无法整合相关管理理论知识。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/带队伍：不会带团队，你就只能干到死!.md",
+    "affectedPages": [
+      "wiki/concepts/管理者角色理论.md"
+    ],
+    "searchQueries": [
+      "Stephen P. Robbins 管理学大师",
+      "罗宾斯 管理者角色理论",
+      "斯蒂芬·罗宾斯 简介"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-264edc5a",
+    "resolved": true,
+    "createdAt": 1783910072530,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "赵伟管理见解与罗宾斯理论的对比研究",
+    "description": "赵伟在书中复述了罗宾斯等经典理论，但其本土化或个人化创新不明确。此研究有助于评估本书的原创性和实践价值。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/带队伍：不会带团队，你就只能干到死!.md",
+    "affectedPages": [
+      "wiki/sources/带队伍：不会带团队，你就只能干到死!.md",
+      "wiki/concepts/管理者角色理论.md"
+    ],
+    "searchQueries": [
+      "赵伟 带队伍 原创性",
+      "罗宾斯 理论 本土化 对比",
+      "管理书籍 理论复述 创新"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-54e672b9",
+    "resolved": false,
+    "createdAt": 1783910072530
+  },
+  {
+    "type": "missing-page",
+    "title": "过程管理",
+    "description": "过程管理是书中强调的核心管理哲学，认为好的过程能复制好结果。维基中缺乏此概念的独立页面，无法深入探讨过程与结果的关系。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/带队伍：不会带团队，你就只能干到死!.md",
+    "affectedPages": [
+      "wiki/sources/带队伍：不会带团队，你就只能干到死!.md"
+    ],
+    "searchQueries": [
+      "过程管理 定义",
+      "过程管理 与 结果管理",
+      "过程管理 团队管理"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5025709c",
+    "resolved": true,
+    "createdAt": 1783910072530,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "母职惩罚的实证基础与跨文化适用性",
+    "description": "新创建的\"母职惩罚\"概念页主要依赖文学叙事作为论据，但这是一个有丰富社会科学研究支撑的概念。补充实证文献（如Michelle Budig等学者的研究）会大幅提升该概念在wiki中的理论深度。此外，书中案例限于韩国社会，该概念在不同文化与政策环境下的适用性差异值得探究。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/82年生的金智英（再版｜同名电影原著）.md",
+    "affectedPages": [
+      "wiki/concepts/母职惩罚.md"
+    ],
+    "searchQueries": [
+      "motherhood penalty empirical research Michelle Budig",
+      "母职惩罚 跨文化研究 社会学",
+      "gender wage gap motherhood penalty cross-cultural"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0fb15fe4",
+    "resolved": false,
+    "createdAt": 1783910158501
+  },
+  {
+    "type": "suggestion",
+    "title": "金智英的精神崩溃与现有心理学框架的理论对话",
+    "description": "Wiki中已收录维克多·弗兰克尔的[[concepts/意义疗法]]和[[concepts/选择态度的自由]]，但新页面未建立这些理论与金智英经历之间的对话。核心张力在于：当个体的痛苦源于社会结构性压迫而非个体意义缺失时，\"选择态度的自由\"这一命题是否仍然成立？这一问题将性别研究与存在主义心理学连接起来，形成有价值的跨领域综合。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/82年生的金智英（再版｜同名电影原著）.md",
+    "affectedPages": [
+      "wiki/concepts/母职惩罚.md",
+      "wiki/entities/金智英.md",
+      "wiki/concepts/意义疗法.md"
+    ],
+    "searchQueries": [
+      "feminist critique of meaning therapy structural oppression",
+      "女性主义心理学 结构性压迫 意义疗法",
+      "gender oppression vs individual agency psychology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9a56fc75",
+    "resolved": false,
+    "createdAt": 1783910158501
+  },
+  {
+    "type": "suggestion",
+    "title": "\"理所当然\"期待与[[concepts/课题分离]]的理论张力",
+    "description": "Wiki已有[[concepts/课题分离]]（源自阿德勒），而新页面\"理所当然的期待\"描述的正是社会将女性的人生课题强行设定的状态。然而，该页面未与课题分离概念建立明确关联。核心问题：在结构性不平等面前，\"课题分离\"的个体化解决方案是否充分？这触及阿德勒哲学的潜在局限性，值得作为专题查询深入探讨。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/82年生的金智英（再版｜同名电影原著）.md",
+    "affectedPages": [
+      "wiki/concepts/理所当然的期待.md",
+      "wiki/concepts/课题分离.md"
+    ],
+    "searchQueries": [
+      "课题分离 结构性不平等 阿德勒 女性主义批判",
+      "Adler separation of tasks feminist critique",
+      "个体责任 社会结构 性别分工"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-289d70aa",
+    "resolved": false,
+    "createdAt": 1783910158501
+  },
+  {
+    "type": "missing-page",
+    "title": "弗雷德里克·巴克曼的其他代表作",
+    "description": "《焦虑的人》页面中提及了作者巴克曼的《一个叫欧维的男人决定去死》、《外婆的道歉信》、《熊镇》等作品，这些是理解其创作脉络和主题延续性的关键。为这些主要作品创建独立页面，可以系统性地展现作者的创作谱系，深化对其文学风格和人道主义关怀的整体理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/焦虑的人.md",
+    "affectedPages": [
+      "wiki/entities/弗雷德里克-巴克曼.md",
+      "wiki/sources/焦虑的人.md"
+    ],
+    "searchQueries": [
+      "弗雷德里克·巴克曼 一个叫欧维的男人决定去死 主题分析",
+      "Fredrik Backman novels themes comparison",
+      "巴克曼 治愈系文学 作品比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-077582f4",
+    "resolved": true,
+    "createdAt": 1783910238273,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "社会心理焦虑的跨学科比较",
+    "description": "当前创建的 `焦虑（社会心理现象）` 页面侧重于文学描述与社会学视角。此概念与临床心理学中的“焦虑障碍”、社会学中的“现代性焦虑”以及哲学（如存在主义）中的“焦虑”既有联系又有区别。进行一次系统的跨学科比较，将极大丰富该概念的深度，并厘清它在维基知识网络中的精确位置。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/焦虑的人.md",
+    "affectedPages": [
+      "wiki/concepts/焦虑（社会心理现象）.md",
+      "wiki/sources/焦虑的人.md"
+    ],
+    "searchQueries": [
+      "社会焦虑 临床焦虑 区别",
+      "现代性焦虑 社会学理论",
+      "文学中的焦虑 存在主义焦虑 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-158f8ea5",
+    "resolved": false,
+    "createdAt": 1783910238273
+  },
+  {
+    "type": "suggestion",
+    "title": "《焦虑的人》与阿德勒心理学的对话",
+    "description": "分析报告指出，书中人物处理焦虑与人际关系的方式，可能与《被讨厌的勇气》中的目的论、课题分离等阿德勒心理学概念形成对话。这是一个极具启发性的比较研究方向，能连接文学叙事与心理哲学理论，探讨虚构情节如何印证、挑战或补充关于自我接纳与人际边界的心理学思考。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/焦虑的人.md",
+    "affectedPages": [
+      "wiki/sources/焦虑的人.md",
+      "wiki/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+      "wiki/concepts/目的论.md",
+      "wiki/concepts/课题分离.md"
+    ],
+    "searchQueries": [
+      "焦虑的人 阿德勒 课题分离",
+      "小说 心理学 人际关系分析",
+      "Fredrik Backman Adlerian psychology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8f3099e0",
+    "resolved": false,
+    "createdAt": 1783910238273
+  },
+  {
+    "type": "suggestion",
+    "title": "荒原狼中的“娱乐”解决方案与严肃自省的张力",
+    "description": "分析指出，小说中通过“娱乐”（感官游戏、音乐）和[[魔术剧院]]的游戏化体验来达成[[自我认知与整合]]的路径，可能与严肃的自我剖析之间存在内在张力。这一张力在现有页面中未被充分探讨。值得创建一个独立的概念页面或深化[[concepts/魔术剧院]]页面来专门分析这种“游戏式救赎”的哲学含义及其与传统精神分析路径的对比。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/荒原狼.md",
+    "affectedPages": [
+      "wiki/concepts/魔术剧院.md"
+    ],
+    "searchQueries": [
+      "黑塞 荒原狼 魔术剧院 游戏 哲学",
+      "游戏化 自我认知 文学表现",
+      "荒原狼 娱乐 救赎 张力"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-da7bd9e0",
+    "resolved": false,
+    "createdAt": 1783910424549
+  },
+  {
+    "type": "missing-page",
+    "title": "女性主义的跨文体比较",
+    "description": "分析提到本书（非虚构书信）可与虚构文学（如《82年生的金智英》）对比，以观察不同文体对性别议题的呈现。目前Wiki中缺乏一个专门梳理“性别议题的跨文体表达”的概念页面。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/始于极限：女性主义往复书简.md",
+    "affectedPages": [
+      "wiki/concepts/性别议题的跨文体表达.md"
+    ],
+    "searchQueries": [
+      "女性主义文学 非虚构写作 比较分析",
+      "性别研究 文体形式 社会批判",
+      "当代女性写作 书信体 小说"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-bab495c0",
+    "resolved": false,
+    "createdAt": 1783910505326
+  },
+  {
+    "type": "missing-page",
+    "title": "足利女童连续失踪事件：后续发展与司法结局",
+    "description": "本书出版于2022年，而案件的侦查与审判持续多年。读者迫切想知道清水洁的质疑最终是否被采纳、被定罪者是否被改判、真凶是否另有其人，以及案件的整体司法结局。这一信息缺口直接影响对本书社会影响力和调查结论有效性的评估。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/足利女童连续失踪事件.md",
+    "affectedPages": [
+      "wiki/entities/足利女童连续失踪事件-受害者.md",
+      "wiki/concepts/司法公正与冤案风险.md"
+    ],
+    "searchQueries": [
+      "足利女童连续失踪事件 最新进展 判决",
+      "足利事件 DNA再鉴定 结果",
+      "足利事件 裁判 替田修 判决"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7617e12b",
+    "resolved": true,
+    "createdAt": 1783910642511,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "DNA型鉴定误判案例的跨系统比较",
+    "description": "现有概念页面 `dna型鉴定的科学性与局限性` 主要基于本书的日本案例。为深化该概念，可进行跨司法体系的比较研究，将本案与美国“无辜者计划”等已知的DNA误判案例进行对比。这将揭示技术局限是系统性问题，还是与特定时期的侦查规范、法庭科学标准更相关。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/足利女童连续失踪事件.md",
+    "affectedPages": [
+      "wiki/concepts/dna型鉴定的科学性与局限性.md",
+      "wiki/queries/技术证据在司法系统中应扮演何种角色.md"
+    ],
+    "searchQueries": [
+      "DNA鉴定 误判 案例 国际比较",
+      "无辜者计划 DNA误判 原因分析",
+      "法庭科学 证据标准 差异 各国"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8a895834",
+    "resolved": false,
+    "createdAt": 1783910642511
+  },
+  {
+    "type": "suggestion",
+    "title": "日本调查记者的生存空间：以清水洁为中心的考察",
+    "description": "清水洁的调查行动得以实现并产生影响，离不开特定的媒体环境与社会土壤。可进一步研究日本调查新闻业的制度环境、法律保障（如信息公开法）以及媒体与权力机构（特别是警察）之间的典型关系，这将为理解其行动的可能性与局限性提供更深层的背景。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/足利女童连续失踪事件.md",
+    "affectedPages": [
+      "wiki/concepts/调查记者的社会角色与媒体责任.md",
+      "wiki/entities/清水洁.md"
+    ],
+    "searchQueries": [
+      "日本 调查记者 制度环境 言论自由",
+      "日本 媒体 警察 取材协定",
+      "日本 新闻 法律保障 信息公开"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5e534ad7",
+    "resolved": false,
+    "createdAt": 1783910642511
+  },
+  {
+    "type": "suggestion",
+    "title": "追诉时效的伦理困境：以严重犯罪为例",
+    "description": "书中提到“即将超过追诉时效”是案件调查的重大阻碍。可就此概念展开专门研究，探讨追诉时效制度在不同法系（大陆法系与英美法系）中的设计逻辑，尤其是针对绑架、杀人等严重犯罪时，时效制度是否面临“正义与法安定性”的根本伦理张力。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/足利女童连续失踪事件.md",
+    "affectedPages": [
+      "wiki/concepts/司法公正与冤案风险.md",
+      "wiki/queries/技术证据在司法系统中应扮演何种角色.md"
+    ],
+    "searchQueries": [
+      "追诉时效 伦理 批判 暴力犯罪",
+      "刑事诉讼 时效制度 比较法",
+      "消灭时效 正义 法安定性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-2f0a002b",
+    "resolved": false,
+    "createdAt": 1783910642511
+  },
+  {
+    "type": "suggestion",
+    "title": "足利事件受害者家庭的抗争与创伤",
+    "description": "现有实体页面 `足利女童连续失踪事件-受害者` 侧重于案件事实列举。可扩展此页面或新建子页面，专门记录受害者家庭在案件发生后的经历、他们与司法系统的互动、对媒体的诉求，以及长期的创伤与抗争。这能更完整地呈现事件的人文影响，并呼应清水洁“倾听痛苦中的声音”的呼吁。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/足利女童连续失踪事件.md",
+    "affectedPages": [
+      "wiki/entities/足利女童连续失踪事件-受害者.md",
+      "wiki/concepts/调查记者的社会角色与媒体责任.md"
+    ],
+    "searchQueries": [
+      "足利事件 被害者 家族 陈情",
+      "犯罪被害者 支援 日本",
+      "刑事事件 遗族 诉求 媒体"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9d7e3079",
+    "resolved": false,
+    "createdAt": 1783910642511
+  },
+  {
+    "type": "missing-page",
+    "title": "存在主义核心哲学家页面缺失",
+    "description": "在比较页面 `[[comparisons/应对荒诞的哲学路径]]` 中引用的索伦·克尔凯郭尔、让-保罗·萨特和马丁·海德格尔均为存在主义哲学的核心人物，但他们的个人实体页面在当前wiki索引中缺失。为理解加缪思想的独特性及其与同代哲学家的对话关系，需要为其创建页面，梳理其核心思想（如“信仰飞跃”、“自由选择”、“向死而生”）并建立与加缪“反抗”哲学的关联。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/西西弗神话.md",
+    "affectedPages": [
+      "wiki/comparisons/应对荒诞的哲学路径.md",
+      "wiki/concepts/反抗（加缪哲学）.md",
+      "wiki/concepts/哲学自杀.md"
+    ],
+    "searchQueries": [
+      "索伦·克尔凯郭尔 哲学思想",
+      "让-保罗·萨特 存在主义 核心观点",
+      "马丁·海德格尔 存在与时间 哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b393794c",
+    "resolved": false,
+    "createdAt": 1783910740511
+  },
+  {
+    "type": "missing-page",
+    "title": "哈贝马斯 (Jürgen Habermas)",
+    "description": "在讨论现代性、理性与公共领域时，尤尔根·哈贝马斯是当代最重要的思想家之一。他的“交往理性”、“公共领域”和“商谈伦理”等理论，是分析刘擎所关注的现代性困境（如祛魅后的意义重建、价值多元下的共识形成）的关键补充，也是理解当代社会批判理论的核心。其思想与本书中韦伯、福山等人的理论形成直接对话与拓展。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/做一个清醒的现代人.md",
+    "affectedPages": [
+      "wiki/entities/weber.md",
+      "wiki/concepts/disenchantment.md"
+    ],
+    "searchQueries": [
+      "Jürgen Habermas 公共领域 交往理性",
+      "哈贝马斯 现代性 理论",
+      "哈贝马斯 商谈伦理 概述"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9daf2bf3",
+    "resolved": false,
+    "createdAt": 1783910849431
+  },
+  {
+    "type": "suggestion",
+    "title": "小说对“祛魅”与理性化进程的批判性对话",
+    "description": "Wiki 查询页已探讨内在道德与外部制度的关系，但未明确链接至韦伯的 [[祛魅]] 或 [[非人格化]] 概念。小说中“有牙齿的”、前现代的内在道德感，与韦伯所描述的、依靠规则与程序的理性社会，构成直接的文学批判与张力。建立此链接将深化 Wiki 中对现代社会运行机制的讨论。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/失明症漫记（罗翔推荐）.md",
+    "affectedPages": [
+      "wiki/concepts/祛魅.md",
+      "wiki/concepts/非人格化.md",
+      "wiki/queries/极端社会失序状态下内在道德情感与外部制度规则何者更能维系人性.md"
+    ],
+    "searchQueries": [
+      "韦伯 祛魅 与萨拉马戈 失明症漫记 理性化 批判",
+      "萨拉马戈 社会批判 现代性 理性",
+      "失明症漫记 道德 情感 vs 规则 理性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-733867dd",
+    "resolved": false,
+    "createdAt": 1783910933839
+  },
+  {
+    "type": "missing-page",
+    "title": "萨拉马戈的诺贝尔奖与核心文学思想",
+    "description": "为 [[entities/若泽-萨拉马戈]] 创建独立页面，并详述其诺贝尔文学奖获奖理由（“用寓言、想象力和同情心，不断揭示我们赖以生存的虚幻现实”）。这将为其作品（包括《失明症漫记》）提供关键的权威性背景，超越单一作品的分析，并可能关联至其其他作品如《修道院纪事》。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/失明症漫记（罗翔推荐）.md",
+    "affectedPages": [
+      "wiki/entities/若泽-萨拉马戈.md"
+    ],
+    "searchQueries": [
+      "若泽·萨拉马戈 诺贝尔文学奖 获奖演说 核心思想",
+      "Jose Saramago Nobel Prize speech themes",
+      "萨拉马戈 寓言 虚幻现实 修道院纪事"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-44616e21",
+    "resolved": true,
+    "createdAt": 1783910933839,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "罗翔推荐的文化影响力分析",
+    "description": "Wiki 仅将罗翔列为推荐者。但作为中国极具影响力的法学教授与公共知识分子，其推荐行为本身是一个值得分析的**文化事件**。可探讨：1) 他为何推荐此书（与法治、人性关怀的关联）；2) 此推荐如何影响该书在中国读者（尤其是青年与学生群体）中的接受度；3) 这反映了怎样的知识传播与公共讨论生态。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/失明症漫记（罗翔推荐）.md",
+    "affectedPages": [
+      "wiki/entities/罗翔.md"
+    ],
+    "searchQueries": [
+      "罗翔 推荐书单 失明症漫记 影响",
+      "罗翔 人文阅读 法治精神 书籍推荐",
+      "知识分子 推荐 文化影响力 分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7d06805c",
+    "resolved": false,
+    "createdAt": 1783910933839
+  },
+  {
+    "type": "suggestion",
+    "title": "“希望”概念在小说中的角色与其他哲学论述的关联",
+    "description": "Wiki 索引中已有 [[concepts/希望作为易受骗性的根源]]（源自《哲学的故事》）。《失明症漫记》中，希望（如对失明症治愈的渴望、对秩序恢复的期待）是驱动角色行动、同时也可能导致幻灭与剥削的核心动力。此概念可与小说进行对话，探讨希望在极端情境下的双重性（驱动力 vs 脆弱性），并链接至更广泛的哲学与文学讨论。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/失明症漫记（罗翔推荐）.md",
+    "affectedPages": [
+      "wiki/concepts/希望作为易受骗性的根源.md",
+      "wiki/sources/失明症漫记.md"
+    ],
+    "searchQueries": [
+      "希望 哲学 文学 失明症漫记 萨拉马戈",
+      "hope philosophy literature disillusionment",
+      "希望的双重性 极端情境 人性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1c7cdd91",
+    "resolved": false,
+    "createdAt": 1783910933839
+  },
+  {
+    "type": "suggestion",
+    "title": "与“社会契约论”思想的系统性比较",
+    "description": "查询页提到了社会契约，但未系统关联至霍布斯、卢梭等经典社会契约论者。《失明症漫记》实质上是一个极端化的“社会契约瓦解”思想实验。可创建比较页面，分析小说描绘的失序状态与霍布斯“自然状态”、卢梭“文明堕落”论点的异同，以及内疚作为道德感是否构成一种前契约或超契约的纽带。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/失明症漫记（罗翔推荐）.md",
+    "affectedPages": [
+      "wiki/queries/极端社会失序状态下内在道德情感与外部制度规则何者更能维系人性.md"
+    ],
+    "searchQueries": [
+      "萨拉马戈 失明症漫记 社会契约 霍布斯 自然状态",
+      "社会契约论 文学 小说 比较",
+      "Rousseau state of nature civilization Saramago Blindness"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b83308bf",
+    "resolved": false,
+    "createdAt": 1783910933839
+  },
+  {
+    "type": "missing-page",
+    "title": "破坏欲（弗洛姆理论）",
+    "description": "破坏欲是弗洛姆提出的三种核心“逃避机制”之一，指个体通过毁灭外部世界或他人来消除个人无力感的冲动。目前该概念仅在“逃避机制”概念页中简要提及，缺乏一个独立的页面来系统阐述其心理动力学（如与生命激情、焦虑的关系）、社会表现形式（如仇恨、战争狂热）及其与权威主义、机械趋同的复杂关联。深入探讨此概念有助于更完整地理解弗洛姆对极权主义群众心理的剖析。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/逃避自由（弗洛姆作品系列）.md",
+    "affectedPages": [
+      "wiki/concepts/逃避机制.md",
+      "wiki/concepts/权威主义.md",
+      "wiki/concepts/机械趋同.md"
+    ],
+    "searchQueries": [
+      "弗洛姆 破坏欲 心理机制",
+      "破坏欲 社会表现",
+      "破坏欲 逃避机制"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-51caa981",
+    "resolved": false,
+    "createdAt": 1783911153637
+  },
+  {
+    "type": "missing-page",
+    "title": "纳粹主义",
+    "description": "作为《逃避自由》分析的核心历史案例，纳粹主义是极权主义的典型形态。当前维基可能缺乏对这一重要历史现象的独立实体页面，无法系统梳理其政治结构、意识形态、组织形式及广泛的社会基础。创建此页面能与弗洛姆的心理学分析（权威主义性格）形成直接对话，并为理解其他极端主义现象提供历史参照。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/逃避自由（弗洛姆作品系列）.md",
+    "affectedPages": [
+      "wiki/sources/逃避自由（弗洛姆作品系列）.md",
+      "wiki/entities/艾里希-弗洛姆.md",
+      "wiki/concepts/权威主义.md"
+    ],
+    "searchQueries": [
+      "纳粹主义 社会心理根源",
+      "纳粹主义 群众心理学",
+      "弗洛姆 纳粹主义 分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-931cfa95",
+    "resolved": true,
+    "createdAt": 1783911153637,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "弗洛姆与韦伯关于现代性困境的对话",
+    "description": "弗洛姆的“逃避机制”与“匿名权威”理论，与马克斯·韦伯的“祛魅”概念在解释现代社会权威失落、个体异化方面高度相关但视角不同（社会学 vs. 社会心理学）。创建一个比较研究页面，系统梳理两者理论的共鸣、差异与互补性，有助于整合对现代性危机的多学科理解，并丰富“祛魅”概念页的内涵。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/逃避自由（弗洛姆作品系列）.md",
+    "affectedPages": [
+      "wiki/concepts/祛魅.md",
+      "wiki/concepts/逃避机制.md",
+      "wiki/concepts/匿名权威.md"
+    ],
+    "searchQueries": [
+      "弗洛姆 韦伯 现代性",
+      "逃避自由 祛魅 比较",
+      "匿名权威 权威失落"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9563310a",
+    "resolved": false,
+    "createdAt": 1783911153637
+  },
+  {
+    "type": "suggestion",
+    "title": "平静的悲伤与直接抒情的比较分析",
+    "description": "《滔滔生活》中的“平静的悲伤”风格被识别为核心特色，但维基中尚未将其与其他主要文学叙事风格（如直接抒情、客观写实、意识流）进行系统性比较。研究这种“以克制写深刻”的风格与其他表现手法在情感传递、读者接受和社会批判效果上的异同，能深化对金爱烂文学价值的理解，并为维基的文学手法库提供更细致的分类。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/滔滔生活.md",
+    "affectedPages": [
+      "wiki/concepts/平静的悲伤.md",
+      "wiki/sources/滔滔生活.md"
+    ],
+    "searchQueries": [
+      "平静的悲伤 文学风格 比较",
+      "叙事克制 情感表达",
+      "金爱烂 写作手法 分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ceacdcea",
+    "resolved": false,
+    "createdAt": 1783911403980
+  },
+  {
+    "type": "suggestion",
+    "title": "普通标准的社会学关联",
+    "description": "概念“普通标准”被提出作为理解人物心理的关键，但它目前仅限于文学语境。将其与社会学（如布尔迪厄的“惯习”与“区隔”理论）或消费心理学中的相关概念进行关联研究，能揭示这种“通过微小消费获得尊严感”的行为在更广阔理论框架下的意义，从而提升该概念的学术价值和跨领域解释力。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/滔滔生活.md",
+    "affectedPages": [
+      "wiki/concepts/普通标准.md",
+      "wiki/concepts/物质匮乏.md"
+    ],
+    "searchQueries": [
+      "普通标准 消费心理学 社会认同",
+      "微小消费 尊严感",
+      "布尔迪厄 惯习 底层消费"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9aec5085",
+    "resolved": false,
+    "createdAt": 1783911403980
+  },
+  {
+    "type": "suggestion",
+    "title": "韩国都市文学的“微物叙事”传统",
+    "description": "《滔滔生活》被定位为韩国当代文学的重要补充，但其作为个案的价值有限。系统性地研究韩国近二十年来都市题材小说（如申京淑、孔枝泳、赵南柱等作品）中共同的“微物叙事”倾向（即通过日常物品和琐碎细节折射社会变迁与个体命运），能将《滔滔生活》置于一个更广阔的文学流派脉络中进行比较，极大丰富维基对“当代东亚城市叙事”这一主题的探讨。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/滔滔生活.md",
+    "affectedPages": [
+      "wiki/sources/滔滔生活.md",
+      "wiki/entities/金爱烂.md",
+      "wiki/sources/82年生的金智英（再版｜同名电影原著）.md"
+    ],
+    "searchQueries": [
+      "韩国当代文学 都市小说 微物叙事",
+      "金爱烂 申京淑 比较",
+      "物质文化 文学表征 韩国"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b30251da",
+    "resolved": false,
+    "createdAt": 1783911403981
+  },
+  {
+    "type": "suggestion",
+    "title": "韩炳哲对“免疫学范式”的批判",
+    "description": "韩炳哲在书中明确质疑了以埃斯波西托为代表的、将当代社会问题归因于“他者”威胁的“免疫学”分析框架，认为该范式未能捕捉到功绩社会内部“过量的肯定性”这一新病理。这是一个重要的理论争议点。深入研究此批判，并与当代其他社会理论（如风险社会理论）中的免疫隐喻使用进行对比，将能深化对韩炳哲理论独特性的认识。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/倦怠社会.md",
+    "affectedPages": [
+      "wiki/concepts/功绩社会.md",
+      "wiki/entities/韩炳哲.md"
+    ],
+    "searchQueries": [
+      "免疫学范式 社会批判 批判",
+      "韩炳哲 埃斯波西托 免疫学",
+      "韩炳哲 免疫学 肯定性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-75b7c0fc",
+    "resolved": false,
+    "createdAt": 1783911544189
+  },
+  {
+    "type": "suggestion",
+    "title": "韩炳哲与法兰克福学派理论对话",
+    "description": "韩炳哲的功绩社会批判与法兰克福学派（如霍克海默、阿多诺对“工具理性”的批判，马尔库塞对“单向度的人”的分析）在问题意识上具有深刻的延续性与可比性。当前维基中尚未系统建立这种关联。开展一项对比研究，探讨韩炳哲理论是补充、深化还是修正了法兰克福学派的经典社会批判，将极大地丰富“清醒的现代人”这一项目的理论深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/倦怠社会.md",
+    "affectedPages": [
+      "wiki/concepts/清醒的现代人.md",
+      "wiki/concepts/祛魅.md"
+    ],
+    "searchQueries": [
+      "韩炳哲 法兰克福学派 比较",
+      "工具理性 批判 功绩社会",
+      "单向度的人 韩炳哲"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-19621c54",
+    "resolved": false,
+    "createdAt": 1783911544189
+  },
+  {
+    "type": "missing-page",
+    "title": "阅读疗法",
+    "description": "小说中“通过阅读与倾听实现疗愈”的核心机制与现实中的“阅读疗法”（Bibliotherapy）高度相关，但Wiki中缺乏对这一广泛概念的专门介绍。建立此页面能连接文学虚构与真实心理干预方法，深化对阅读社会价值的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生借阅室（打开一种人生）.md",
+    "affectedPages": [
+      "wiki/concepts/通过阅读与倾听实现疗愈.md"
+    ],
+    "searchQueries": [
+      "阅读疗法 定义与实践",
+      "bibliographyotherapy 心理健康",
+      "文学治疗 效果研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bf2bb665",
+    "resolved": false,
+    "createdAt": 1783911751303
+  },
+  {
+    "type": "suggestion",
+    "title": "治愈系文学对读者心理与行为的影响机制",
+    "description": "分析中提及治愈小说可能简化或理想化现实，但未深入探讨其实际影响。提出一个研究问题，系统比较小说中理想化的阅读疗愈与现实中“阅读疗法”的异同，可评估此类文学的社会效应与潜在局限性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生借阅室（打开一种人生）.md",
+    "affectedPages": [
+      "wiki/sources/人生借阅室（打开一种人生）.md",
+      "wiki/concepts/治愈小说.md"
+    ],
+    "searchQueries": [
+      "治愈小说 读者心理影响",
+      "healing literature behavioral change",
+      "阅读疗法 实证效果对比"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b31cae5e",
+    "resolved": false,
+    "createdAt": 1783911751303
+  },
+  {
+    "type": "missing-page",
+    "title": "伊莱恩·阿伦",
+    "description": "伊莱恩·阿伦是“高敏感者”概念的奠基性研究者，其理论是本书的核心基础。当前wiki仅在概念页提及她的名字和研究，但缺少一个专门介绍其背景、核心研究发现及学术贡献的实体页，这使得高敏感特质的理论源头不够清晰。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/停止想太多：写给高敏者的职场突破指南.md",
+    "affectedPages": [
+      "wiki/concepts/高敏感者特质.md",
+      "wiki/sources/停止想太多：写给高敏者的职场突破指南.md"
+    ],
+    "searchQueries": [
+      "Elaine Aron Highly Sensitive Person research",
+      "伊莱恩·阿伦 高敏感者 研究",
+      "HSP理论创始人"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-7cd6b021",
+    "resolved": true,
+    "createdAt": 1783911965729,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "高敏感员工的组织支持策略",
+    "description": "本书主要从个人视角提出管理高敏感特质的策略。查询页中的开放问题提到了“组织如何调整管理方式和文化”，这是一个重要的实践延伸。创建一个专门的研究查询，探讨组织层面的支持策略（如包容性文化、沟通方式调整、工作设计），能将个人成长视角与组织行为学视角连接起来，使知识体系更完整。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/停止想太多：写给高敏者的职场突破指南.md",
+    "affectedPages": [
+      "wiki/queries/如何将高敏感特质转化为职场优势.md",
+      "wiki/concepts/高敏感者特质.md"
+    ],
+    "searchQueries": [
+      "managing highly sensitive employees in workplace",
+      "高敏感员工 团队管理 组织支持",
+      "inclusive workplace for introverts HSP"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-39553fe2",
+    "resolved": false,
+    "createdAt": 1783911965729
+  },
+  {
+    "type": "suggestion",
+    "title": "黑塞《德米安》与Wiki“现代精神成长”议题的综合研究",
+    "description": "《德米安：彷徨少年时》通过文学隐喻深刻探讨了个体成长中的内在冲突、反叛与自我实现，为Wiki中已有的“教育作为解放”、“积极自由”、“家庭创伤与记忆重构”以及“如何做一个清醒的现代人”等抽象哲学与社会学概念，提供了一个具体、充满象征力量的文学案例。当前这些概念页面与《德米安》来源页面之间仅是简单链接，缺乏系统性的综合分析。一项深入的研究可以梳理并阐明：小说中的核心隐喻（如两个世界、鸟儿破壳）如何具体映射和深化这些现代性议题，从而将文学洞察与哲学、社会学讨论有机融合，构建一个更立体的“现代人精神成长”知识框架。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/德米安：彷徨少年时（黑塞精选集）.md",
+    "affectedPages": [
+      "wiki/sources/德米安：彷徨少年时（黑塞精选集）.md",
+      "wiki/concepts/两个世界-德米安.md",
+      "wiki/concepts/鸟儿破壳-自我实现.md",
+      "wiki/concepts/教育作为解放.md",
+      "wiki/concepts/积极自由.md",
+      "wiki/queries/如何做一个清醒的现代人.md"
+    ],
+    "searchQueries": [
+      "黑塞 德米安 现代人 精神成长",
+      "文学中的自我实现与社会规训",
+      "德米安 意义疗法 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-31657dd9",
+    "resolved": false,
+    "createdAt": 1783912391453
+  },
+  {
+    "type": "missing-page",
+    "title": "爱作为心智成熟的要素",
+    "description": "《少有人走的路：心智成熟的旅程》中，“爱”被派克定义为“为了促进自己和他人心智成熟，而不断拓展自我界限、实现自我完善的意愿”，是与“自律”并列的、实现心智成熟的核心动力与途径。当前Wiki索引中已有“自律”、“承担责任”等派生概念，但“爱”这一更根本、更具建设性的基石概念却未被创建独立页面，导致对本书完整理论体系的呈现存在核心缺口。创建此页将极大强化个人成长主题的理论深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/少有人走的路：心智成熟的旅程.md",
+    "affectedPages": [
+      "wiki/sources/少有人走的路-心智成熟的旅程.md",
+      "wiki/concepts/逃避自由.md"
+    ],
+    "searchQueries": [
+      "M.斯科特·派克 爱的定义 心智成熟",
+      "《少有人走的路》爱与自律",
+      "Peck love and self-discipline"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b41a0f87",
+    "resolved": true,
+    "createdAt": 1783912802990,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "认知觉醒模型的实证基础与适用边界是什么",
+    "description": "《认知觉醒》的核心模型（三重大脑、焦虑公式）作为广受欢迎的通俗框架，其与严谨心理学/神经科学理论的关联性及实际应用的边界尚未在Wiki中得到系统性探讨。明确这一点对评估该模型的科学地位和指导实践至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/认知觉醒：开启自我改变的原动力.md",
+    "affectedPages": [
+      "wiki/queries/认知觉醒模型的实证基础与适用边界是什么.md",
+      "wiki/sources/认知觉醒：开启自我改变的原动力.md",
+      "wiki/concepts/倦怠社会.md"
+    ],
+    "searchQueries": [
+      "三重大脑模型 神经科学",
+      "焦虑公式 欲望能力差距 心理学量表",
+      "认知觉醒 正念 认知行为疗法 区别"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ad27523a",
+    "resolved": false,
+    "createdAt": 1783912945429
+  },
+  {
+    "type": "missing-page",
+    "title": "罗尔斯“正义是社会制度的首要美德”概念",
+    "description": "分析中提到此政治哲学理念是书中分析不同社会问题取向的重要工具。建议创建独立的概念页面，以系统阐释罗尔斯的正义论核心观点及其在当代社会问题分析中的应用。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你永远都无法叫醒一个装睡的人.md",
+    "affectedPages": [
+      "wiki/concepts/正义是社会制度的首要美德.md"
+    ],
+    "searchQueries": [
+      "John Rawls first principle of justice",
+      "Rawlsian justice as the first virtue of social institutions",
+      "罗尔斯 正义论 第一原则"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e9412656",
+    "resolved": false,
+    "createdAt": 1783913086075
+  },
+  {
+    "type": "suggestion",
+    "title": "扩展“通过对话能否达成真理共识”查询",
+    "description": "书中直接提出了“民主社会的人民可以通过相互说理达到对真理的认知吗？”这一问题。这是一个极具探讨价值的哲学与政治学议题，值得创建为独立的查询页面，并链接本书、相关政治哲学概念（如哈贝马斯的交往理性）以及对现实对话困境的讨论。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你永远都无法叫醒一个装睡的人.md",
+    "affectedPages": [
+      "wiki/queries/通过对话能否达成真理共识.md"
+    ],
+    "searchQueries": [
+      "can democratic deliberation lead to truth consensus",
+      "Habermas discourse theory public reason",
+      "对话 真理 共识 政治哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-06c8c161",
+    "resolved": false,
+    "createdAt": 1783913086075
+  },
+  {
+    "type": "missing-page",
+    "title": "罗尔斯实体页面",
+    "description": "周濂在《你永远都无法叫醒一个装睡的人》中引用并应用了罗尔斯（John Rawls）的政治哲学观点，特别是“正义是社会制度的首要美德”。目前Wiki中尚未为罗尔斯创建专门的实体页面，这阻碍了系统性地探讨其正义理论及其在不同语境下的应用与批判。创建此页面对于深化Wiki中政治哲学部分的讨论至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你永远都无法叫醒一个装睡的人.md",
+    "affectedPages": [
+      "wiki/entities/罗尔斯.md"
+    ],
+    "searchQueries": [
+      "John Rawls philosopher",
+      "John Rawls theory of justice",
+      "罗尔斯 正义论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f171cf73",
+    "resolved": false,
+    "createdAt": 1783913086075
+  },
+  {
+    "type": "suggestion",
+    "title": "深化“通过对话能否达成真理共识”查询",
+    "description": "书中明确提出“民主社会的人民可以通过相互说理达到对真理的认知吗？”这一核心问题。目前Wiki中尚未有对此问题进行系统性探讨的查询页面。创建一个专门页面，链接周濂的论述、哈贝马斯（Habermas）的交往理性理论、以及当代审议民主理论与现实困境的讨论，将极大地丰富Wiki在政治哲学与公共理性领域的知识结构。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你永远都无法叫醒一个装睡的人.md",
+    "affectedPages": [
+      "wiki/queries/通过对话能否达成真理共识.md"
+    ],
+    "searchQueries": [
+      "Deliberative democracy and truth",
+      "Habermas discourse ethics truth",
+      "审议民主 真理 共识"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a037d918",
+    "resolved": false,
+    "createdAt": 1783913086075
+  },
+  {
+    "type": "suggestion",
+    "title": "《芙蓉镇》电影改编的主题变迁与艺术评价",
+    "description": "小说《芙蓉镇》的同名电影（1987，谢晋导演）是其文化影响力的重要延伸，获得了金鸡奖、百花奖最佳故事片，并在柏林电影节获得银熊奖。当前Wiki仅记录了文学原著，完全缺失对电影改编的分析。研究电影如何在视觉媒介中再现并可能重构小说的政治批判与风俗画卷，对于理解作品在不同时期的接受史和影响力至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md",
+    "affectedPages": [
+      "wiki/sources/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md",
+      "wiki/concepts/对历史进程的批判性反思.md"
+    ],
+    "searchQueries": [
+      "芙蓉镇 电影 改编 分析",
+      "谢晋 芙蓉镇 艺术特色",
+      "茅盾文学奖 电影改编 比较研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-02fb4e8c",
+    "resolved": false,
+    "createdAt": 1783913182926
+  },
+  {
+    "type": "missing-page",
+    "title": "金惟纯的媒体人背景",
+    "description": "金惟纯是台湾知名媒体人，曾任《中国时报》主笔、创办《商业周刊》，其传媒行业背景与创业经历是理解他人生智慧的重要语境。当前页面仅聚焦于本书中的父亲角色，缺少其作为媒体企业家的职业身份，这限制了对他\"与时间和解\"等观点来源的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生总会有答案.md",
+    "affectedPages": [
+      "wiki/entities/金惟纯.md"
+    ],
+    "searchQueries": [
+      "金惟纯 商业周刊 创办人",
+      "金惟纯 中国时报 媒体人",
+      "金惟纯 台湾 经历"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-540aa260",
+    "resolved": false,
+    "createdAt": 1783913349070
+  },
+  {
+    "type": "suggestion",
+    "title": "家书体裁的跨作品比较：家书与往复书简",
+    "description": "《人生总会有答案》采用家书体，与维基中已收录的《始于极限：女性主义往复书简》同属书信体非虚构作品，且都涉及代际对话。两者形式相似但主题迥异——前者偏向普适人生智慧，后者聚焦性别议题辩论。对\"书信体作为代际沟通媒介\"进行跨作品比较，有助于深化对这一独特文体功能的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生总会有答案.md",
+    "affectedPages": [
+      "wiki/sources/人生总会有答案.md",
+      "wiki/sources/始于极限：女性主义往复书简.md"
+    ],
+    "searchQueries": [
+      "书信体非虚构作品 代际对话",
+      "家书文体 文学价值",
+      "epistolary nonfiction intergenerational"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-40993be2",
+    "resolved": false,
+    "createdAt": 1783913349070
+  },
+  {
+    "type": "contradiction",
+    "title": "修习欢喜心与深度无聊的哲学张力",
+    "description": "金惟纯提出\"修习欢喜心\"——主动培养快乐的能力；韩炳哲在《倦怠社会》中则推崇\"深度无聊\"与\"消极的能力\"，警惕过度积极性。两者之间存在潜在张力：主动\"修习\"快乐是否可能沦为另一种积极性暴政？在\"功绩社会\"批判语境下，\"欢喜心\"的修炼与\"深度无聊\"的接纳如何调和？这一矛盾值得进一步探讨。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生总会有答案.md",
+    "affectedPages": [
+      "wiki/concepts/修习欢喜心.md",
+      "wiki/concepts/深度无聊.md"
+    ],
+    "searchQueries": [
+      "积极心理学批评 暴政 of happiness",
+      "韩炳哲 深度无聊 消极能力",
+      "正念修习 功绩社会 矛盾"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-face366b",
+    "resolved": false,
+    "createdAt": 1783913349070
+  },
+  {
+    "type": "missing-page",
+    "title": "补充“清代”实体页面",
+    "description": "现有分析中识别出“清”作为核心分析对象，但尚未创建其独立的实体页面。此页面可系统介绍清代的统治特征、制度变迁及其在钱穆历史评价中的定位，是理解《中国历代政治得失》的重要支撑。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国历代政治得失.md",
+    "affectedPages": [
+      "wiki/entities/清.md"
+    ],
+    "searchQueries": [
+      "清朝政治制度 部族政权 钱穆评价",
+      "满清统治特点 行政制度",
+      "晚清专制皇权 皇权与相权"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-67c62a60",
+    "resolved": false,
+    "createdAt": 1783913514492
+  },
+  {
+    "type": "missing-page",
+    "title": "补充“明”实体页面",
+    "description": "《中国历代政治得失》的分析将明代作为与清代进行对比的关键基准，但当前wiki中缺乏对明代政治制度特征的专门论述。创建此页面有助于理解钱穆的历史比较框架，并完善从唐宋“读书人政府”到清代“部族政权”的演变脉络。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国历代政治得失.md",
+    "affectedPages": [
+      "wiki/entities/明.md",
+      "wiki/sources/中国历代政治得失.md"
+    ],
+    "searchQueries": [
+      "明朝政治制度 钱穆 中国历代政治得失",
+      "明太祖废丞相 内阁制度演变",
+      "皇权与相权关系 明代清代比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0d9a3ae0",
+    "resolved": true,
+    "createdAt": 1783913514492,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "明清两代对外关系模式的核心差异",
+    "description": "在Wiki中已初步关联了[[concepts/部族政权]]与[[concepts/宗藩关系]]，但缺乏对这两种不同政治形态在对外关系处理上的直接、系统性比较。明朝作为典型的汉人“读书人政府”，其基于册封、赐名的宗藩体系逻辑，与元、清等“部族政权”的多元、务实甚至军事联盟式对外策略有何本质区别？这一比较能深化理解中国历史上不同政权类型的行为逻辑。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/明朝那些事儿·全集（2021年 增补版）.md",
+    "affectedPages": [
+      "wiki/concepts/部族政权.md",
+      "wiki/concepts/宗藩关系.md",
+      "wiki/entities/朱元璋.md"
+    ],
+    "searchQueries": [
+      "明朝与清朝对外关系模式比较",
+      "部族政权与宗藩体系差异",
+      "明代册封体制与清代藩属国政策"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-99a5df75",
+    "resolved": false,
+    "createdAt": 1783913584773
+  },
+  {
+    "type": "suggestion",
+    "title": "“命名权”概念的历时性考察",
+    "description": "当前[[concepts/命名权]]页面仅以朱元璋赐名朝鲜为单一案例。此象征性权力是否在明朝中后期延续？清朝等后续王朝是否保留或转换了类似权力形式？需要将其置于更长的历史脉络中考察，以判断其是偶然事件还是体系性特征。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/明朝那些事儿·全集（2021年 增补版）.md",
+    "affectedPages": [
+      "wiki/concepts/命名权.md",
+      "wiki/sources/明朝那些事儿·全集（2021年 增补版）.md"
+    ],
+    "searchQueries": [
+      "明朝赐名藩属国",
+      "清朝册封礼",
+      "中国古代王朝对外赐名历史"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5839fb47",
+    "resolved": false,
+    "createdAt": 1783913584773
+  },
+  {
+    "type": "suggestion",
+    "title": "宗藩关系与差序格局的理论关联",
+    "description": "[[concepts/宗藩关系]]页面可进一步与[[concepts/差序格局]]进行理论对话。宗藩体系可视为费孝通所描述的“差序格局”在国际秩序层面的投射，即以中国为中心、按亲疏远近排列的同心圆式等级体系。探讨这一理论关联能提升概念的解释深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/明朝那些事儿·全集（2021年 增补版）.md",
+    "affectedPages": [
+      "wiki/concepts/宗藩关系.md",
+      "wiki/concepts/差序格局.md"
+    ],
+    "searchQueries": [
+      "差序格局与朝贡体系",
+      "宗藩关系的社会学解读",
+      "费孝通 国际关系"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e9305373",
+    "resolved": false,
+    "createdAt": 1783913584773
+  },
+  {
+    "type": "missing-page",
+    "title": "特德·姜其他核心作品的思想实验",
+    "description": "小说集收录了特德·姜的八篇作品，但现有维基仅深入分析了《你一生的故事》与《赏心悦目》。像《领悟》（超人智慧与对决）、《除以零》（数学与情感）、《巴比伦塔》（宗教与探索）、《七十二个字母》（命名哲学）等其他篇目均包含同样深刻的思想实验，是理解特德·姜整体创作的关键，目前维基中缺失对这些作品的独立分析。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你一生的故事（译林幻系列）.md",
+    "affectedPages": [
+      "wiki/sources/你一生的故事（译林幻系列）.md",
+      "wiki/entities/特德·姜.md"
+    ],
+    "searchQueries": [
+      "特德·姜 领悟 小说分析",
+      "特德·姜 巴比伦塔 作品解读",
+      "特德·姜 科幻小说 哲学主题"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1b60c9ae",
+    "resolved": true,
+    "createdAt": 1783913719181,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "contradiction",
+    "title": "“目的论”概念的潜在混淆",
+    "description": "现有维基中存在两个名为“目的论”的概念：一个是源自阿德勒心理学的[[concepts/目的论]]（强调行为的目的性），另一个是本次新增的、源自特德·姜科幻小说的[[concepts/目的论世界观]]（一种根本性的认知框架）。两者虽共享术语，但内涵与学科背景差异巨大。需要用户判断：是否需在页面中明确互相参照以警示潜在混淆，或考虑对科幻概念使用更具体的名称（如“七肢桶式目的论”）以示区分。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/你一生的故事（译林幻系列）.md",
+    "affectedPages": [
+      "wiki/concepts/目的论.md",
+      "wiki/concepts/目的论世界观.md"
+    ],
+    "searchQueries": [
+      "目的论 哲学与心理学区别",
+      "萨丕尔-沃尔夫假说 语言决定思维"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-dba1b539",
+    "resolved": false,
+    "createdAt": 1783913719181
+  },
+  {
+    "type": "suggestion",
+    "title": "道家“无为”思想与儒家治理观及现代管理哲学的比较研究",
+    "description": "《道德经》中“宠辱若惊”的治理启示与“不自见故明”的成就辩证法，为理解中国传统政治哲学与领导力提供了独特视角。与Wiki中已有的儒家“读书人政府”（[[concepts/读书人政府]]）及管理学著作如《基业长青》（[[sources/基业长青（珍藏版）]]）中的“核心理念”概念形成潜在对话。系统比较道家“无为而治”与儒家“有为而治”在统治者角色、功业追求上的根本差异，或将道家智慧与现代组织哲学（如“造钟，不是报时”）进行类比分析，能极大丰富Wiki对中国传统思想光谱及其现代回响的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/道德经（中华国学经典精粹）.md",
+    "affectedPages": [
+      "wiki/concepts/宠辱若惊.md",
+      "wiki/concepts/不自见故明.md",
+      "wiki/concepts/读书人政府.md",
+      "wiki/sources/基业长青（珍藏版）.md"
+    ],
+    "searchQueries": [
+      "道家无为 儒家有为 治理比较",
+      "老子 谦退哲学 现代领导力",
+      "道法自然 组织理论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5db892e1",
+    "resolved": false,
+    "createdAt": 1783913798133
+  },
+  {
+    "type": "missing-page",
+    "title": "河上公《老子道德经注》的思想体系与历史地位",
+    "description": "当前Wiki中[[entities/河上公]]页面内容较为简略，仅提及他是“黄老学派的集大成者”及在《道德经（中华国学经典精粹）》中的角色。作为历史上最早且影响深远的《道德经》注本作者之一，河上公的具体注解思想（如对“道”的宇宙论阐发、对“治身治国”一体的论述）、其“章句”体裁的特点，以及在汉代黄老思潮向早期道教演进中的关键作用，均是理解《道德经》接受史与诠释学的重要知识空白，值得深入研究并形成独立页面。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/道德经（中华国学经典精粹）.md",
+    "affectedPages": [
+      "wiki/entities/河上公.md"
+    ],
+    "searchQueries": [
+      "河上公 老子道德经注 思想内容",
+      "河上公 黄老学派",
+      "老子章句 文本结构与贡献"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-016b4780",
+    "resolved": true,
+    "createdAt": 1783913798133,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "加罗法洛（刑事人类学派）",
+    "description": "加罗法洛是书中“自然犯”理论的来源，对刑法哲学有深远影响。创建其实体页面可深化对犯罪本质理论的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/法律的悖论.md",
+    "affectedPages": [
+      "wiki/concepts/自然犯与法定犯.md"
+    ],
+    "searchQueries": [
+      "加罗法洛 刑事人类学派 自然犯",
+      "Raffaele Garofalo criminology natural crime",
+      "加罗法洛 生物学派 犯罪学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-11fd9fc6",
+    "resolved": true,
+    "createdAt": 1783913892726,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "康德（法哲学）",
+    "description": "康德的道义报应论是书中探讨刑罚正当性的核心哲学基础。创建其实体页面有助于连接刑罚哲学与更广泛的伦理学体系。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/法律的悖论.md",
+    "affectedPages": [
+      "wiki/concepts/刑罚的报应论与预防论.md"
+    ],
+    "searchQueries": [
+      "康德 道义报应论 刑罚哲学",
+      "Kant retributivism philosophy of punishment",
+      "康德 正义 人是目的"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-46db2167",
+    "resolved": true,
+    "createdAt": 1783913892726,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "托克维尔",
+    "description": "托克维尔关于自由与集权的警告是书中论证立法谦抑性的关键思想资源。创建其实体页面可链接法治与政治哲学的经典论述。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/法律的悖论.md",
+    "affectedPages": [
+      "wiki/concepts/立法的节制与司法的限缩.md"
+    ],
+    "searchQueries": [
+      "托克维尔 自由 集权 警告",
+      "Tocqueville tyranny majority liberty",
+      "托克维尔 论美国的民主 自由"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8b9511bc",
+    "resolved": true,
+    "createdAt": 1783913892726,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "法律与道德关系的经典论争（哈特-富勒论战）",
+    "description": "书中“道德规范作为法律的边界”与“自然犯与法定犯”等概念涉及法律与道德关系的根本问题。引入法律实证主义（哈特）与自然法理论（富勒）的经典论战作为理论背景，能大幅提升当前相关概念页面的理论深度与历史纵深。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/法律的悖论.md",
+    "affectedPages": [
+      "wiki/concepts/道德规范作为法律的边界.md",
+      "wiki/concepts/自然犯与法定犯.md"
+    ],
+    "searchQueries": [
+      "哈特 富勒 法律与道德 论战",
+      "Hart Fuller debate law and morality",
+      "法律实证主义 自然法 最低限度内容"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-71db866e",
+    "resolved": false,
+    "createdAt": 1783913892726
+  },
+  {
+    "type": "suggestion",
+    "title": "鲁迅“娜拉出走”命题的历史讨论",
+    "description": "小说提出的“新娜拉出走”概念，直接回应了鲁迅的经典命题。但当前维基中缺少对鲁迅原初论述（及其引发的后续讨论，如胡适《终身大事》等）的专页。创建此页面能为“新娜拉出走”提供至关重要的历史脉络和理论对话基础，明确其“新”在何处。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md",
+    "affectedPages": [
+      "wiki/sources/纪静蓉-我才不想做家务.md",
+      "wiki/concepts/新娜拉出走.md"
+    ],
+    "searchQueries": [
+      "鲁迅 娜拉出走之后 命题 讨论",
+      "胡适 终身大事 娜拉",
+      "鲁迅 伤逝 娜拉"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-33878bd8",
+    "resolved": false,
+    "createdAt": 1783914009368
+  },
+  {
+    "type": "suggestion",
+    "title": "“隐形家务”的学术关联与定义对比",
+    "description": "“隐形家务”是小说提出的核心分析概念，但在社会学、性别研究领域已有大量相关学术概念（如“精神负荷”、“情感劳动”、“第二轮班”）。当前维基仅从小说角度定义，缺乏与这些经典学术概念的关联、对比与定位。此研究能大幅提升该概念的学术严谨性与普适性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md",
+    "affectedPages": [
+      "wiki/concepts/隐形家务.md",
+      "wiki/concepts/母职惩罚.md",
+      "wiki/concepts/社会性别规训.md"
+    ],
+    "searchQueries": [
+      "精神负荷 mental load 学术研究",
+      "情感劳动 emotional labor 家庭",
+      "invisible labor household gender inequality"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8c2016f5",
+    "resolved": false,
+    "createdAt": 1783914009368
+  },
+  {
+    "type": "missing-page",
+    "title": "奥图·纽拉特",
+    "description": "奥图·纽拉特是书中用以支持“融贯论”的关键人物，其“知识之船”比喻是核心论据。Wiki中他仅在概念页面中被提及，缺乏独立的实体页面来介绍其作为逻辑实证主义者的背景及其在科学哲学和知识论中的重要贡献。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我们如何思考.md",
+    "affectedPages": [
+      "wiki/concepts/融贯论.md"
+    ],
+    "searchQueries": [
+      "Otto Neurath 逻辑实证主义",
+      "奥图·纽拉特 知识之船",
+      "Neurath 纪录片比喻"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c70f6bd4",
+    "resolved": false,
+    "createdAt": 1783914279791
+  },
+  {
+    "type": "missing-page",
+    "title": "实践推理",
+    "description": "“实践推理”是本书伦理学部分的核心分析工具，贯穿对行动理由、关切与道德判断的讨论。它在“我们如何思考.md”源文件中被强调，但目前Wiki中没有对应的独立概念页面，这是一个重要的结构性缺口。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我们如何思考.md",
+    "affectedPages": [
+      "wiki/sources/我们如何思考.md"
+    ],
+    "searchQueries": [
+      "实践推理 道德哲学",
+      "practical reasoning ethics",
+      "理由与动机 实践哲学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-17f2f9fe",
+    "resolved": true,
+    "createdAt": 1783914279791,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "私人语言论证的深化阐释",
+    "description": "本书对维特根斯坦的“私人语言”论证有详细阐述（见《倒转的色谱：私人语言》划线部分），这是理解心灵哲学与语言哲学交汇点的关键。现有`[[concepts/私人语言论证]]`页面可考虑链接本书中关于“记忆检查的不可靠性”与“公共正确性标准”的具体段落作为核心论据，以深化对该论证的阐释。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我们如何思考.md",
+    "affectedPages": [
+      "wiki/concepts/私人语言论证.md",
+      "wiki/entities/路德维希-维特根斯坦.md"
+    ],
+    "searchQueries": [
+      "维特根斯坦 私人语言论证 内容",
+      "Wittgenstein private language argument",
+      "私人语言 记忆 检查"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b2dced7f",
+    "resolved": false,
+    "createdAt": 1783914279791
+  },
+  {
+    "type": "suggestion",
+    "title": "康德与贝克莱观念论的对比",
+    "description": "书中详细讨论了康德的“超验观念论”如何区别于贝克莱的“主观观念论”（见《观看者之眼》划线部分）。此对比是理解康德“哥白尼式革命”创新性的关键。可考虑创建一个比较页面或专门查询，以清晰剖析二者的根本差异（如“物自体”的承认与否）。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我们如何思考.md",
+    "affectedPages": [
+      "wiki/concepts/超验观念论.md",
+      "wiki/entities/乔治-贝克莱.md"
+    ],
+    "searchQueries": [
+      "康德与贝克莱观念论区别",
+      "Kant transcendental idealism vs Berkeley subjective idealism",
+      "超验观念论 物自体"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c77dd334",
+    "resolved": false,
+    "createdAt": 1783914279791
+  },
+  {
+    "type": "suggestion",
+    "title": "基础主义与融贯论的认识论之争",
+    "description": "本书呈现了知识论中基础主义（笛卡尔）与融贯论（纽拉特）的根本对立。现有`[[queries/知识是否存在绝对的、不可动摇的基础]]`查询已涵盖，但此争议是当代认识论的核心。建议创建一个更具体的比较页面或更新现有查询，系统性地对比两种理论的优势、劣势及其当代形式（如适当基础主义）。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/我们如何思考.md",
+    "affectedPages": [
+      "wiki/queries/知识是否存在绝对的、不可动摇的基础.md",
+      "wiki/concepts/融贯论.md"
+    ],
+    "searchQueries": [
+      "基础主义 vs 融贯论 认识论",
+      "foundationalism coherentism debate",
+      "知识论 证成理论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d8e6a0b3",
+    "resolved": false,
+    "createdAt": 1783914279791
+  },
+  {
+    "type": "missing-page",
+    "title": "巴东县",
+    "description": "陈行甲在巴东县担任县委书记期间的工作（尤其是反腐实践）是其人生转折的关键节点，也是观察中国基层治理的重要案例。目前Wiki中缺乏对此具体地点及其治理挑战的独立记录。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/在峡江的转弯处：陈行甲人生笔记.md",
+    "affectedPages": [
+      "wiki/entities/陈行甲.md",
+      "wiki/sources/陈行甲-2024-在峡江的转弯处.md"
+    ],
+    "searchQueries": [
+      "巴东县 陈行甲 反腐",
+      "巴东县 基层治理 案例",
+      "巴东县 社会经济状况"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8ead9f66",
+    "resolved": true,
+    "createdAt": 1783914503000,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "知行合一的哲学源流与现代诠释比较",
+    "description": "当前\"知行合一\"页面主要关联陈行甲的个人实践，但作为王阳明心学的核心命题，它在哲学史上的原初含义及当代多元诠释（如杜维明、陈来等学者的阐发）尚未得到系统梳理。补充此脉络可提升概念页的学术深度。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/在峡江的转弯处：陈行甲人生笔记.md",
+    "affectedPages": [
+      "wiki/concepts/知行合一.md"
+    ],
+    "searchQueries": [
+      "王阳明 知行合一 哲学内涵",
+      "知行合一 当代诠释 杜维明",
+      "知行合一 实践哲学 比较研究"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e95d8709",
+    "resolved": false,
+    "createdAt": 1783914503000
+  },
+  {
+    "type": "suggestion",
+    "title": "陈嘉映对实践智慧的批判性发展",
+    "description": "《何为良好生活》的核心在于将亚里士多德的“实践智慧”概念进行创造性转化，强调其“洞明自身”与“天性清晰”的面向，这与亚里士多德的原初定义存在关键差异。目前创建的[[concepts/实践智慧.md]]页面尚未充分阐明陈嘉映的独特贡献与批判，这影响了对全书理论枢纽的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/何为良好生活：行之于途而应于心.md",
+    "affectedPages": [
+      "wiki/concepts/实践智慧.md",
+      "wiki/sources/何为良好生活：行之于途而应于心.md"
+    ],
+    "searchQueries": [
+      "陈嘉映 实践智慧 批判发展",
+      "phronesis 陈嘉映 解释",
+      "亚里士多德 实践智慧 中国哲学 转化"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-bc5f8e2f",
+    "resolved": false,
+    "createdAt": 1783914705899
+  },
+  {
+    "type": "missing-page",
+    "title": "康德在“实然与应然”讨论中的核心角色",
+    "description": "在对“实然与应然”关系的讨论中，康德是陈嘉映明确批判的对话者（其“应然世界压倒实然世界”的观点）。创建的概念页[[concepts/实然与应然.md]]中提到了康德，但作为关键实体，康德本身及其在本书中被批判的具体内容（如道德命令的纯粹性）尚未有独立页面，这不利于系统梳理伦理学史脉络。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/何为良好生活：行之于途而应于心.md",
+    "affectedPages": [
+      "wiki/concepts/实然与应然.md",
+      "wiki/entities/陈嘉映.md"
+    ],
+    "searchQueries": [
+      "陈嘉映 批判 康德 应然世界",
+      "康德 道德命令 纯粹理性",
+      "休谟问题 康德 陈嘉映"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b5626ada",
+    "resolved": true,
+    "createdAt": 1783914705899,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "missing-page",
+    "title": "伯纳德·威廉姆斯与“厚实伦理语词”",
+    "description": "书中引述了伯纳德·威廉姆斯关于“厚实伦理语词”与“薄脊伦理语词”的区分，作为论证“评价寓于描述”和挑战实然/应然二分的重要论据。威廉姆斯是当代伦理学关键人物，其观点与陈嘉映的论述有深刻共鸣，但作为实体未被收录。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/何为良好生活：行之于途而应于心.md",
+    "affectedPages": [
+      "wiki/concepts/实然与应然.md",
+      "wiki/concepts/良好生活.md"
+    ],
+    "searchQueries": [
+      "伯纳德·威廉姆斯 厚实伦理语词",
+      "Bernard Williams thick ethical concepts",
+      "伦理学 知识 陈嘉映"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-c4879497",
+    "resolved": true,
+    "createdAt": 1783914705899,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "“知行合一”的哲学深化与对话",
+    "description": "分析报告指出，本书对“知行合一”的讨论（区分“自然的知行合一”与“价值的/理想的知行合一”，并引入“深知”概念）深化了已有的[[concepts/知行合一.md]]。然而，目前生成的日志仅建议“后续更新”，但并未实际创建或更新该概念页以纳入陈嘉映的论述。这是一个重要的知识整合缺口。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/何为良好生活：行之于途而应于心.md",
+    "affectedPages": [
+      "wiki/concepts/知行合一.md",
+      "wiki/entities/贺麟.md",
+      "wiki/sources/何为良好生活：行之于途而应于心.md"
+    ],
+    "searchQueries": [
+      "陈嘉映 知行合一 深知",
+      "贺麟 价值的知行合一",
+      "知行合一 实践智慧 区别"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d57e5f10",
+    "resolved": false,
+    "createdAt": 1783914705899
+  },
+  {
+    "type": "suggestion",
+    "title": "传统伦理学的性别偏见",
+    "description": "陈嘉映明确指出“古人讲良好生活…讲的都是男人”，并批判其不再适用于今日。这指出了传统伦理学论述中一个系统性的性别盲区，是一个重要的批判视角和现代性议题。目前创建的页面中没有对此进行专门的概念化讨论。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/何为良好生活：行之于途而应于心.md",
+    "affectedPages": [
+      "wiki/sources/何为良好生活：行之于途而应于心.md",
+      "wiki/concepts/良好生活.md"
+    ],
+    "searchQueries": [
+      "伦理学 性别偏见 历史",
+      "女性主义 西方哲学 批判",
+      "好生活 女性 主体性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8e97b94c",
+    "resolved": false,
+    "createdAt": 1783914705899
+  },
+  {
+    "type": "contradiction",
+    "title": "理学在道德建构与政治实践中的矛盾与统一",
+    "description": "Wiki页面《concepts/理学的社会政治影响》与《queries/理学在道德建构与政治实践中的矛盾如何调和》准确指出了核心张力，但对此矛盾的根源与历史调和机制尚未展开深入探讨。理解理学“内圣”与“外王”的脱节，是把握其真实历史作用的关键。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国通史（上下册）.md",
+    "affectedPages": [
+      "wiki/concepts/理学的社会政治影响.md",
+      "wiki/queries/理学在道德建构与政治实践中的矛盾如何调和.md"
+    ],
+    "searchQueries": [
+      "理学 内圣外王 矛盾 历史影响",
+      "宋明理学 政治保守性 士大夫",
+      "理学 格物致知 实事求是 与政治实践脱节"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-35531c44",
+    "resolved": false,
+    "createdAt": 1783915090117
+  },
+  {
+    "type": "suggestion",
+    "title": "清谈影响南朝政治的具体机制与历史验证",
+    "description": "Wiki查询《queries/清谈风气与政治效率的关系如何》提出了一个重要的历史因果假设（清谈→政治苟安→无力北伐），但现有页面仅陈述了观点，缺乏对具体作用机制（如如何影响选官、决策、军政效率）和多因素比较分析的探讨。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国通史（上下册）.md",
+    "affectedPages": [
+      "wiki/concepts/清谈及其社会政治影响.md",
+      "wiki/queries/清谈风气与政治效率的关系如何.md"
+    ],
+    "searchQueries": [
+      "魏晋清谈 政治影响 东晋南朝",
+      "九品中正制 清谈 门阀政治",
+      "南朝衰落原因 文化与军事"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-1367d08f",
+    "resolved": false,
+    "createdAt": 1783915090117
+  },
+  {
+    "type": "suggestion",
+    "title": "中国传统思想务实性的比较与实证框架",
+    "description": "Wiki概念《concepts/传统思想的务实性》提出了一个宏大的文化特质论断。目前页面仅做了定性描述，缺乏将其置于世界思想史中进行比较（与古希腊、印度哲学的思辨传统对比），或寻找具体制度、社会现象作为实证支持的分析框架。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国通史（上下册）.md",
+    "affectedPages": [
+      "wiki/concepts/传统思想的务实性.md"
+    ],
+    "searchQueries": [
+      "中国哲学 务实主义 与西方哲学比较",
+      "中国传统思想 宗教性弱 人文主义",
+      "先秦思想 现实关怀 实证分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-9fb2c9c2",
+    "resolved": false,
+    "createdAt": 1783915090117
+  },
+  {
+    "type": "suggestion",
+    "title": "战国思想生态中儒、墨、杨之外的学派互动",
+    "description": "Wiki概念《concepts/兼爱与为我》聚焦于孟子对杨朱、墨子的批判，这构成了理解儒学确立正统地位的关键。然而，它未能充分揭示当时完整的思想生态——例如，法家如何回应这些辩论？道家持何种立场？这些学派间的复杂互动可能影响了孟子批判的焦点与策略。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国通史（上下册）.md",
+    "affectedPages": [
+      "wiki/concepts/兼爱与为我.md"
+    ],
+    "searchQueries": [
+      "战国百家争鸣 思想互动",
+      "孟子 批判 杨朱墨子 法家反应",
+      "先秦思想生态 多元性"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d19ccaca",
+    "resolved": false,
+    "createdAt": 1783915090117
+  },
+  {
+    "type": "missing-page",
+    "title": "佛学（作为思想体系）",
+    "description": "《人生解忧：佛学入门四十讲》的核心主题是佛学，但Wiki索引中缺少一个对“佛学”作为独立思想体系（涵盖其历史、核心教义、主要流派等）的基础概念页面。创建此页面能为后续所有佛学相关实体和概念（如四圣谛、无我、《心经》等）提供一个总纲和锚点，是构建这一知识模块的基础设施。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生解忧：佛学入门四十讲.md",
+    "affectedPages": [
+      "wiki/sources/人生解忧：佛学入门四十讲.md"
+    ],
+    "searchQueries": [
+      "佛学 核心思想 概述",
+      "佛教 教义体系 简史",
+      "Buddhism core teachings overview"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-5e11c94f",
+    "resolved": true,
+    "createdAt": 1783915254290,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "佛学智慧对现代心灵危机的实际效用评估",
+    "description": "现有的查询“佛学智慧对现代心灵危机的实际效用如何？”指出了一个关键张力。要深入回答此问题，需要超越《人生解忧》的单一主张，进行更广泛的调研。这应包括：1）心理学等实证学科对正念/禅修等佛学实践效果的研究；2）哲学界对佛学现代化诠释的批判性分析；3）与意义疗法、积极心理学等现代心灵解决方案的比较。这是一个能显著提升Wiki深度和批判性的研究方向。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生解忧：佛学入门四十讲.md",
+    "affectedPages": [
+      "wiki/queries/佛学智慧对现代心灵危机的实际效用如何.md"
+    ],
+    "searchQueries": [
+      "佛学 正念 心理学 实证研究",
+      "佛学 现代化 批判 哲学",
+      "佛教 与 意义疗法 比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-0e53a469",
+    "resolved": false,
+    "createdAt": 1783915254290
+  },
+  {
+    "type": "suggestion",
+    "title": "当代佛学学者群体的多元视角",
+    "description": "成庆是本书作者，但代表了当代佛学传播与诠释中的一种特定声音。为了获得更平衡的视野，有必要了解其他重要的当代佛学学者（如一行禅师、索达吉堪布、阿姜查等）及其主要观点。研究他们如何诠释古老教义以回应当代问题，可以形成比较，评估成庆诠释的独特性与普遍性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/人生解忧：佛学入门四十讲.md",
+    "affectedPages": [
+      "wiki/entities/成庆.md"
+    ],
+    "searchQueries": [
+      "当代佛学 大师 一览",
+      "一行禅师 正念 与 现代生活",
+      "藏传佛教 现代诠释 学者"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-e6a524fd",
+    "resolved": false,
+    "createdAt": 1783915254290
+  },
+  {
+    "type": "suggestion",
+    "title": "创建查询页面以探究长沙会战后续影响",
+    "description": "片段中薛岳的决策及其与统帅部的冲突被生动呈现，但未涉及该决策的实际战果与长远影响。创建此查询页面可将事件的“决策过程”与“历史后果”连接起来，形成完整分析闭环。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/历史深处的民国（全集）.md",
+    "affectedPages": [
+      "wiki/queries/薛岳坚守长沙的决策在多大程度上影响了战局.md"
+    ],
+    "searchQueries": [
+      "薛岳 长沙会战 影响",
+      "长沙会战 战略决策 历史评价",
+      "薛岳 抗命 军事后果"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-903a50aa",
+    "resolved": false,
+    "createdAt": 1783915351457
+  },
+  {
+    "type": "suggestion",
+    "title": "创建查询页面以比较民国将领决策模式",
+    "description": "文本突出了薛岳基于“良心血性”的个人意志决策模式。这一模式在其他民国高级将领（如傅作义、李宗仁等）的决策中是否存在及如何体现，是理解该时期军事领导力与政治文化的重要比较研究方向。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/历史深处的民国（全集）.md",
+    "affectedPages": [
+      "wiki/queries/将领个人意志在民国军事决策中的作用.md"
+    ],
+    "searchQueries": [
+      "民国 将领 个人意志 军事决策",
+      "抗日战争 将领 抗命 案例",
+      "军事领导力 道德信念 战略影响"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-faf71db9",
+    "resolved": false,
+    "createdAt": 1783915351457
+  },
+  {
+    "type": "suggestion",
+    "title": "功利主义",
+    "description": "现有Wiki中[[concepts/功利主义]]可能仅作为刑罚理论的一个侧面被提及，但《不止于正义》一书将其作为与权利理论直接对抗的核心伦理立场进行了系统剖析，并借助《电车难题》案例提供了清晰的法学视角定义。创建一个独立的功利主义概念页面，能更好地完善Wiki中法律伦理基础的理论框架，并为现有[[concepts/权利理论]]提供平衡的对照。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/不止于正义.md",
+    "affectedPages": [
+      "wiki/concepts/权利理论.md",
+      "wiki/sources/不止于正义.md"
+    ],
+    "searchQueries": [
+      "功利主义哲学核心原则",
+      "功利主义与康德道德哲学对比",
+      "电车难题 哲学分析 功利主义 权利理论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-ab7879e1",
+    "resolved": false,
+    "createdAt": 1783915442469
+  },
+  {
+    "type": "suggestion",
+    "title": "斯诺观察的代表性与历史比较",
+    "description": "斯诺作为西方观察者的视角具有开创性，但其记录可能受到个人行程、采访对象选择等限制。书中对中共领导人的早期分析，与后来的历史研究和官方叙事有何异同，值得深入比较。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/红星照耀中国.md",
+    "affectedPages": [
+      "wiki/queries/斯诺的观察在多大程度上代表了当时苏区的普遍情况.md",
+      "wiki/queries/《红星照耀中国》对中共领导人的分析与后世研究有何异同.md"
+    ],
+    "searchQueries": [
+      "Edgar Snow Red Star Over China historical accuracy limitations",
+      "《红星照耀中国》历史价值与局限性学术研究",
+      "斯诺访陕记录与中共党史叙述比较"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6110168e",
+    "resolved": false,
+    "createdAt": 1783915562723
+  },
+  {
+    "type": "suggestion",
+    "title": "斯诺观察的代表性与局限性分析",
+    "description": "作为西方对中共根据地的第一手记录，《红星照耀中国》的历史价值毋庸置疑。然而，埃德加·斯诺的观察视角、行程路线及采访对象可能存在系统性偏差。深入分析其作为历史证据的代表性与局限性，对于客观评估这段历史至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/红星照耀中国.md",
+    "affectedPages": [
+      "wiki/queries/斯诺的观察在多大程度上代表了当时苏区的普遍情况.md",
+      "wiki/queries/《红星照耀中国》历史价值与局限性研究.md"
+    ],
+    "searchQueries": [
+      "Edgar Snow Red Star Over China historical accuracy limitations",
+      "《红星照耀中国》历史价值与局限性学术研究",
+      "斯诺访陕报告 方法论与代表性分析"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-8810ac82",
+    "resolved": false,
+    "createdAt": 1783915562723
+  },
+  {
+    "type": "suggestion",
+    "title": "早期国际观察与后世历史叙述的比较研究",
+    "description": "斯诺在《红星照耀中国》中对毛泽东等中共领导人及其革命道路的早期分析，构成了国际社会理解“红色中国”的最初范式。将此范式与后来的党史研究、官方叙述及西方学界的观点进行系统性比较，可以清晰展现历史认知的形成、演变与复杂性。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/红星照耀中国.md",
+    "affectedPages": [
+      "wiki/queries/《红星照耀中国》对中共领导人的早期分析与后世研究有何异同.md"
+    ],
+    "searchQueries": [
+      "斯诺毛泽东早期形象 后世党史叙述比较",
+      "《红星照耀中国》国际视角 中共历史叙述演变",
+      "Red Star Over China portrayal of CCP leaders vs official historiography"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-100c440e",
+    "resolved": false,
+    "createdAt": 1783915562723
+  },
+  {
+    "type": "missing-page",
+    "title": "概念页面“自性化”的独立缺失",
+    "description": "分析显示“自性化”（Individuation）作为荣格心理学概念在书中用于描述文天祥的精神境界，但未创建独立概念页面。此概念具有专业性和跨文化应用价值，值得单独阐述。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/九诗心：暗夜里的文学启明.md",
+    "affectedPages": [
+      "wiki/concepts/自性化.md"
+    ],
+    "searchQueries": [
+      "荣格 自性化 概念 定义 心理学",
+      "individuation 心理学 荣格 简介",
+      "自性化 中文 解释 心理学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-7b32982d",
+    "resolved": false,
+    "createdAt": 1783915696508
+  },
+  {
+    "type": "missing-page",
+    "title": "概念页面“自性化的独立缺失",
+    "description": "《九诗心》中引用荣格的“自性化”概念来评价文天祥的生命境界，但该概念仅作为外来术语被援引，其定义、理论背景及其与东方文化（尤其是儒家或庄子思想）中“人格完成”或“精神超越”观念的异同，均未在维基中得到系统性阐释。创建独立页面有助于深化对该概念的跨文化理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/九诗心：暗夜里的文学启明.md",
+    "affectedPages": [
+      "wiki/concepts/自性化.md"
+    ],
+    "searchQueries": [
+      "荣格 自性化 概念 定义 心理学",
+      "individuation 荣格 分析心理学 理论",
+      "自性化 中国文化 人格 完成"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      }
+    ],
+    "id": "review-e00ee284",
+    "resolved": false,
+    "createdAt": 1783915696508
+  },
+  {
+    "type": "missing-page",
+    "title": "费孝通的学术脉络与主要著作",
+    "description": "当前页面仅关联了《乡土中国》一书及其中的概念。作为中国社会学/人类学奠基人之一，费孝通的学术思想是一个更广阔的体系。补充其学术背景（如师从马林诺夫斯基）、主要著作（如《江村经济》、《生育制度》）、以及其“文化自觉”、“中华民族多元一体格局”等后续重要理论，将能更全面地理解其思想发展脉络，为分析《乡土中国》提供更宏观的语境。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/乡土中国（果麦经典）.md",
+    "affectedPages": [
+      "wiki/entities/费孝通.md"
+    ],
+    "searchQueries": [
+      "费孝通 学术思想 主要著作",
+      "江村经济 费孝通",
+      "费孝通 文化自觉 多元一体格局"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-83ca5bc0",
+    "resolved": true,
+    "createdAt": 1783916050585,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "《乡土中国》的当代回响与批评",
+    "description": "《乡土中国》写于20世纪40年代，其分析框架在面对当代中国剧烈的社会变迁（城市化、数字化、人口流动）时，其解释力的延续与局限是一个关键的开放性问题。需要追踪学术界（如社会学、法学、政治学领域）对费孝通理论的当代应用、修正与批评，以评估经典理论的生命力，并回应用户之前提出的“乡土信用逻辑在现代社会的转化路径”这一查询。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/乡土中国（果麦经典）.md",
+    "affectedPages": [
+      "wiki/sources/乡土中国（果麦经典）.md"
+    ],
+    "searchQueries": [
+      "乡土中国 理论 当代应用 评价",
+      "差序格局 当代社会 批评",
+      "费孝通 理论 现代转型"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-d5e2f472",
+    "resolved": false,
+    "createdAt": 1783916050585
+  },
+  {
+    "type": "suggestion",
+    "title": "差序格局与团体格局的现代对接",
+    "description": "“差序格局”（中国）与“团体格局”（西方）是费孝通提出的经典对比模型。然而，在全球化与法治化进程中，这两种社会结构是否在发生相互渗透、转化或杂糅？例如，现代中国企业的“圈子文化”与科层制管理，或西方社会中社区、族裔社群的关系实践。需要研究两种结构在现代社会中的互动与演变，这将深化对“传统与现代”、“本土与外来”关系的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/乡土中国（果麦经典）.md",
+    "affectedPages": [
+      "wiki/concepts/差序格局.md"
+    ],
+    "searchQueries": [
+      "差序格局 团体格局 现代社会 对比",
+      "中国社会结构 现代化 转型",
+      "熟人社会 契约社会 融合"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-64081e5e",
+    "resolved": false,
+    "createdAt": 1783916050585
+  },
+  {
+    "type": "missing-page",
+    "title": "宋明理学两大分支（理学与心学）的系统对比",
+    "description": "分析指出，现有Wiki中可能缺少对宋明理学两大分支（理学与心学）进行系统对比的页面。我们已创建了核心人物页面（朱熹、王守仁）和核心概念页面（理气论、致良知），并创建了比较页面（朱熹与王阳明的“心物”之辩）。建议考虑是否需要创建一个更概括性的“宋明理学”实体页面或概念页面，作为统摄“理学”、“心学”、“程朱理学”、“陆王心学”等相关术语的上位概念。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国哲学简史（插图修订版）.md",
+    "affectedPages": [
+      "wiki/entities/songming-lixue.md",
+      "wiki/concepts/lixue-yu-xinxue.md"
+    ],
+    "searchQueries": [
+      "宋明理学 程朱理学 陆王心学 系统对比",
+      "理学与心学 核心分歧 哲学史",
+      "朱熹 王阳明 理学心学 体系概述"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a23f86a7",
+    "resolved": false,
+    "createdAt": 1783916464102
+  },
+  {
+    "type": "missing-page",
+    "title": "负的方法与正的方法",
+    "description": "冯友兰在书中明确区分了中国哲学的\"负的方法\"（通过暗示、否定来体悟不可言说之物）与西方哲学的\"正的方法\"（通过逻辑分析、定义来把握对象），并指出中国哲学中\"正的方法始终未曾得到充分的发展\"。这是理解中西哲学方法论差异的关键概念，也是冯友兰本人哲学方法论的核心贡献，但现有Wiki中尚无专页。该概念对于理解为何中国哲学语言具有\"暗示性\"特质、以及如何评价中国哲学的现代价值至关重要。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国哲学简史（插图修订版）.md",
+    "affectedPages": [
+      "wiki/concepts/rensheng-sijing-shuo.md",
+      "wiki/concepts/zhiliangzhi.md"
+    ],
+    "searchQueries": [
+      "冯友兰 负的方法 正的方法 中国哲学",
+      "negative method positive method Chinese philosophy Feng Youlan",
+      "中国哲学 逻辑分析 直觉体悟 方法论"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-13c1e4bb",
+    "resolved": false,
+    "createdAt": 1783916464102
+  },
+  {
+    "type": "missing-page",
+    "title": "内圣外王",
+    "description": "\"内圣外王\"被分析指出是全书的核心论点，贯穿诸子百家的思想关怀——无论是儒家、道家还是法家，都关注如何在现世实现理想秩序。然而现有Wiki中并无专页阐释这一概念。作为统摄中国哲学精神的核心范畴，\"内圣外王\"值得独立成页，以建立与其他实体和概念的系统性关联。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国哲学简史（插图修订版）.md",
+    "affectedPages": [
+      "wiki/sources/中国哲学简史（插图修订版）.md"
+    ],
+    "searchQueries": [
+      "内圣外王 中国哲学 核心精神",
+      "内圣外王 儒道法 区别联系",
+      "内圣外王 冯友兰 阐释"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-6c797212",
+    "resolved": true,
+    "createdAt": 1783916464102,
+    "resolvedAction": "auto-resolved"
+  },
+  {
+    "type": "suggestion",
+    "title": "冯友兰\"以西释中\"方法论的评价",
+    "description": "分析指出一个重要的解释性张力：冯友兰运用西方哲学概念（如\"形而上学\"、\"理性\"、\"Matter\"）来阐释中国哲学，在带来明晰性的同时可能存在\"格义\"或简化风险。这是一个元哲学问题，涉及比较哲学的方法论边界。建议创建一个研究问题页面，记录这一开放性问题，以便后续深入探讨。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/中国哲学简史（插图修订版）.md",
+    "affectedPages": [
+      "wiki/sources/中国哲学简史（插图修订版）.md",
+      "wiki/entities/feng-youlan.md"
+    ],
+    "searchQueries": [
+      "比较哲学 方法论 格义 冯友兰",
+      "中国哲学 西方概念 翻译 问题",
+      "Feng Youlan comparative philosophy methodology"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-40ea324b",
+    "resolved": false,
+    "createdAt": 1783916464102
+  },
+  {
+    "type": "suggestion",
+    "title": "哲学作为怀疑精神与批判意识在现代如何实践？",
+    "description": "该查询页面已在分析中被识别为潜在研究点，但尚未创建。这个查询至关重要，因为它将赵林对哲学本质的抽象定义（“怀疑精神与批判意识”）与当代哲学实践、社会批判和个人思维培养联系起来，能够连接《西方哲学史讲演录》的核心论点与现有wiki中关于[[concepts/理性人生观]]、[[concepts/实践智慧]]等条目的讨论，从而深化对哲学实际价值的理解。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/西方哲学史讲演录.md",
+    "affectedPages": [
+      "wiki/concepts/哲学作为怀疑精神与批判意识.md",
+      "wiki/sources/西方哲学史讲演录.md"
+    ],
+    "searchQueries": [
+      "哲学作为怀疑精神与批判意识 现代实践",
+      "批判意识 当代社会应用",
+      "怀疑精神 哲学教育方法"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-31add35c",
+    "resolved": false,
+    "createdAt": 1783916679084
+  },
+  {
+    "type": "suggestion",
+    "title": "关联现有页面更新",
+    "description": "描述：分析指出本书的“确认感受”、“关系修复”等概念与现有维基中的 [[concepts/实践智慧]] 和 [[concepts/良好生活]] 存在共鸣与补充关系。建议在这两个现有概念页面的相关部分（如应用场景、现代实践）增加对本来源及其核心概念的引用与链接，以丰富其内涵并展示跨领域应用。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/真希望我父母读过这本书.md",
+    "affectedPages": [
+      "wiki/concepts/实践智慧.md",
+      "wiki/concepts/良好生活.md"
+    ],
+    "searchQueries": [
+      "实践智慧 在家庭育儿中的应用",
+      "良好生活 关系质量维度 心理学"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-a84706d2",
+    "resolved": false,
+    "createdAt": 1783916758453
+  },
+  {
+    "type": "missing-page",
+    "title": "探索科学与文化信念的平衡",
+    "description": "描述：书中提及的“交感巫术”（认为母亲孕期心态会影响胎儿）的观点，在文中更多作为一种文化心理现象或隐喻讨论。这与严格实证科学观可能存在张力，但又反映了普遍存在的文化心理。建议创建一个查询页面，专门探讨在育儿乃至更广泛领域中，如何平衡科学实证与文化心理/朴素信念的关系。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/真希望我父母读过这本书.md",
+    "affectedPages": [
+      "wiki/queries/如何平衡科学育儿实证与文化心理信念.md"
+    ],
+    "searchQueries": [
+      "育儿科学实证 vs 文化心理信念",
+      "交感巫术 科学解释",
+      "朴素信念在育儿中的作用"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-b453cf4d",
+    "resolved": false,
+    "createdAt": 1783916758453
+  },
+  {
+    "type": "suggestion",
+    "title": "更新现有概念页面以建立关联",
+    "description": "描述：分析指出《真希望我父母读过这本书》的核心概念（如“确认感受”、“关系修复”）与现有维基中的 [[concepts/实践智慧]] 和 [[concepts/良好生活]] 存在深刻的共鸣与补充关系。为丰富这两个概念的内涵，展示其在现代家庭与人际关系中的具体应用，建议在这两个现有概念页面的相关部分（如应用场景、现代实践或案例）增加对本来源及其核心概念的引用与链接。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/真希望我父母读过这本书.md",
+    "affectedPages": [
+      "wiki/concepts/实践智慧.md",
+      "wiki/concepts/良好生活.md"
+    ],
+    "searchQueries": [
+      "实践智慧 在家庭育儿中的应用",
+      "良好生活 关系质量维度 心理学",
+      "育儿中的实践智慧 案例"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-f75ee05b",
+    "resolved": false,
+    "createdAt": 1783916758453
+  },
+  {
+    "type": "suggestion",
+    "title": "探索育儿中科学与文化心理的平衡",
+    "description": "描述：书中提及的“交感巫术”观点（认为母亲孕期心态会影响胎儿）在文中更多作为一种文化心理现象或隐喻来讨论。这引发了在育儿乃至更广泛生活领域中，一个普遍且重要的张力：如何平衡基于实证科学的育儿建议与广泛存在的、提供安慰或意义的文化性/朴素性信念？建议创建一个查询页面，专门探讨这一平衡问题。",
+    "sourcePath": "/home/pengjiawei/Documents/obsidian_storage/WeRead/test/raw/sources/真希望我父母读过这本书.md",
+    "affectedPages": [
+      "wiki/queries/如何平衡科学育儿实证与文化心理信念.md"
+    ],
+    "searchQueries": [
+      "育儿科学实证 vs 文化心理信念",
+      "交感巫术 现代科学解释",
+      "朴素信念 在育儿中的作用与意义"
+    ],
+    "options": [
+      {
+        "label": "Create Page",
+        "action": "Create Page"
+      },
+      {
+        "label": "Skip",
+        "action": "Skip"
+      }
+    ],
+    "id": "review-96e8be98",
+    "resolved": false,
+    "createdAt": 1783916758453
+  }
+]

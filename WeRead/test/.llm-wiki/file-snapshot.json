@@ -1,0 +1,2846 @@
+{
+  "version": 1,
+  "updatedAt": 1783916762158,
+  "files": {
+    "purpose.md": {
+      "hash": "77546dadbea32fdcf671400051e18f56",
+      "size": 324,
+      "mtimeMs": 1783906621186
+    },
+    "raw/sources/82年生的金智英（再版｜同名电影原著）.md": {
+      "hash": "47f454c29ef4ec02de531849f8c47ded",
+      "size": 3020,
+      "mtimeMs": 1783907159277
+    },
+    "raw/sources/Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md": {
+      "hash": "c0bf2d8c6d774281d2a2bfa13e461bb8",
+      "size": 11210,
+      "mtimeMs": 1783907159269
+    },
+    "raw/sources/book1-claude-code.md": {
+      "hash": "ad6f055d7be4e0cfaad2af68899a6110",
+      "size": 7620,
+      "mtimeMs": 1783907159324
+    },
+    "raw/sources/一个无政府主义者的意外死亡.md": {
+      "hash": "44da797cc0a8b98b43ccf3f374a72ef4",
+      "size": 2389,
+      "mtimeMs": 1783907159312
+    },
+    "raw/sources/上瘾：让用户养成使用习惯的四大产品逻辑.md": {
+      "hash": "cf1fc5c74f4fc4dce9cb349938c56691",
+      "size": 4326,
+      "mtimeMs": 1783907159250
+    },
+    "raw/sources/不止于正义.md": {
+      "hash": "53a977cc5f80b8eed2d373e1a70644f7",
+      "size": 17996,
+      "mtimeMs": 1783907159317
+    },
+    "raw/sources/不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md": {
+      "hash": "5d1afe8b974708d6da0311300aab9cf1",
+      "size": 2305,
+      "mtimeMs": 1783907159270
+    },
+    "raw/sources/东野圭吾经典推理作品集（套装共6册）.md": {
+      "hash": "210a77b8b24f327b6c8e352f3ccc3e22",
+      "size": 3661,
+      "mtimeMs": 1783907159254
+    },
+    "raw/sources/中国历代政治得失.md": {
+      "hash": "c8c0324dfb10ce081f2523dc01a1da51",
+      "size": 4066,
+      "mtimeMs": 1783907159303
+    },
+    "raw/sources/中国哲学简史（插图修订版）.md": {
+      "hash": "483b3f500e1447752c0f762053f6eb16",
+      "size": 49039,
+      "mtimeMs": 1783907159327
+    },
+    "raw/sources/中国通史（上下册）.md": {
+      "hash": "9a71abd32aaf5c6547c6cb461f329265",
+      "size": 6494,
+      "mtimeMs": 1783907159314
+    },
+    "raw/sources/九诗心：暗夜里的文学启明.md": {
+      "hash": "950fed5a645aa419f75c77694e95fdff",
+      "size": 10306,
+      "mtimeMs": 1783907159320
+    },
+    "raw/sources/乡土中国.md": {
+      "hash": "da8def893be4f59481dcfb20acc16806",
+      "size": 2555,
+      "mtimeMs": 1783907159262
+    },
+    "raw/sources/乡土中国（果麦经典）.md": {
+      "hash": "16953657a8b6032117b5a0dc75129c91",
+      "size": 8345,
+      "mtimeMs": 1783907159323
+    },
+    "raw/sources/人生借阅室（打开一种人生）.md": {
+      "hash": "85dd8e0b9f037bcb19de5db73496134a",
+      "size": 2008,
+      "mtimeMs": 1783907159291
+    },
+    "raw/sources/人生总会有答案.md": {
+      "hash": "41b15a1d06e2e1aa1c4a8dd0b901238e",
+      "size": 3854,
+      "mtimeMs": 1783907159302
+    },
+    "raw/sources/人生海海.md": {
+      "hash": "273bf29c2ac4ae518824a56f11e69efd",
+      "size": 1589,
+      "mtimeMs": 1783907159252
+    },
+    "raw/sources/人生的智慧.md": {
+      "hash": "31b200137d1907c2bff3ad90c8ad20ac",
+      "size": 3647,
+      "mtimeMs": 1783907159255
+    },
+    "raw/sources/人生解忧：佛学入门四十讲.md": {
+      "hash": "1f9fdf8a2d750d216413539a78cc69ff",
+      "size": 3228,
+      "mtimeMs": 1783907159315
+    },
+    "raw/sources/从零开始的女性主义.md": {
+      "hash": "23f2acfe2afba73f12683cea87f9851a",
+      "size": 5984,
+      "mtimeMs": 1783907159272
+    },
+    "raw/sources/何为良好生活：行之于途而应于心.md": {
+      "hash": "893d95b73dd1144457506fd34575c6bd",
+      "size": 25734,
+      "mtimeMs": 1783907159312
+    },
+    "raw/sources/你一生的故事（译林幻系列）.md": {
+      "hash": "0b01cbae519b6392d6c742a611e0b3dc",
+      "size": 3807,
+      "mtimeMs": 1783907159304
+    },
+    "raw/sources/你当像鸟飞往你的山.md": {
+      "hash": "6acc3e8edf83aef61c29e1a5c691381e",
+      "size": 4978,
+      "mtimeMs": 1783907159261
+    },
+    "raw/sources/你永远都无法叫醒一个装睡的人.md": {
+      "hash": "0be87c4c4c51097fa03b632557d728ec",
+      "size": 6882,
+      "mtimeMs": 1783907159300
+    },
+    "raw/sources/你的敏感，就是你的天赋.md": {
+      "hash": "c9f64b9684980dee88f391dba97ea2fc",
+      "size": 3029,
+      "mtimeMs": 1783907159299
+    },
+    "raw/sources/倦怠社会.md": {
+      "hash": "df986a8ca961980e5a582c71f0c7b13e",
+      "size": 11063,
+      "mtimeMs": 1783907159288
+    },
+    "raw/sources/做一个清醒的现代人.md": {
+      "hash": "1c2c70bea4d303595960fd5b4a3a6fb2",
+      "size": 4779,
+      "mtimeMs": 1783907159283
+    },
+    "raw/sources/停止想太多：写给高敏者的职场突破指南.md": {
+      "hash": "eee07ad33ed8d67bf208cdbfb5725079",
+      "size": 24376,
+      "mtimeMs": 1783907159293
+    },
+    "raw/sources/刘擎西方现代思想讲义.md": {
+      "hash": "28e4d8e0812a1c91b30b8d5062ad1018",
+      "size": 10335,
+      "mtimeMs": 1783907159271
+    },
+    "raw/sources/别想生活有答案：改变生活的100个思维大冒险.md": {
+      "hash": "bc91246466fb8f9ffbd8fe36135ba044",
+      "size": 3007,
+      "mtimeMs": 1783907159265
+    },
+    "raw/sources/历史深处的民国（全集）.md": {
+      "hash": "ce2c8f9c94a337a0d48b6b037c5bccd2",
+      "size": 3397,
+      "mtimeMs": 1783907159316
+    },
+    "raw/sources/反脆弱：从不确定性中获益.md": {
+      "hash": "f1bef8c557defe05aa0322f272442ca6",
+      "size": 2406,
+      "mtimeMs": 1783907159251
+    },
+    "raw/sources/古龙作品大全集.md": {
+      "hash": "2340adf7b0249c818b3a8203053f34ad",
+      "size": 2432,
+      "mtimeMs": 1783907159279
+    },
+    "raw/sources/可能性的艺术：比较政治学30讲.md": {
+      "hash": "073f81214a08b5fe13d0860ff932e548",
+      "size": 21646,
+      "mtimeMs": 1783907159325
+    },
+    "raw/sources/命运.md": {
+      "hash": "b640ee23bc859c25e918d7230c950134",
+      "size": 4638,
+      "mtimeMs": 1783907159286
+    },
+    "raw/sources/哲学的故事.md": {
+      "hash": "c8f435f5dee9d76bc97c8e9e233b9c60",
+      "size": 1017,
+      "mtimeMs": 1783907159264
+    },
+    "raw/sources/在峡江的转弯处：陈行甲人生笔记.md": {
+      "hash": "22db8c0fd1966dd597c042a1d85b9b67",
+      "size": 2184,
+      "mtimeMs": 1783907159311
+    },
+    "raw/sources/坏小孩（秦昊、王景春《隐秘的角落》原著）.md": {
+      "hash": "ffd3ac85c1d54f36591af9c9d2a62ff3",
+      "size": 2847,
+      "mtimeMs": 1783907159259
+    },
+    "raw/sources/基业长青（珍藏版）.md": {
+      "hash": "e91203fe6835d3e2ed8ac2efec2e32bf",
+      "size": 5305,
+      "mtimeMs": 1783907159266
+    },
+    "raw/sources/多谈谈问题（单读33）.md": {
+      "hash": "1b771ecf055c9176c30fb731fd467ebc",
+      "size": 2379,
+      "mtimeMs": 1783907159289
+    },
+    "raw/sources/失明症漫记（罗翔推荐）.md": {
+      "hash": "9ed917dd2a5bcb22380440704d2933f7",
+      "size": 2195,
+      "mtimeMs": 1783907159284
+    },
+    "raw/sources/如何克服社交焦虑.md": {
+      "hash": "b46036f540f72603a026dda49cad6b66",
+      "size": 20638,
+      "mtimeMs": 1783907159297
+    },
+    "raw/sources/始于极限：女性主义往复书简.md": {
+      "hash": "fa608a32bcfce80bd3ea5832f0c22f8b",
+      "size": 3151,
+      "mtimeMs": 1783907159280
+    },
+    "raw/sources/宽容.md": {
+      "hash": "2751c0c8d9527346e0e38c8780f35299",
+      "size": 2529,
+      "mtimeMs": 1783907159257
+    },
+    "raw/sources/少有人走的路：心智成熟的旅程.md": {
+      "hash": "d94ea2b60cc117e8502be375602c6419",
+      "size": 3739,
+      "mtimeMs": 1783907159298
+    },
+    "raw/sources/局外人（果麦经典）.md": {
+      "hash": "fde3212bee4440089ca775b7553d5b56",
+      "size": 3724,
+      "mtimeMs": 1783907159251
+    },
+    "raw/sources/布鲁特斯的心脏.md": {
+      "hash": "8b145e99e16981443276f6e5480b2f99",
+      "size": 3127,
+      "mtimeMs": 1783907159228
+    },
+    "raw/sources/带队伍：不会带团队，你就只能干到死!.md": {
+      "hash": "f433d2b833e58ec374382549602b8149",
+      "size": 2513,
+      "mtimeMs": 1783907159275
+    },
+    "raw/sources/德米安：彷徨少年时（黑塞精选集）.md": {
+      "hash": "b2c4e535c0fb0d3d258dfdc05d0897de",
+      "size": 4492,
+      "mtimeMs": 1783907159295
+    },
+    "raw/sources/心是孤独的猎手.md": {
+      "hash": "036f904ead76aad3c3f5a7f7f21e72e7",
+      "size": 10719,
+      "mtimeMs": 1783907159253
+    },
+    "raw/sources/思维的囚徒.md": {
+      "hash": "65a6ba557d8cd1d8fe367e24ea3cb5da",
+      "size": 1959,
+      "mtimeMs": 1783907159256
+    },
+    "raw/sources/我们如何思考.md": {
+      "hash": "49aad4961c0ef643af9b304541d76a12",
+      "size": 57641,
+      "mtimeMs": 1783907159309
+    },
+    "raw/sources/我们活着的理由：弗兰克尔论生命的意义.md": {
+      "hash": "1647a019391e6b188c1f5c9c21d46aaa",
+      "size": 41446,
+      "mtimeMs": 1783907159310
+    },
+    "raw/sources/我所相信的生活.md": {
+      "hash": "d979e2c58ea7ef0669081766b642402f",
+      "size": 13079,
+      "mtimeMs": 1783907159328
+    },
+    "raw/sources/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md": {
+      "hash": "3f2b679d494b6c88bb7f4c5be985efdf",
+      "size": 5738,
+      "mtimeMs": 1783907159308
+    },
+    "raw/sources/我的心渴望一种更加惊险的生活（果麦经典）.md": {
+      "hash": "ed10059655d76c95b31885041f8aa73f",
+      "size": 7264,
+      "mtimeMs": 1783907159313
+    },
+    "raw/sources/打开：周濂的100堂西方哲学课.md": {
+      "hash": "9f82381888538aea21acfad0961b782b",
+      "size": 3818,
+      "mtimeMs": 1783907159260
+    },
+    "raw/sources/摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配.md": {
+      "hash": "3adcb77628098a42d65d59ba213471b6",
+      "size": 31927,
+      "mtimeMs": 1783907159284
+    },
+    "raw/sources/文学中的人生进化课.md": {
+      "hash": "f33e77a8444bb81403b63f67e345653b",
+      "size": 2043,
+      "mtimeMs": 1783907159296
+    },
+    "raw/sources/明朝那些事儿·全集（2021年 增补版）.md": {
+      "hash": "342bee73460deea4cef2f9d245100970",
+      "size": 3256,
+      "mtimeMs": 1783907159303
+    },
+    "raw/sources/杀死一只知更鸟（同名电影原著）.md": {
+      "hash": "77eccbe0b32960ead24959f7f62383fa",
+      "size": 7315,
+      "mtimeMs": 1783907159248
+    },
+    "raw/sources/毛姆短篇小说精选集.md": {
+      "hash": "e868bbb3fe092c476c9b807ba8882d36",
+      "size": 1479,
+      "mtimeMs": 1783907159257
+    },
+    "raw/sources/毛泽东选集（全四卷）.md": {
+      "hash": "68fb46b9559f923f8f3224621a61b7a1",
+      "size": 2445,
+      "mtimeMs": 1783907159326
+    },
+    "raw/sources/法律的悖论.md": {
+      "hash": "4644b581127424bfe5a392dfaff3d356",
+      "size": 4349,
+      "mtimeMs": 1783907159307
+    },
+    "raw/sources/浪花少年侦探团.md": {
+      "hash": "0f2a27e2029cf04f1ce638817f0b2df1",
+      "size": 1675,
+      "mtimeMs": 1783907159249
+    },
+    "raw/sources/滔滔生活.md": {
+      "hash": "74bef7211f097637204c15eac57080b1",
+      "size": 3006,
+      "mtimeMs": 1783907159287
+    },
+    "raw/sources/焦虑的人.md": {
+      "hash": "71f93f2a8349e497a1ba5df12364e1bd",
+      "size": 1707,
+      "mtimeMs": 1783907159278
+    },
+    "raw/sources/生成式人工智能.md": {
+      "hash": "3fd6bc157d5c2f27f3c31914b93c3d1d",
+      "size": 2302,
+      "mtimeMs": 1783907159292
+    },
+    "raw/sources/白夜行.md": {
+      "hash": "17fc12b1d744f3ac48055a4d5a976576",
+      "size": 2639,
+      "mtimeMs": 1783907159245
+    },
+    "raw/sources/皮囊.md": {
+      "hash": "0313087b08458c2da380e68c5b0b7a34",
+      "size": 1934,
+      "mtimeMs": 1783907159246
+    },
+    "raw/sources/真希望我父母读过这本书.md": {
+      "hash": "b516a63bde04f332bf3e5493169f8d55",
+      "size": 24723,
+      "mtimeMs": 1783907159330
+    },
+    "raw/sources/红星照耀中国.md": {
+      "hash": "0ae5da94c626bc13ffdd4824a5094ecd",
+      "size": 4549,
+      "mtimeMs": 1783907159318
+    },
+    "raw/sources/维特根斯坦传：天才之为责任.md": {
+      "hash": "ba46c269e4570b363455aebaf684a769",
+      "size": 2371,
+      "mtimeMs": 1783907159263
+    },
+    "raw/sources/维特根斯坦十讲.md": {
+      "hash": "54f0f78df6d25b3b538cc0a206c1da54",
+      "size": 22343,
+      "mtimeMs": 1783907159294
+    },
+    "raw/sources/與中國打交道——美國前財長鮑爾森的二十年內幕觀察.md": {
+      "hash": "842793572db5cb9fdecc8926b49b229a",
+      "size": 5600,
+      "mtimeMs": 1783907159319
+    },
+    "raw/sources/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md": {
+      "hash": "404ea995f832a03debb1a54b77580c59",
+      "size": 1978,
+      "mtimeMs": 1783907159301
+    },
+    "raw/sources/荒原狼.md": {
+      "hash": "dab100ec90bfbd2c52fe41677bf5349c",
+      "size": 2449,
+      "mtimeMs": 1783907159280
+    },
+    "raw/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md": {
+      "hash": "7e479e3bf4ebc7fca977267f26f71c90",
+      "size": 14592,
+      "mtimeMs": 1783907159267
+    },
+    "raw/sources/西方哲学史讲演录.md": {
+      "hash": "7e83b4d73347a62eca55bc3444a378e5",
+      "size": 2739,
+      "mtimeMs": 1783907159329
+    },
+    "raw/sources/西西弗神话.md": {
+      "hash": "900200f92bc2d7abf931b2466b492b9d",
+      "size": 4760,
+      "mtimeMs": 1783907159282
+    },
+    "raw/sources/认知觉醒：开启自我改变的原动力.md": {
+      "hash": "637eee8d6f91d054f67b8597172628df",
+      "size": 4158,
+      "mtimeMs": 1783907159299
+    },
+    "raw/sources/读者（2022年第13期）.md": {
+      "hash": "f495c60849bfe1dc94fe99115d30a2f6",
+      "size": 2263,
+      "mtimeMs": 1783907159273
+    },
+    "raw/sources/足利女童连续失踪事件.md": {
+      "hash": "0f1411733a54ae3c1d550ac643d24805",
+      "size": 3500,
+      "mtimeMs": 1783907159281
+    },
+    "raw/sources/逃避自由（弗洛姆作品系列）.md": {
+      "hash": "3dd700291da3db80087144d131aec413",
+      "size": 13251,
+      "mtimeMs": 1783907159285
+    },
+    "raw/sources/道德经（中华国学经典精粹）.md": {
+      "hash": "a720a4075339f15cfd59c14591cc4776",
+      "size": 3523,
+      "mtimeMs": 1783907159305
+    },
+    "raw/sources/陪老婆怀孕.md": {
+      "hash": "1f66128993966bb7efeb2720b72a9c96",
+      "size": 4680,
+      "mtimeMs": 1783907159321
+    },
+    "raw/sources/非暴力沟通.md": {
+      "hash": "431690638f142e695157050bcd1fdd65",
+      "size": 2122,
+      "mtimeMs": 1783907159268
+    },
+    "raw/sources/面纱.md": {
+      "hash": "38b359cc7bf34bf8bdc088bfbc8bcf1e",
+      "size": 4353,
+      "mtimeMs": 1783907159268
+    },
+    "schema.md": {
+      "hash": "74be8ad21cdd66495b0e39508ee783b9",
+      "size": 2078,
+      "mtimeMs": 1783906621185
+    },
+    "wiki/comparisons/孟子与告子的人性论之辩.md": {
+      "hash": "d1292fcc4d882b18061143add5223534",
+      "size": 2267,
+      "mtimeMs": 1783916464056
+    },
+    "wiki/comparisons/朱熹与王阳明的心物之辩.md": {
+      "hash": "c98c979d08f56042035a15dc65b1a304",
+      "size": 2487,
+      "mtimeMs": 1783916464057
+    },
+    "wiki/concepts/3秒钟原则.md": {
+      "hash": "9267c2a45c5f4ea5069d3227d121823a",
+      "size": 1582,
+      "mtimeMs": 1783912667382
+    },
+    "wiki/concepts/ai代理系统错误处理原则.md": {
+      "hash": "da2fa7e7ad7c66fe8645cdec3a32922a",
+      "size": 1762,
+      "mtimeMs": 1783916118687
+    },
+    "wiki/concepts/dna型鉴定的科学性与局限性.md": {
+      "hash": "92974db0cc07a10a5e877ee554c9315f",
+      "size": 1877,
+      "mtimeMs": 1783910642464
+    },
+    "wiki/concepts/skill作为可复用的制度切片.md": {
+      "hash": "a1ca6a463e358cb0865fbdc6244188dd",
+      "size": 1518,
+      "mtimeMs": 1783916118685
+    },
+    "wiki/concepts/《心经》与《金刚经》.md": {
+      "hash": "b39574227077e0406c0965f59aa02ce0",
+      "size": 1379,
+      "mtimeMs": 1783915182548
+    },
+    "wiki/concepts/三难困境.md": {
+      "hash": "8e28123a18eec278960cc9f3a0eaebdf",
+      "size": 1543,
+      "mtimeMs": 1783916205312
+    },
+    "wiki/concepts/上下文治理.md": {
+      "hash": "6a65431870602053a262097ddf0a480b",
+      "size": 1374,
+      "mtimeMs": 1783916118684
+    },
+    "wiki/concepts/上瘾模型.md": {
+      "hash": "7dc45d49606609ccfd789491e6beb49a",
+      "size": 2086,
+      "mtimeMs": 1783907547808
+    },
+    "wiki/concepts/不宽容的三类型.md": {
+      "hash": "83b648761eff515d666ecd1f50f22e22",
+      "size": 1188,
+      "mtimeMs": 1783908215791
+    },
+    "wiki/concepts/不自见故明.md": {
+      "hash": "6e9dd2c5a957d4867f951c00d4f49cf1",
+      "size": 987,
+      "mtimeMs": 1783913798097
+    },
+    "wiki/concepts/世界的荒诞与陌生感.md": {
+      "hash": "9675da03ece3a9c1cef18ce12f2a3de1",
+      "size": 789,
+      "mtimeMs": 1783907711076
+    },
+    "wiki/concepts/两个世界-德米安.md": {
+      "hash": "9531e7ad5811a9eb41e76c973d9c7384",
+      "size": 1382,
+      "mtimeMs": 1783912391417
+    },
+    "wiki/concepts/乡土与远方.md": {
+      "hash": "3fab7d9ba79c89ff7c258c8510aee84f",
+      "size": 689,
+      "mtimeMs": 1783907349933
+    },
+    "wiki/concepts/乡土社会.md": {
+      "hash": "133dbab4adc2f0cc5d64366862ba4bb8",
+      "size": 1472,
+      "mtimeMs": 1783915993765
+    },
+    "wiki/concepts/事实与价值二分.md": {
+      "hash": "8e85b406565695acf65663dc70c4326c",
+      "size": 1086,
+      "mtimeMs": 1783910849392
+    },
+    "wiki/concepts/人法地地法天.md": {
+      "hash": "769a3eb38918af1efcad328f4f51299b",
+      "size": 1142,
+      "mtimeMs": 1783913798098
+    },
+    "wiki/concepts/人生四境界说.md": {
+      "hash": "912c92f582c5afad19cd72de9bedd33f",
+      "size": 1752,
+      "mtimeMs": 1783916464054
+    },
+    "wiki/concepts/人生阶段论.md": {
+      "hash": "08b7634152783bae10c4fa37d981350a",
+      "size": 1724,
+      "mtimeMs": 1783908093035
+    },
+    "wiki/concepts/仁.md": {
+      "hash": "bce1aaed065c7536ce93309ae350eff7",
+      "size": 1638,
+      "mtimeMs": 1783916464029
+    },
+    "wiki/concepts/他者贡献.md": {
+      "hash": "1ef9a7d62b94ad06311b52dd3afd9825",
+      "size": 1780,
+      "mtimeMs": 1783909218547
+    },
+    "wiki/concepts/代际对话与信任重建.md": {
+      "hash": "c77979ccbdd70d88f672a1b9103c8e39",
+      "size": 1248,
+      "mtimeMs": 1783910497691
+    },
+    "wiki/concepts/伟大构想的迷思.md": {
+      "hash": "efc88605c2dd0733aa0a8432b341cb0e",
+      "size": 826,
+      "mtimeMs": 1783909097425
+    },
+    "wiki/concepts/传统思想的务实性.md": {
+      "hash": "765a39b963e6b67834cf9a5073a3bf67",
+      "size": 1742,
+      "mtimeMs": 1783915090054
+    },
+    "wiki/concepts/佛教生死观.md": {
+      "hash": "b02aafc88aa249baf29733214bf77641",
+      "size": 1291,
+      "mtimeMs": 1783915182549
+    },
+    "wiki/concepts/倦怠社会.md": {
+      "hash": "efa4700f913dc706fd5c18cc4a55d3e3",
+      "size": 2159,
+      "mtimeMs": 1783911533003
+    },
+    "wiki/concepts/倾听作为救赎.md": {
+      "hash": "6109a8672bae8598345b4b345f46432f",
+      "size": 1155,
+      "mtimeMs": 1783907881579
+    },
+    "wiki/concepts/关系修复.md": {
+      "hash": "ddb7af57cc04a7edd1976eb3263e9170",
+      "size": 1800,
+      "mtimeMs": 1783916758405
+    },
+    "wiki/concepts/兼爱.md": {
+      "hash": "51241fa090a41f5f1c5a7f468ca7725c",
+      "size": 1598,
+      "mtimeMs": 1783916464032
+    },
+    "wiki/concepts/兼爱与为我.md": {
+      "hash": "c3ba0fe1f20f7d6ea4032c78e3d96381",
+      "size": 1600,
+      "mtimeMs": 1783915090050
+    },
+    "wiki/concepts/内向效用.md": {
+      "hash": "bd9d741adccf63f52c9c780d4f1787a4",
+      "size": 1494,
+      "mtimeMs": 1783914705845
+    },
+    "wiki/concepts/内在幸福与独立.md": {
+      "hash": "b332f1300576fdf4dd82431bec770ab7",
+      "size": 1677,
+      "mtimeMs": 1783908093033
+    },
+    "wiki/concepts/内在自我与直觉探索.md": {
+      "hash": "376a695130b07c79e7a658e11f761502",
+      "size": 1489,
+      "mtimeMs": 1783912391421
+    },
+    "wiki/concepts/内在评判.md": {
+      "hash": "6ba02ff8391db1e560fff580e2837b50",
+      "size": 1792,
+      "mtimeMs": 1783912667378
+    },
+    "wiki/concepts/内疚之坑.md": {
+      "hash": "0b32c3cf1ae8c29c097e234291967066",
+      "size": 1770,
+      "mtimeMs": 1783911029435
+    },
+    "wiki/concepts/内疚作为道德感的加重表述.md": {
+      "hash": "4f475700387a7cad543a0c2c30fe60fb",
+      "size": 1576,
+      "mtimeMs": 1783910933796
+    },
+    "wiki/concepts/写作的使命与优先性.md": {
+      "hash": "1b5c8b5b7607e8e433224d7d1d95262d",
+      "size": 1739,
+      "mtimeMs": 1783914950896
+    },
+    "wiki/concepts/军事决策中的个人意志与血性.md": {
+      "hash": "3fe860a1125bf0573b1769ed7d20ce6d",
+      "size": 1031,
+      "mtimeMs": 1783915351405
+    },
+    "wiki/concepts/冷峻叙事.md": {
+      "hash": "32731aebc882951b0ea45fed87dc1a5f",
+      "size": 1389,
+      "mtimeMs": 1783908304439
+    },
+    "wiki/concepts/刑罚的报应论与预防论.md": {
+      "hash": "0ba495238959a3945508c52a78436e48",
+      "size": 1338,
+      "mtimeMs": 1783913892689
+    },
+    "wiki/concepts/利润神话.md": {
+      "hash": "ba181470e955b9fe35b01928382af53c",
+      "size": 829,
+      "mtimeMs": 1783909097429
+    },
+    "wiki/concepts/制度与法术的区分.md": {
+      "hash": "99d1fa8f2e8adbf57a752d28a012eaa5",
+      "size": 1243,
+      "mtimeMs": 1783913507653
+    },
+    "wiki/concepts/剥离流程.md": {
+      "hash": "0d9d6aa632adec0f142115dac2d44d4f",
+      "size": 2023,
+      "mtimeMs": 1783911029434
+    },
+    "wiki/concepts/功绩社会.md": {
+      "hash": "712d6e2f5c81958d5cd69c351f25c596",
+      "size": 1841,
+      "mtimeMs": 1783911533005
+    },
+    "wiki/concepts/务实的理想主义.md": {
+      "hash": "42e7b7901fc26fa18dad203f241b2e40",
+      "size": 947,
+      "mtimeMs": 1783909097426
+    },
+    "wiki/concepts/反本质主义.md": {
+      "hash": "659575513c09ab44403cc065e61ce074",
+      "size": 1495,
+      "mtimeMs": 1783912235812
+    },
+    "wiki/concepts/古龙的人生哲学.md": {
+      "hash": "536bc5988830962b40f1f3b2f01df1b0",
+      "size": 1173,
+      "mtimeMs": 1783910309600
+    },
+    "wiki/concepts/古龙的武侠小说创新.md": {
+      "hash": "63613010f83760cfc39663f344df20ac",
+      "size": 1054,
+      "mtimeMs": 1783910309598
+    },
+    "wiki/concepts/司法公正与冤案风险.md": {
+      "hash": "5a6fac41fd27598b51b1a422e04522e3",
+      "size": 1818,
+      "mtimeMs": 1783910642467
+    },
+    "wiki/concepts/合作型管教.md": {
+      "hash": "00af0d58fb8e49b4a5f3636216c17eab",
+      "size": 1785,
+      "mtimeMs": 1783916758406
+    },
+    "wiki/concepts/同情与同情病.md": {
+      "hash": "0c8e8ef2a9ce9f3f652abb94fbb56065",
+      "size": 1197,
+      "mtimeMs": 1783909582988
+    },
+    "wiki/concepts/同理心教育.md": {
+      "hash": "a046c0e939eed2bbdcda93b9fc51a1f4",
+      "size": 1292,
+      "mtimeMs": 1783907426781
+    },
+    "wiki/concepts/名实之辩.md": {
+      "hash": "5de342c81a29d44cfb75526cb0692403",
+      "size": 2070,
+      "mtimeMs": 1783916464055
+    },
+    "wiki/concepts/名家.md": {
+      "hash": "a7b300e2b73e3aedbdeb97885c06e384",
+      "size": 1655,
+      "mtimeMs": 1783916464055
+    },
+    "wiki/concepts/命名权.md": {
+      "hash": "e4a331f655f8404bdaac7aa9e00a43ea",
+      "size": 744,
+      "mtimeMs": 1783913584740
+    },
+    "wiki/concepts/喜剧作为批判工具.md": {
+      "hash": "4cb058f6883c9da57c6b14bba71611d5",
+      "size": 1154,
+      "mtimeMs": 1783914591119
+    },
+    "wiki/concepts/四圣谛.md": {
+      "hash": "c31d693c7a2b3ae7ca23b1db4ad6a084",
+      "size": 1220,
+      "mtimeMs": 1783915182546
+    },
+    "wiki/concepts/地方粮仓与国家存亡关联.md": {
+      "hash": "17761d8dfff125b0a4b1167e518ccb52",
+      "size": 1012,
+      "mtimeMs": 1783915351407
+    },
+    "wiki/concepts/复合平等.md": {
+      "hash": "21f9e3302695dfc1c890e8f0c1e774cc",
+      "size": 1388,
+      "mtimeMs": 1783910849395
+    },
+    "wiki/concepts/女性主义往复书简.md": {
+      "hash": "c80e65ba7eac948dc73f32d42a094db5",
+      "size": 1134,
+      "mtimeMs": 1783910497690
+    },
+    "wiki/concepts/女性权利意识与性别叙事.md": {
+      "hash": "e79e436a2fdc0565658b7a1a79b5fe7a",
+      "size": 737,
+      "mtimeMs": 1783915442428
+    },
+    "wiki/concepts/存在的真空.md": {
+      "hash": "914a303599ed8833d1739e0eb244edb8",
+      "size": 2595,
+      "mtimeMs": 1783914431422
+    },
+    "wiki/concepts/孤独.md": {
+      "hash": "089d73042ea5b6c49efeea393c4a13a3",
+      "size": 1289,
+      "mtimeMs": 1783907881578
+    },
+    "wiki/concepts/宗教改革的监狱隐喻.md": {
+      "hash": "dc1323b11f2b521123e250fdcbbda98a",
+      "size": 1199,
+      "mtimeMs": 1783908215792
+    },
+    "wiki/concepts/宗藩关系.md": {
+      "hash": "1d0333ce8011be4c04cab7ba6404093a",
+      "size": 834,
+      "mtimeMs": 1783913584741
+    },
+    "wiki/concepts/实然与应然.md": {
+      "hash": "436fa5e96b7c5211c43e6720220065ad",
+      "size": 1679,
+      "mtimeMs": 1783914705843
+    },
+    "wiki/concepts/实用道德观.md": {
+      "hash": "3049c1986888d30c9c503cdb35f46aa9",
+      "size": 1676,
+      "mtimeMs": 1783916543472
+    },
+    "wiki/concepts/实践与制作.md": {
+      "hash": "171c24a63deb5c744317af92a55f6cd4",
+      "size": 1490,
+      "mtimeMs": 1783914705841
+    },
+    "wiki/concepts/实践智慧.md": {
+      "hash": "fa8cc6ac7469291a87b33fe5fbc8c823",
+      "size": 1636,
+      "mtimeMs": 1783914705840
+    },
+    "wiki/concepts/宠辱若惊.md": {
+      "hash": "df5a5d5c58ce5cf918bf12ac64a0a775",
+      "size": 1088,
+      "mtimeMs": 1783913798096
+    },
+    "wiki/concepts/家庭创伤与记忆重构.md": {
+      "hash": "0deea4ed0f673e17715f07b822b3fde1",
+      "size": 2396,
+      "mtimeMs": 1783908574874
+    },
+    "wiki/concepts/家族相似性.md": {
+      "hash": "3a8f3e9c922054848b99833be1f888d4",
+      "size": 1480,
+      "mtimeMs": 1783912235820
+    },
+    "wiki/concepts/宽容悖论.md": {
+      "hash": "1946451d621f1e1211b4bd770d01e38d",
+      "size": 751,
+      "mtimeMs": 1783915442408
+    },
+    "wiki/concepts/密室推理.md": {
+      "hash": "1ea98cae255a58837fec424608032b87",
+      "size": 1413,
+      "mtimeMs": 1783907478851
+    },
+    "wiki/concepts/寸土必争与战略转进.md": {
+      "hash": "091c190a0a05c25c8d3cf3388afa420d",
+      "size": 1066,
+      "mtimeMs": 1783915351406
+    },
+    "wiki/concepts/对宿命论的反抗.md": {
+      "hash": "31fefe205e1f3f91e8e0503153955c20",
+      "size": 2196,
+      "mtimeMs": 1783911253878
+    },
+    "wiki/concepts/对生命本身的欢庆.md": {
+      "hash": "f0507123264c89748953c8f38fbbf6f8",
+      "size": 1524,
+      "mtimeMs": 1783915696464
+    },
+    "wiki/concepts/尸体接力.md": {
+      "hash": "ec7605ad0d5fecb1a0a70706f8256dab",
+      "size": 1666,
+      "mtimeMs": 1783907213147
+    },
+    "wiki/concepts/差序格局.md": {
+      "hash": "083a3a0eb780e644f388095658b1c035",
+      "size": 2866,
+      "mtimeMs": 1783916013368
+    },
+    "wiki/concepts/希望作为易受骗性的根源.md": {
+      "hash": "f86f5da030ba8349301b479bc65563e9",
+      "size": 2565,
+      "mtimeMs": 1783908872170
+    },
+    "wiki/concepts/平庸之恶.md": {
+      "hash": "2dd35ee8d17c58655822c4938ecc4ebd",
+      "size": 823,
+      "mtimeMs": 1783915442405
+    },
+    "wiki/concepts/归纳原则.md": {
+      "hash": "719709453ad2014e9937880ff6bed1a6",
+      "size": 1866,
+      "mtimeMs": 1783912235815
+    },
+    "wiki/concepts/当下体验与意识穿梭.md": {
+      "hash": "cab5246833b5662eb33ca34adef67c81",
+      "size": 1650,
+      "mtimeMs": 1783915182544
+    },
+    "wiki/concepts/德性与习性.md": {
+      "hash": "0f4adc0142f732067ff1fda4794673f4",
+      "size": 1708,
+      "mtimeMs": 1783914705846
+    },
+    "wiki/concepts/必然性与宿命论.md": {
+      "hash": "72cfa3887e60a015625dc862cc3b0d2f",
+      "size": 1481,
+      "mtimeMs": 1783908093034
+    },
+    "wiki/concepts/态度性价值.md": {
+      "hash": "7641f847be28197b1b87f814639a93db",
+      "size": 2794,
+      "mtimeMs": 1783914431423
+    },
+    "wiki/concepts/性善性恶之辩.md": {
+      "hash": "25b09228240017ca97ac067ee2372461",
+      "size": 2022,
+      "mtimeMs": 1783916464034
+    },
+    "wiki/concepts/悬疑推理.md": {
+      "hash": "e9f599a3336ef194c6bb2ff17ba127a7",
+      "size": 730,
+      "mtimeMs": 1783907297476
+    },
+    "wiki/concepts/情绪强烈与稳定性区分.md": {
+      "hash": "843ec8f53ca7061976632aa40b9cbbc7",
+      "size": 1543,
+      "mtimeMs": 1783912998398
+    },
+    "wiki/concepts/意义即用法.md": {
+      "hash": "ca6e5092e1fb5709db877204239c7953",
+      "size": 1677,
+      "mtimeMs": 1783912235818
+    },
+    "wiki/concepts/意义感的社会关联性.md": {
+      "hash": "8311981f786b9ed4b34569ebaf91c35b",
+      "size": 1034,
+      "mtimeMs": 1783912452897
+    },
+    "wiki/concepts/意义疗法.md": {
+      "hash": "fa811522d0fb92cc1f2ac6df47e42f21",
+      "size": 3767,
+      "mtimeMs": 1783914431420
+    },
+    "wiki/concepts/成熟-作为人格特质.md": {
+      "hash": "ce6865a7e7d124b660a9624a29093089",
+      "size": 1272,
+      "mtimeMs": 1783909997284
+    },
+    "wiki/concepts/扩张解释与类推解释.md": {
+      "hash": "b30d95ab38dd53e4af1b399f59f6714d",
+      "size": 1424,
+      "mtimeMs": 1783913892690
+    },
+    "wiki/concepts/指明技术.md": {
+      "hash": "3b5c8af6aff7c6c446aba2f5d0255aed",
+      "size": 1946,
+      "mtimeMs": 1783912667362
+    },
+    "wiki/concepts/损害原则.md": {
+      "hash": "4b94bd0429c399215d042c2de3a5ea61",
+      "size": 742,
+      "mtimeMs": 1783915442407
+    },
+    "wiki/concepts/接受与抗争（命运与态度）.md": {
+      "hash": "6260a44708998d76aa73cf2f2cc8142f",
+      "size": 1836,
+      "mtimeMs": 1783915696465
+    },
+    "wiki/concepts/控制平面.md": {
+      "hash": "1a1aec49563c077e88071c5a05dabdd8",
+      "size": 1296,
+      "mtimeMs": 1783916118683
+    },
+    "wiki/concepts/推回.md": {
+      "hash": "ee72cb71cf4a17aaa70b566d9f07b1b9",
+      "size": 1540,
+      "mtimeMs": 1783911029436
+    },
+    "wiki/concepts/揭开生活的面纱.md": {
+      "hash": "8d2e67ddff5789767d7f768628ed408b",
+      "size": 1609,
+      "mtimeMs": 1783909390557
+    },
+    "wiki/concepts/政治实用主义.md": {
+      "hash": "da373f7ae8bf0a1b12aa2d5dd256e0f1",
+      "size": 1469,
+      "mtimeMs": 1783915090053
+    },
+    "wiki/concepts/敏感者的适应策略.md": {
+      "hash": "aa4b49f4fc6c39bb021110e4d0834b63",
+      "size": 1466,
+      "mtimeMs": 1783912998398
+    },
+    "wiki/concepts/教育作为解放.md": {
+      "hash": "9784a9c46818fb88d3e24c06fcb70499",
+      "size": 1852,
+      "mtimeMs": 1783908574873
+    },
+    "wiki/concepts/文学中的道诠释.md": {
+      "hash": "0b334e7386cf4011b9769ed07313b0d1",
+      "size": 1437,
+      "mtimeMs": 1783909390559
+    },
+    "wiki/concepts/文学作为人生教科书.md": {
+      "hash": "c25ab784d864a2617da4c4c10d4bc9e2",
+      "size": 1061,
+      "mtimeMs": 1783912452896
+    },
+    "wiki/concepts/无为.md": {
+      "hash": "c81d9a4058f57e64102d15412db11932",
+      "size": 1590,
+      "mtimeMs": 1783916464031
+    },
+    "wiki/concepts/无为政治.md": {
+      "hash": "120d739b6ff8a1c0f9eab847f26c409d",
+      "size": 1533,
+      "mtimeMs": 1783916050519
+    },
+    "wiki/concepts/无我.md": {
+      "hash": "6fcdd7b4a016692cac2f483e1db28446",
+      "size": 1124,
+      "mtimeMs": 1783915182547
+    },
+    "wiki/concepts/时势权力.md": {
+      "hash": "24751cb57bf05db8e785ff3b8352f65f",
+      "size": 1481,
+      "mtimeMs": 1783916050522
+    },
+    "wiki/concepts/暴露焦虑症.md": {
+      "hash": "8437ebedead9f64b493a565c546c165b",
+      "size": 1697,
+      "mtimeMs": 1783913086043
+    },
+    "wiki/concepts/有毒完美主义.md": {
+      "hash": "9e5665559fecd3688cb5f459c7216be8",
+      "size": 2026,
+      "mtimeMs": 1783912667381
+    },
+    "wiki/concepts/权利理论.md": {
+      "hash": "c886e4a21316f1cb033f1e4ac01cca6e",
+      "size": 793,
+      "mtimeMs": 1783915442406
+    },
+    "wiki/concepts/权威表演性.md": {
+      "hash": "bc09b7a6514a84a794776fcd851b3ce4",
+      "size": 1224,
+      "mtimeMs": 1783914591118
+    },
+    "wiki/concepts/核心价值定义与实践.md": {
+      "hash": "3ee39476fdc425b65e2778312aa6aa26",
+      "size": 1756,
+      "mtimeMs": 1783911960489
+    },
+    "wiki/concepts/核心理念.md": {
+      "hash": "ff2c7d8ce1adbef5498387c011047c62",
+      "size": 1092,
+      "mtimeMs": 1783909097427
+    },
+    "wiki/concepts/横向关系.md": {
+      "hash": "d8df6df9fb26c2375a0ac4cb335c3ffe",
+      "size": 1564,
+      "mtimeMs": 1783909218549
+    },
+    "wiki/concepts/欲望与需要.md": {
+      "hash": "33e95463e72c978e3b96de485e1526cd",
+      "size": 1650,
+      "mtimeMs": 1783916050543
+    },
+    "wiki/concepts/正名.md": {
+      "hash": "6784a894ca9a5d3e2f4e08d38d64cc05",
+      "size": 1346,
+      "mtimeMs": 1783916464033
+    },
+    "wiki/concepts/正视伤痛与自我诚实.md": {
+      "hash": "3eda979b2656a1f2374316c73f285f0f",
+      "size": 1242,
+      "mtimeMs": 1783910497693
+    },
+    "wiki/concepts/母职惩罚.md": {
+      "hash": "8832f68985946c1ecbfa28af7bfbb73d",
+      "size": 1093,
+      "mtimeMs": 1783910158459
+    },
+    "wiki/concepts/比较视野.md": {
+      "hash": "56a7ebc3cc50b5a52c12bb02a24877d9",
+      "size": 1216,
+      "mtimeMs": 1783916205309
+    },
+    "wiki/concepts/民主问责与国家能力.md": {
+      "hash": "96fa3fe02ddecd73252551d1321d186b",
+      "size": 1586,
+      "mtimeMs": 1783916205310
+    },
+    "wiki/concepts/民粹主义的代表性垄断米勒定义.md": {
+      "hash": "9b7cead093441d5ee5501a9318a170d2",
+      "size": 1431,
+      "mtimeMs": 1783910849393
+    },
+    "wiki/concepts/永恒轮回.md": {
+      "hash": "9ee9d99fd3dfa017e1d0b920b9473fec",
+      "size": 1159,
+      "mtimeMs": 1783909582987
+    },
+    "wiki/concepts/沟通的失效.md": {
+      "hash": "e4b0a6b14d3ead017e23fb00f482691b",
+      "size": 1307,
+      "mtimeMs": 1783907881581
+    },
+    "wiki/concepts/法律的悖论.md": {
+      "hash": "17f978658693622035d74512ddb3b9a6",
+      "size": 1151,
+      "mtimeMs": 1783913892686
+    },
+    "wiki/concepts/注意力聚焦策略.md": {
+      "hash": "c34486950a82645fdfcd36a47941e021",
+      "size": 1962,
+      "mtimeMs": 1783912667380
+    },
+    "wiki/concepts/活出生命的意义七原则.md": {
+      "hash": "1680b3990e16e602446d227d80fa22b7",
+      "size": 1298,
+      "mtimeMs": 1783908155828
+    },
+    "wiki/concepts/消极的能力.md": {
+      "hash": "672334f32111a870341e708ef4909de0",
+      "size": 1714,
+      "mtimeMs": 1783911533010
+    },
+    "wiki/concepts/深度无聊.md": {
+      "hash": "08c93bc50dc1a7cf402d0cc47b28e692",
+      "size": 1348,
+      "mtimeMs": 1783911533009
+    },
+    "wiki/concepts/清代卧碑禁令.md": {
+      "hash": "e70d58435c2f1882e578cbdf2f34614f",
+      "size": 1172,
+      "mtimeMs": 1783913507655
+    },
+    "wiki/concepts/清谈及其社会政治影响.md": {
+      "hash": "8223d3df02765d0ec5c05ffe3abd5c9a",
+      "size": 2040,
+      "mtimeMs": 1783915090052
+    },
+    "wiki/concepts/清醒的现代人.md": {
+      "hash": "fabcf50d8099936779b9720d72f2e017",
+      "size": 1243,
+      "mtimeMs": 1783910849396
+    },
+    "wiki/concepts/灵与肉.md": {
+      "hash": "05f503c673e463760fcb83fa2eda48db",
+      "size": 1125,
+      "mtimeMs": 1783909582989
+    },
+    "wiki/concepts/熵与原罪.md": {
+      "hash": "dffa51d949371ffac4cccffece31072a",
+      "size": 1446,
+      "mtimeMs": 1783912802957
+    },
+    "wiki/concepts/独立之精神自由之思想.md": {
+      "hash": "58bfeeebf05337c64a204af57b6f8180",
+      "size": 1348,
+      "mtimeMs": 1783913086040
+    },
+    "wiki/concepts/理学的社会政治影响.md": {
+      "hash": "bd339ca6acade0cfbd169ce9b138ca3c",
+      "size": 2137,
+      "mtimeMs": 1783915090055
+    },
+    "wiki/concepts/理性人生观.md": {
+      "hash": "da943c2e855bcaf6c2f8f2648e468720",
+      "size": 1732,
+      "mtimeMs": 1783916543471
+    },
+    "wiki/concepts/理想与行动的冲突.md": {
+      "hash": "ecc4c75e5565a044197c5fee6f140548",
+      "size": 1450,
+      "mtimeMs": 1783907881580
+    },
+    "wiki/concepts/理所当然的期待.md": {
+      "hash": "6f7b29cb66e7fae344fc4a8fb59b7ae5",
+      "size": 1217,
+      "mtimeMs": 1783910158464
+    },
+    "wiki/concepts/理气论.md": {
+      "hash": "5f6b8edad65eb02e44ba61e9f8e46a86",
+      "size": 1590,
+      "mtimeMs": 1783916464051
+    },
+    "wiki/concepts/生命之轻与重.md": {
+      "hash": "8495dd7f91ab59615f2b6f88cf9dfc3b",
+      "size": 1273,
+      "mtimeMs": 1783909582986
+    },
+    "wiki/concepts/生成式人工智能.md": {
+      "hash": "1f9646a2029bbd7a90f7b2f6548ede5c",
+      "size": 2036,
+      "mtimeMs": 1783911816755
+    },
+    "wiki/concepts/用户依赖性.md": {
+      "hash": "ee3cffc795aee2f74c8249f630d8a03e",
+      "size": 1121,
+      "mtimeMs": 1783907547811
+    },
+    "wiki/concepts/用户终身价值.md": {
+      "hash": "d1100f1da0f97b18c91905ec404f480b",
+      "size": 938,
+      "mtimeMs": 1783907547813
+    },
+    "wiki/concepts/甲虫盒子比喻.md": {
+      "hash": "05731da65fb7271b556ee8ebed0236b0",
+      "size": 1855,
+      "mtimeMs": 1783912235819
+    },
+    "wiki/concepts/男女有别.md": {
+      "hash": "a6c3c98b0c61fbd726987fc0e502ef73",
+      "size": 1384,
+      "mtimeMs": 1783916050520
+    },
+    "wiki/concepts/症状作为潜意识信息.md": {
+      "hash": "1dc548bd1d3b260c08b011267b422a3e",
+      "size": 1434,
+      "mtimeMs": 1783912802958
+    },
+    "wiki/concepts/皮囊与内在.md": {
+      "hash": "2abd0b5a26670c711b0f98d77704b694",
+      "size": 1966,
+      "mtimeMs": 1783911253880
+    },
+    "wiki/concepts/目的论.md": {
+      "hash": "eb3aa02918d1a88520be6f791d863133",
+      "size": 1811,
+      "mtimeMs": 1783909218544
+    },
+    "wiki/concepts/知更鸟隐喻.md": {
+      "hash": "d8ee42b0527e26f756a50771c7d575b4",
+      "size": 1485,
+      "mtimeMs": 1783907426780
+    },
+    "wiki/concepts/知行合一.md": {
+      "hash": "cd64a5ed8fc5306c062e79d1ee2a27fb",
+      "size": 1301,
+      "mtimeMs": 1783914502953
+    },
+    "wiki/concepts/短篇小说的人性剖析.md": {
+      "hash": "bf0078103234cee17cd6d15077218e9d",
+      "size": 1539,
+      "mtimeMs": 1783908304437
+    },
+    "wiki/concepts/确认感受.md": {
+      "hash": "32d9adbca03e1c041b0a646f54f4d03c",
+      "size": 1945,
+      "mtimeMs": 1783916758404
+    },
+    "wiki/concepts/礼治秩序.md": {
+      "hash": "fcfb2dc13c73001dc1a2f9de1843a0ad",
+      "size": 1695,
+      "mtimeMs": 1783908663938
+    },
+    "wiki/concepts/社会偏见与文学批判.md": {
+      "hash": "3754d7d748dcedc6673a61ef8cce3b85",
+      "size": 1242,
+      "mtimeMs": 1783907426782
+    },
+    "wiki/concepts/社会性别规训.md": {
+      "hash": "3cdfe53086b64112ad17de0ea67f7732",
+      "size": 1129,
+      "mtimeMs": 1783910158461
+    },
+    "wiki/concepts/社会条件对幸福的重要性.md": {
+      "hash": "9f8cb842eac26f007912a1e11e4d5b25",
+      "size": 1725,
+      "mtimeMs": 1783916543473
+    },
+    "wiki/concepts/社会的规训与审判.md": {
+      "hash": "d786c5a04b6fef23c6c5191583959e0f",
+      "size": 996,
+      "mtimeMs": 1783907711077
+    },
+    "wiki/concepts/社会评价偏差.md": {
+      "hash": "a83217a2d4558be844010c502983a8a0",
+      "size": 1645,
+      "mtimeMs": 1783908093036
+    },
+    "wiki/concepts/祛魅.md": {
+      "hash": "8097c8214dd32633e99f42d9429246ca",
+      "size": 882,
+      "mtimeMs": 1783910849389
+    },
+    "wiki/concepts/私人语言论证.md": {
+      "hash": "96db3373a4aeb8cd7d987a5e127e9a86",
+      "size": 1718,
+      "mtimeMs": 1783912235814
+    },
+    "wiki/concepts/秘密与窥探.md": {
+      "hash": "e122d2615fd23306979761bad3128c8e",
+      "size": 1167,
+      "mtimeMs": 1783907779594
+    },
+    "wiki/concepts/积极自由.md": {
+      "hash": "d3668607a82a7286b449d4a8a4b2dea4",
+      "size": 2167,
+      "mtimeMs": 1783908574874
+    },
+    "wiki/concepts/立法的节制与司法的限缩.md": {
+      "hash": "0244839d71d3854e152f59948ff84724",
+      "size": 1584,
+      "mtimeMs": 1783913892689
+    },
+    "wiki/concepts/管理者角色理论.md": {
+      "hash": "fcdd901b09800a226d58a2443e697b8c",
+      "size": 1607,
+      "mtimeMs": 1783910072505
+    },
+    "wiki/concepts/组织流分析.md": {
+      "hash": "9a471e2de7dbb86fd058d3cb8dae15cb",
+      "size": 835,
+      "mtimeMs": 1783909097428
+    },
+    "wiki/concepts/维度本体论.md": {
+      "hash": "3ecc7c9638a67fbe85533102fec7c786",
+      "size": 2954,
+      "mtimeMs": 1783914431425
+    },
+    "wiki/concepts/维生素与止痛药.md": {
+      "hash": "f7546746953df1b7c04bb5f083bd3a93",
+      "size": 1356,
+      "mtimeMs": 1783907547815
+    },
+    "wiki/concepts/维系着私人的道德.md": {
+      "hash": "8ae343a28a50010cbe7d5137e41ff249",
+      "size": 1936,
+      "mtimeMs": 1783916050517
+    },
+    "wiki/concepts/自我接纳.md": {
+      "hash": "b5c1f822113ba1927522cbff397994ae",
+      "size": 1589,
+      "mtimeMs": 1783909218550
+    },
+    "wiki/concepts/自我超越.md": {
+      "hash": "a29398f2771e5fff83e9a079c41152de",
+      "size": 2844,
+      "mtimeMs": 1783914431425
+    },
+    "wiki/concepts/自然犯与法定犯.md": {
+      "hash": "7d58268ef207a7dd984622af60cd5be3",
+      "size": 1272,
+      "mtimeMs": 1783913892688
+    },
+    "wiki/concepts/致良知.md": {
+      "hash": "4cab453447cda76c94afe4927d4a24f0",
+      "size": 1628,
+      "mtimeMs": 1783916464053
+    },
+    "wiki/concepts/良好生活.md": {
+      "hash": "54807b65029d686655e0f4324f1ff455",
+      "size": 1907,
+      "mtimeMs": 1783914705842
+    },
+    "wiki/concepts/艺术介入社会.md": {
+      "hash": "4f1d5e5207e6e8359a389d4871ffd82b",
+      "size": 1090,
+      "mtimeMs": 1783914591119
+    },
+    "wiki/concepts/虚假内疚感.md": {
+      "hash": "dcba2c07e2ce2a50139d86b65d64bbe5",
+      "size": 1638,
+      "mtimeMs": 1783911029432
+    },
+    "wiki/concepts/装睡.md": {
+      "hash": "091fbaf05be8183bcb68f9e50356998e",
+      "size": 1470,
+      "mtimeMs": 1783913086039
+    },
+    "wiki/concepts/观照之乐与善意之爱.md": {
+      "hash": "f6e144988c8963bb4c6675f52b7e3a08",
+      "size": 1313,
+      "mtimeMs": 1783916543470
+    },
+    "wiki/concepts/规训社会.md": {
+      "hash": "843c29e4e1e142c6aaf8968dce8cafc0",
+      "size": 1301,
+      "mtimeMs": 1783911533007
+    },
+    "wiki/concepts/认真活在此时此刻.md": {
+      "hash": "d187702fb022c2317e391fac8ba9dc3e",
+      "size": 1424,
+      "mtimeMs": 1783909218551
+    },
+    "wiki/concepts/该隐的标记与自我认同.md": {
+      "hash": "c472f8b7aac99fb4b728934962286bfd",
+      "size": 1558,
+      "mtimeMs": 1783912391418
+    },
+    "wiki/concepts/语言与沉默的张力.md": {
+      "hash": "3d9fe05659143216a1fa4aa39cd36faa",
+      "size": 925,
+      "mtimeMs": 1783907711078
+    },
+    "wiki/concepts/语言作为思想载体（萎缩与扩展）.md": {
+      "hash": "b1e74fda1e11b6250cef45b12c954187",
+      "size": 1928,
+      "mtimeMs": 1783915696465
+    },
+    "wiki/concepts/语言图画说.md": {
+      "hash": "9c8dfc09107bd745397be409c1fda948",
+      "size": 1305,
+      "mtimeMs": 1783912235810
+    },
+    "wiki/concepts/语言游戏.md": {
+      "hash": "fc3cca221103513a0f267bf1e0c8ee31",
+      "size": 1554,
+      "mtimeMs": 1783912235816
+    },
+    "wiki/concepts/读书人政府.md": {
+      "hash": "a48065d03caa1fda917eb05051742cce",
+      "size": 1330,
+      "mtimeMs": 1783913507654
+    },
+    "wiki/concepts/课题分离.md": {
+      "hash": "5056fea7b54ce75bc626adf2e9b4bab6",
+      "size": 1702,
+      "mtimeMs": 1783909218546
+    },
+    "wiki/concepts/调查记者的社会角色与媒体责任.md": {
+      "hash": "cba46b303438c05aa0f98f85fd531112",
+      "size": 1773,
+      "mtimeMs": 1783910642466
+    },
+    "wiki/concepts/跨辖区侦查协作.md": {
+      "hash": "ff6e13189d7911c18041ed5743d86abc",
+      "size": 1598,
+      "mtimeMs": 1783910642465
+    },
+    "wiki/concepts/过度思考的表现与干预.md": {
+      "hash": "624dbade9f79a1b59e20bd3cbace564b",
+      "size": 2306,
+      "mtimeMs": 1783911960488
+    },
+    "wiki/concepts/逃避自由.md": {
+      "hash": "bca2bfe409c3256b2b03054b51acf0ad",
+      "size": 1611,
+      "mtimeMs": 1783912802955
+    },
+    "wiki/concepts/选择态度的自由.md": {
+      "hash": "53211cf9e8302fb3ea3e54b9b3b70dfe",
+      "size": 915,
+      "mtimeMs": 1783908155827
+    },
+    "wiki/concepts/造钟不是报时.md": {
+      "hash": "94500aa80544e0effd7f49adc91e946d",
+      "size": 929,
+      "mtimeMs": 1783909097424
+    },
+    "wiki/concepts/道.md": {
+      "hash": "79aa120f5c26e64495dabce50d2ebbf4",
+      "size": 1577,
+      "mtimeMs": 1783916464030
+    },
+    "wiki/concepts/道德理性压倒理论理性.md": {
+      "hash": "aa4fc57d99f08c85cc028f10c8055b99",
+      "size": 1464,
+      "mtimeMs": 1783913086042
+    },
+    "wiki/concepts/道德规范作为法律的边界.md": {
+      "hash": "d8806b30bb7ff8e128d07798dbc34c2b",
+      "size": 1387,
+      "mtimeMs": 1783913892691
+    },
+    "wiki/concepts/部族政权.md": {
+      "hash": "ab1f9c0d798d06025f7d2229c0f7eb3a",
+      "size": 1524,
+      "mtimeMs": 1783913507651
+    },
+    "wiki/concepts/长老统治.md": {
+      "hash": "561da28c7a774fad5056b61d3e46f237",
+      "size": 1558,
+      "mtimeMs": 1783916013386
+    },
+    "wiki/concepts/阶层流动上升通道变窄.md": {
+      "hash": "287d32cf6e75e0789dcc7f6d7b54eff3",
+      "size": 1054,
+      "mtimeMs": 1783914502952
+    },
+    "wiki/concepts/雅各的战斗-独立与孤独.md": {
+      "hash": "6453a71cfc972eaa7092d550678899f7",
+      "size": 1290,
+      "mtimeMs": 1783912391420
+    },
+    "wiki/concepts/非人格化.md": {
+      "hash": "2a686d64e9cc16ecda5f9f905627dc79",
+      "size": 918,
+      "mtimeMs": 1783910849394
+    },
+    "wiki/concepts/非暴力沟通.md": {
+      "hash": "39c798296acc23f03c378eb6862fa4aa",
+      "size": 1568,
+      "mtimeMs": 1783909282986
+    },
+    "wiki/concepts/非暴力沟通的四要素.md": {
+      "hash": "d54ca3687475bd08889d81f7484312ef",
+      "size": 1035,
+      "mtimeMs": 1783909282988
+    },
+    "wiki/concepts/非虚构写作.md": {
+      "hash": "c8a123445934abeabc8db0a6946345ff",
+      "size": 644,
+      "mtimeMs": 1783907349932
+    },
+    "wiki/concepts/高敏感者特质.md": {
+      "hash": "9bd330a2b1c0dd2268470458cdf87261",
+      "size": 1480,
+      "mtimeMs": 1783911960487
+    },
+    "wiki/concepts/鸟儿破壳-自我实现.md": {
+      "hash": "000f737e71654cdbf1db8b4d71a8d221",
+      "size": 1383,
+      "mtimeMs": 1783912391419
+    },
+    "wiki/entities/1984.md": {
+      "hash": "120b5786ab267a7531e2e13e842dd0b0",
+      "size": 686,
+      "mtimeMs": 1783915696462
+    },
+    "wiki/entities/claude-code.md": {
+      "hash": "d5081a38c874f62e7f897bc1222b1e93",
+      "size": 1629,
+      "mtimeMs": 1783916118681
+    },
+    "wiki/entities/m斯科特派克.md": {
+      "hash": "0671c604fe7ce6598333f6dee3624738",
+      "size": 1047,
+      "mtimeMs": 1783912802954
+    },
+    "wiki/entities/一个无政府主义者的意外死亡.md": {
+      "hash": "ee36ee6f78b1af102fab27190bfbf99e",
+      "size": 1498,
+      "mtimeMs": 1783914591112
+    },
+    "wiki/entities/丁磊.md": {
+      "hash": "da80cfcb2c2a0414b6bc260a94f5f97a",
+      "size": 852,
+      "mtimeMs": 1783911816756
+    },
+    "wiki/entities/上野千鹤子.md": {
+      "hash": "edf9a6d797b01a7acbcbeba82ffcb674",
+      "size": 974,
+      "mtimeMs": 1783910497688
+    },
+    "wiki/entities/东野圭吾.md": {
+      "hash": "0c55d884a0aad6631104a025f8965ecc",
+      "size": 828,
+      "mtimeMs": 1783907297463
+    },
+    "wiki/entities/中国最高军事统帅部.md": {
+      "hash": "7f7bea7aad557439d48c5e3b02efc593",
+      "size": 777,
+      "mtimeMs": 1783915351403
+    },
+    "wiki/entities/丹尼·罗德里克.md": {
+      "hash": "fbae8bddc1a8acee0a8d993cdb31a0de",
+      "size": 630,
+      "mtimeMs": 1783916205284
+    },
+    "wiki/entities/乡土中国.md": {
+      "hash": "e04a516771f137b39e65e1e37353689f",
+      "size": 1029,
+      "mtimeMs": 1783915993764
+    },
+    "wiki/entities/亚里士多德.md": {
+      "hash": "0bd1f53a92f54428361a8e800dac3106",
+      "size": 1108,
+      "mtimeMs": 1783914705837
+    },
+    "wiki/entities/伊米-洛.md": {
+      "hash": "68f2b86e0a686b2c2f3e9abfe79d9ee3",
+      "size": 723,
+      "mtimeMs": 1783912998396
+    },
+    "wiki/entities/伯特兰罗素.md": {
+      "hash": "bc40d17d94eb1eddfdef39fb090c7885",
+      "size": 1017,
+      "mtimeMs": 1783916543469
+    },
+    "wiki/entities/你一生的故事.md": {
+      "hash": "3c36e53179f720b493415ed5655d94d8",
+      "size": 773,
+      "mtimeMs": 1783915696463
+    },
+    "wiki/entities/傅乐成.md": {
+      "hash": "c4b6c2919ae9c49f12048ccd877bc566",
+      "size": 695,
+      "mtimeMs": 1783915090043
+    },
+    "wiki/entities/冯友兰.md": {
+      "hash": "b8595d1b08afc6f52314dda32e7c58d5",
+      "size": 1955,
+      "mtimeMs": 1783916464013
+    },
+    "wiki/entities/刘擎.md": {
+      "hash": "c0b17286a3bc40105682cdc747375277",
+      "size": 901,
+      "mtimeMs": 1783910849383
+    },
+    "wiki/entities/刘瑜.md": {
+      "hash": "de8842fa1de42753c88a633b4f5f10cf",
+      "size": 1092,
+      "mtimeMs": 1783916205277
+    },
+    "wiki/entities/卡森-麦卡勒斯.md": {
+      "hash": "cd8e2dc429117f175551ebd91ddfc0c6",
+      "size": 604,
+      "mtimeMs": 1783907881565
+    },
+    "wiki/entities/叔本华.md": {
+      "hash": "dcd1efc12e0ae6b75c05a90c953c49fa",
+      "size": 1388,
+      "mtimeMs": 1783908093030
+    },
+    "wiki/entities/古龙.md": {
+      "hash": "81bf9445a9e5feced4c8766f07367b09",
+      "size": 1279,
+      "mtimeMs": 1783910309589
+    },
+    "wiki/entities/史秀雄.md": {
+      "hash": "428cb8e07819953c216e8cce1671869a",
+      "size": 489,
+      "mtimeMs": 1783912452894
+    },
+    "wiki/entities/吉姆-柯林斯.md": {
+      "hash": "46a765e2682d317ad62df943f788847a",
+      "size": 690,
+      "mtimeMs": 1783909097421
+    },
+    "wiki/entities/吴梅村.md": {
+      "hash": "49e957a59ba4043a7f6fb414b2dba34c",
+      "size": 646,
+      "mtimeMs": 1783915696456
+    },
+    "wiki/entities/周濂.md": {
+      "hash": "e5c05a7abd14373993ced1822023d48e",
+      "size": 1166,
+      "mtimeMs": 1783913086038
+    },
+    "wiki/entities/哈珀-李.md": {
+      "hash": "8c004ab005c099c41c251fddf1f71f9a",
+      "size": 652,
+      "mtimeMs": 1783907426756
+    },
+    "wiki/entities/埃伦-亨德里克森.md": {
+      "hash": "7930ee787be246274e9c3ee0cf5d97ae",
+      "size": 1034,
+      "mtimeMs": 1783912667361
+    },
+    "wiki/entities/塔拉韦斯特弗.md": {
+      "hash": "5b73734a7cdcd68804b94c10d3792150",
+      "size": 1599,
+      "mtimeMs": 1783908574872
+    },
+    "wiki/entities/塞缪尔·亨廷顿.md": {
+      "hash": "bbebeadb7c726e9fc7454738235c43c4",
+      "size": 659,
+      "mtimeMs": 1783916205278
+    },
+    "wiki/entities/墨子.md": {
+      "hash": "f15e6248b48df9ce5470b6891fbb50b8",
+      "size": 1675,
+      "mtimeMs": 1783916464019
+    },
+    "wiki/entities/奥威尔.md": {
+      "hash": "efb98d33f5fce5744e84f91acf7fef44",
+      "size": 711,
+      "mtimeMs": 1783915696458
+    },
+    "wiki/entities/孔子.md": {
+      "hash": "f03dee8afcd14ecd5dcff0ddf0420f78",
+      "size": 1875,
+      "mtimeMs": 1783916464014
+    },
+    "wiki/entities/孟子.md": {
+      "hash": "af0a31a9cf953cffcd8ebbdeb924bd11",
+      "size": 1641,
+      "mtimeMs": 1783916464016
+    },
+    "wiki/entities/安东尼帕罗斯.md": {
+      "hash": "421a0cbe7d3f9c266069aa54d342be20",
+      "size": 589,
+      "mtimeMs": 1783907881577
+    },
+    "wiki/entities/安兰德.md": {
+      "hash": "df700a0b6c5860c655b707bc930a0d68",
+      "size": 795,
+      "mtimeMs": 1783910849387
+    },
+    "wiki/entities/尼尔-埃亚尔.md": {
+      "hash": "a6b27f5707ac47214eb131f3302e2a3b",
+      "size": 719,
+      "mtimeMs": 1783907547802
+    },
+    "wiki/entities/岸见一郎.md": {
+      "hash": "fc1c81df121c19ebf21dac6b8bcf2e79",
+      "size": 1114,
+      "mtimeMs": 1783909218543
+    },
+    "wiki/entities/嵇康.md": {
+      "hash": "965458de70caf231e206fbcfc28b9a65",
+      "size": 953,
+      "mtimeMs": 1783915090045
+    },
+    "wiki/entities/布-拉德利.md": {
+      "hash": "ecd49d4e6b6446f2f35c4d94b288f946",
+      "size": 1200,
+      "mtimeMs": 1783907426778
+    },
+    "wiki/entities/布鲁特斯的心脏.md": {
+      "hash": "986ca944500e5844a6730699d602f1d5",
+      "size": 1261,
+      "mtimeMs": 1783907213146
+    },
+    "wiki/entities/庄子.md": {
+      "hash": "ea935187f5f0148d904524c662a82970",
+      "size": 1695,
+      "mtimeMs": 1783916464015
+    },
+    "wiki/entities/弗朗西斯福山.md": {
+      "hash": "44a8a6574e04b0655d1170522ef04af4",
+      "size": 852,
+      "mtimeMs": 1783910849387
+    },
+    "wiki/entities/弗洛姆.md": {
+      "hash": "b75d78130242ac36edb591b905d454ea",
+      "size": 675,
+      "mtimeMs": 1783915696457
+    },
+    "wiki/entities/当年明月-明朝那些事儿.md": {
+      "hash": "f433c88292b3c841516f49011d28f6bb",
+      "size": 835,
+      "mtimeMs": 1783913584740
+    },
+    "wiki/entities/微信读书.md": {
+      "hash": "669f5c022cae6fc758f1685358226907",
+      "size": 712,
+      "mtimeMs": 1783910933795
+    },
+    "wiki/entities/德克勒克.md": {
+      "hash": "ec81eb725cb267127bd01fade68fed75",
+      "size": 716,
+      "mtimeMs": 1783916205288
+    },
+    "wiki/entities/心是孤独的猎手.md": {
+      "hash": "c07bc45efd5b289b94187d1c279100f0",
+      "size": 820,
+      "mtimeMs": 1783907881566
+    },
+    "wiki/entities/成庆.md": {
+      "hash": "d04242eafe84a346c622e940f837f723",
+      "size": 783,
+      "mtimeMs": 1783915182542
+    },
+    "wiki/entities/房龙.md": {
+      "hash": "23e267e0bea405dc2120d6933d468b77",
+      "size": 796,
+      "mtimeMs": 1783908215790
+    },
+    "wiki/entities/托马斯.md": {
+      "hash": "6a546a1c38a77c8bed4bb508e225e99e",
+      "size": 1049,
+      "mtimeMs": 1783909582970
+    },
+    "wiki/entities/扬-维尔纳米勒.md": {
+      "hash": "bac3b9d66e90a15126f6904fedc23197",
+      "size": 845,
+      "mtimeMs": 1783910849385
+    },
+    "wiki/entities/捷克斯洛伐克.md": {
+      "hash": "adb47bada40548a6c212999cb57af98f",
+      "size": 1015,
+      "mtimeMs": 1783909582985
+    },
+    "wiki/entities/摩托罗拉.md": {
+      "hash": "ad1928eef6825b7213ca350c56c0b1ed",
+      "size": 846,
+      "mtimeMs": 1783909097423
+    },
+    "wiki/entities/文天祥.md": {
+      "hash": "630c7ef1941b082562f5629af7ff7cd0",
+      "size": 1346,
+      "mtimeMs": 1783915696432
+    },
+    "wiki/entities/斯库特-芬奇.md": {
+      "hash": "538532b10e01a02356845780efb61bf0",
+      "size": 1125,
+      "mtimeMs": 1783907426763
+    },
+    "wiki/entities/曹丕.md": {
+      "hash": "a117e368b2bcfdb123a8859039476fb1",
+      "size": 671,
+      "mtimeMs": 1783915696438
+    },
+    "wiki/entities/曼德拉.md": {
+      "hash": "795e4a8a2747f7f58c54db02a9b0c738",
+      "size": 757,
+      "mtimeMs": 1783916205287
+    },
+    "wiki/entities/朝鲜.md": {
+      "hash": "a51db1f1077994625e53aba9ecb717f6",
+      "size": 703,
+      "mtimeMs": 1783913584738
+    },
+    "wiki/entities/朱元璋.md": {
+      "hash": "75b75b7b184d3a1431869b12260daa92",
+      "size": 656,
+      "mtimeMs": 1783913584737
+    },
+    "wiki/entities/朱熹.md": {
+      "hash": "0903df4ed6c1652bb58b0dea100d5ba4",
+      "size": 1840,
+      "mtimeMs": 1783916464018
+    },
+    "wiki/entities/李成桂.md": {
+      "hash": "9e3cc89a176530918024f5c9fa457fb2",
+      "size": 684,
+      "mtimeMs": 1783913584739
+    },
+    "wiki/entities/李清照.md": {
+      "hash": "a39cba7c1e347863871f5a4a319707a1",
+      "size": 713,
+      "mtimeMs": 1783915696437
+    },
+    "wiki/entities/李红勃.md": {
+      "hash": "a099c4680936d7efed5842a0380f21aa",
+      "size": 465,
+      "mtimeMs": 1783915442402
+    },
+    "wiki/entities/李陵.md": {
+      "hash": "30ca1954b3c6b66307adee19b82cc674",
+      "size": 674,
+      "mtimeMs": 1783915696437
+    },
+    "wiki/entities/杜素娟.md": {
+      "hash": "364917e600f5ad64ab24c653d8bb6610",
+      "size": 480,
+      "mtimeMs": 1783912452895
+    },
+    "wiki/entities/杨朱.md": {
+      "hash": "689e3ab6e8c58753bc1cc058053d8c0e",
+      "size": 1234,
+      "mtimeMs": 1783915090044
+    },
+    "wiki/entities/杰克.md": {
+      "hash": "fa71b30fdcf6f208943d181843def428",
+      "size": 756,
+      "mtimeMs": 1783907881570
+    },
+    "wiki/entities/杰姆-芬奇.md": {
+      "hash": "21f020116f67c36800fe450f4b3928b9",
+      "size": 1016,
+      "mtimeMs": 1783907426766
+    },
+    "wiki/entities/栃木县警方.md": {
+      "hash": "7155e412326cba3f02d8ee3506c5a9e3",
+      "size": 1485,
+      "mtimeMs": 1783910642462
+    },
+    "wiki/entities/梅洛迪-怀尔丁.md": {
+      "hash": "d28d3777bd44a95bcdd1b9df8d7d35e0",
+      "size": 784,
+      "mtimeMs": 1783911960486
+    },
+    "wiki/entities/楼巍.md": {
+      "hash": "eb383846d6483fbd78a84f4b6e3ee05d",
+      "size": 673,
+      "mtimeMs": 1783912235808
+    },
+    "wiki/entities/欧阳修.md": {
+      "hash": "14c2552a3d0549ee6624d105e22640df",
+      "size": 1044,
+      "mtimeMs": 1783915696436
+    },
+    "wiki/entities/歌德.md": {
+      "hash": "38c2386f9bcdd3c42f1305c103988d42",
+      "size": 912,
+      "mtimeMs": 1783908093032
+    },
+    "wiki/entities/正义的决疑.md": {
+      "hash": "0ce3ded6487f210eb478a322413a1d40",
+      "size": 597,
+      "mtimeMs": 1783915442404
+    },
+    "wiki/entities/比夫.md": {
+      "hash": "2a097782baf2d798a478d1a3a8770b27",
+      "size": 481,
+      "mtimeMs": 1783907881576
+    },
+    "wiki/entities/毛姆.md": {
+      "hash": "60cfe793638390dd4d9f13312df62daa",
+      "size": 4376,
+      "mtimeMs": 1783914950894
+    },
+    "wiki/entities/汤姆-鲁宾逊.md": {
+      "hash": "81619d9b496a86b697bbbc9ba5b10af9",
+      "size": 1160,
+      "mtimeMs": 1783907426777
+    },
+    "wiki/entities/河上公.md": {
+      "hash": "ef95aa74c912237522d2cbae3b70bb1a",
+      "size": 982,
+      "mtimeMs": 1783913798095
+    },
+    "wiki/entities/清水洁.md": {
+      "hash": "bc5e2c026f6585ba7230153b1d0f5952",
+      "size": 1297,
+      "mtimeMs": 1783910642458
+    },
+    "wiki/entities/湖南.md": {
+      "hash": "890536a75ef2315c2c7d7e6556c6e06b",
+      "size": 786,
+      "mtimeMs": 1783915351404
+    },
+    "wiki/entities/爱的艺术.md": {
+      "hash": "919bb46a115cb0e8e5dbd09bde5bbf7d",
+      "size": 626,
+      "mtimeMs": 1783915696461
+    },
+    "wiki/entities/特德·姜.md": {
+      "hash": "2cdb4fe26f1547147dcdc410877519d5",
+      "size": 764,
+      "mtimeMs": 1783915696459
+    },
+    "wiki/entities/特蕾莎.md": {
+      "hash": "c0f172e83d070299873b3d324cac885b",
+      "size": 998,
+      "mtimeMs": 1783909582971
+    },
+    "wiki/entities/玄武门之变.md": {
+      "hash": "2c657e4315ba0f81d9c695e42568579b",
+      "size": 1424,
+      "mtimeMs": 1783915090048
+    },
+    "wiki/entities/王动.md": {
+      "hash": "0ed6620429745ea7e85dd255270eda25",
+      "size": 812,
+      "mtimeMs": 1783910309596
+    },
+    "wiki/entities/王守仁.md": {
+      "hash": "8c7317373e46ff681f8fcee01f52ee95",
+      "size": 1675,
+      "mtimeMs": 1783916464019
+    },
+    "wiki/entities/王羲之.md": {
+      "hash": "fae94bb5e1d7253b204d32e5874311da",
+      "size": 1049,
+      "mtimeMs": 1783915090047
+    },
+    "wiki/entities/瑞安-胡佛.md": {
+      "hash": "9d26793bea48fdbf16ed8aaca1d105b1",
+      "size": 640,
+      "mtimeMs": 1783907547805
+    },
+    "wiki/entities/电车难题.md": {
+      "hash": "ea7a18c0adb8bd28b02c72f223a0f61a",
+      "size": 653,
+      "mtimeMs": 1783915442403
+    },
+    "wiki/entities/白崇禧.md": {
+      "hash": "37ffaf20235bc7355d8c724b9835dee2",
+      "size": 662,
+      "mtimeMs": 1783915351402
+    },
+    "wiki/entities/皮诺切特.md": {
+      "hash": "b76391164f72546a2ae96bfeaba40e58",
+      "size": 744,
+      "mtimeMs": 1783916205306
+    },
+    "wiki/entities/科普兰医生.md": {
+      "hash": "077d6a0c2b9a98725763c91092d41381",
+      "size": 804,
+      "mtimeMs": 1783907881575
+    },
+    "wiki/entities/米克.md": {
+      "hash": "2b532bf4b754ab200ffab9f030a10b9d",
+      "size": 718,
+      "mtimeMs": 1783907881569
+    },
+    "wiki/entities/米兰-昆德拉.md": {
+      "hash": "b41fa5f09895bb589fd1a13a38188c9a",
+      "size": 865,
+      "mtimeMs": 1783909582969
+    },
+    "wiki/entities/维克多-弗兰克尔.md": {
+      "hash": "be4ddca9e89078d0b01230e67bf5fedf",
+      "size": 2513,
+      "mtimeMs": 1783914396058
+    },
+    "wiki/entities/维克多弗兰克尔.md": {
+      "hash": "1252111107fe423d3870a9c864522996",
+      "size": 925,
+      "mtimeMs": 1783908155822
+    },
+    "wiki/entities/罗素.md": {
+      "hash": "2b156d162b199668accc8153679d06e6",
+      "size": 1060,
+      "mtimeMs": 1783912235809
+    },
+    "wiki/entities/罗翔.md": {
+      "hash": "c16a3908e0199321d76266e9b7b11d22",
+      "size": 740,
+      "mtimeMs": 1783910933794
+    },
+    "wiki/entities/群马县警方.md": {
+      "hash": "d9de65164b768f3dbee8b85a5b4e0e57",
+      "size": 1258,
+      "mtimeMs": 1783910642463
+    },
+    "wiki/entities/老子.md": {
+      "hash": "f8be5574337905dee41fd5c4ded81abe",
+      "size": 1623,
+      "mtimeMs": 1783916464014
+    },
+    "wiki/entities/若泽-萨拉马戈.md": {
+      "hash": "e7432f132093d9d34ace29ceaf5b7781",
+      "size": 832,
+      "mtimeMs": 1783910933794
+    },
+    "wiki/entities/荀子.md": {
+      "hash": "6345132c855fda90f6dbbc6899e01742",
+      "size": 1555,
+      "mtimeMs": 1783916464017
+    },
+    "wiki/entities/荣格.md": {
+      "hash": "8f101bde0c7d15318217810e9b1e1789",
+      "size": 783,
+      "mtimeMs": 1783915696460
+    },
+    "wiki/entities/菲利帕-佩里.md": {
+      "hash": "dde6353f4b67b354c8e08c351b3128ea",
+      "size": 1023,
+      "mtimeMs": 1783916758403
+    },
+    "wiki/entities/蒋介石.md": {
+      "hash": "b1c634444bad90740ced658e0e9860eb",
+      "size": 753,
+      "mtimeMs": 1783915351401
+    },
+    "wiki/entities/蔡崇达.md": {
+      "hash": "aca06e6e28a478e9ddbeb7201cddca42",
+      "size": 426,
+      "mtimeMs": 1783907349931
+    },
+    "wiki/entities/薛岳.md": {
+      "hash": "3a3d0f2133dc14bd883298c13825d44f",
+      "size": 998,
+      "mtimeMs": 1783915351400
+    },
+    "wiki/entities/读者.md": {
+      "hash": "727650e3898573cb84aade9287d1adfb",
+      "size": 939,
+      "mtimeMs": 1783909997282
+    },
+    "wiki/entities/费孝通.md": {
+      "hash": "636ca430441f41785fe363d7d05345e6",
+      "size": 1017,
+      "mtimeMs": 1783915993763
+    },
+    "wiki/entities/费尔南多·扎卡利亚.md": {
+      "hash": "798c7c3ba3f9fd9f09a4d5accd084291",
+      "size": 609,
+      "mtimeMs": 1783916205286
+    },
+    "wiki/entities/费迪南德·朗.md": {
+      "hash": "6272a3e5fec19f69db150a7b31106edc",
+      "size": 604,
+      "mtimeMs": 1783916205277
+    },
+    "wiki/entities/贺麟.md": {
+      "hash": "b167f4a8be991951d1384bc6be6fdabd",
+      "size": 895,
+      "mtimeMs": 1783914705838
+    },
+    "wiki/entities/赫尔曼-黑塞.md": {
+      "hash": "a0df938f06148c14fec14b076e1390be",
+      "size": 980,
+      "mtimeMs": 1783912391412
+    },
+    "wiki/entities/赵伟.md": {
+      "hash": "44e2b4df8f382162c3014911b643534b",
+      "size": 783,
+      "mtimeMs": 1783910072504
+    },
+    "wiki/entities/赵南柱.md": {
+      "hash": "4fb36535364424e5087efdf047fd793b",
+      "size": 730,
+      "mtimeMs": 1783910158455
+    },
+    "wiki/entities/赵宏.md": {
+      "hash": "b534ab878dcf8b994b998afc6aa12f5c",
+      "size": 653,
+      "mtimeMs": 1783915442400
+    },
+    "wiki/entities/足利女童连续失踪事件-受害者.md": {
+      "hash": "f6720c4241c3b8d5aeeb3a7905ac096d",
+      "size": 1366,
+      "mtimeMs": 1783910642460
+    },
+    "wiki/entities/路德维希-维特根斯坦.md": {
+      "hash": "f83ae6bcfaa057e6d7a7ba101308b831",
+      "size": 1967,
+      "mtimeMs": 1783912235807
+    },
+    "wiki/entities/辛格.md": {
+      "hash": "fe9768c7a57ab273f4fdede5a4a62782",
+      "size": 890,
+      "mtimeMs": 1783907881567
+    },
+    "wiki/entities/达里奥-福.md": {
+      "hash": "7cfecc64dba4d8ad92974b91da2368e5",
+      "size": 1066,
+      "mtimeMs": 1783914591111
+    },
+    "wiki/entities/迈克尔·曼.md": {
+      "hash": "c96dc1f5d73e21a25457c0d987a68777",
+      "size": 657,
+      "mtimeMs": 1783916205287
+    },
+    "wiki/entities/迈克尔沃尔泽.md": {
+      "hash": "0cc532496e4a739004a814a81ebea1c2",
+      "size": 835,
+      "mtimeMs": 1783910849388
+    },
+    "wiki/entities/郭大路.md": {
+      "hash": "ef276ac7f5081dc41f91712ed13abb86",
+      "size": 976,
+      "mtimeMs": 1783910309591
+    },
+    "wiki/entities/金智英.md": {
+      "hash": "82c93e8eade2458f8c4f9399979f9316",
+      "size": 1085,
+      "mtimeMs": 1783910158457
+    },
+    "wiki/entities/钱穆.md": {
+      "hash": "e8b4cf6d01d5dc9fac4ea817b2fe0ae6",
+      "size": 1435,
+      "mtimeMs": 1783913507644
+    },
+    "wiki/entities/铃木凉美.md": {
+      "hash": "b21d22970cbc5294dda25a1f6ac07be6",
+      "size": 1004,
+      "mtimeMs": 1783910497689
+    },
+    "wiki/entities/阮籍.md": {
+      "hash": "467d539602cf5fc26f9942dafcf6ab88",
+      "size": 992,
+      "mtimeMs": 1783915090046
+    },
+    "wiki/entities/阿兰-埃亨伯格.md": {
+      "hash": "c5be1d94998056881f18a0304ada5162",
+      "size": 1115,
+      "mtimeMs": 1783911533014
+    },
+    "wiki/entities/阿尔弗雷德-阿德勒.md": {
+      "hash": "263458ac5f8ff341b84de254fc334e4c",
+      "size": 1932,
+      "mtimeMs": 1783909218541
+    },
+    "wiki/entities/阿尔贝-加缪.md": {
+      "hash": "d726760860a4972c704789c53569c2fb",
+      "size": 549,
+      "mtimeMs": 1783907711074
+    },
+    "wiki/entities/阿迪克斯-芬奇.md": {
+      "hash": "f8f0707557a99c2ab2ed84f49d30e3ff",
+      "size": 1364,
+      "mtimeMs": 1783907426757
+    },
+    "wiki/entities/陈嘉映.md": {
+      "hash": "75fe9e80bcece20a7b646c01e4071309",
+      "size": 998,
+      "mtimeMs": 1783914705836
+    },
+    "wiki/entities/陈碧.md": {
+      "hash": "e74cce236c9167a408a3a9c06eb721cf",
+      "size": 477,
+      "mtimeMs": 1783915442401
+    },
+    "wiki/entities/陈行甲.md": {
+      "hash": "5285488e8ada482e104e7e2ffdabf26c",
+      "size": 1181,
+      "mtimeMs": 1783914502951
+    },
+    "wiki/entities/陈诚.md": {
+      "hash": "d401eb0f10fde595e6bc92d1d52d78de",
+      "size": 644,
+      "mtimeMs": 1783915351402
+    },
+    "wiki/entities/陶渊明.md": {
+      "hash": "32ea13c8fb0bae4d26234746b7f7ce12",
+      "size": 992,
+      "mtimeMs": 1783915696434
+    },
+    "wiki/entities/非暴力沟通.md": {
+      "hash": "073d909ed4f686e1c0bd1ab7b1e977ba",
+      "size": 1018,
+      "mtimeMs": 1783909282981
+    },
+    "wiki/entities/韩炳哲.md": {
+      "hash": "09c8798e5536500cec363e8bb6cf1892",
+      "size": 1272,
+      "mtimeMs": 1783911533013
+    },
+    "wiki/entities/韩非子.md": {
+      "hash": "d0fb31a742beec0421a4a14783ef658a",
+      "size": 1700,
+      "mtimeMs": 1783916464021
+    },
+    "wiki/entities/马克斯韦伯.md": {
+      "hash": "384a35d30eccd35d154b359b959cc962",
+      "size": 1062,
+      "mtimeMs": 1783910849384
+    },
+    "wiki/entities/马斯洛.md": {
+      "hash": "7d26b71ac5f05438dcc98980fde2544b",
+      "size": 835,
+      "mtimeMs": 1783914705839
+    },
+    "wiki/entities/马歇尔-卢森堡.md": {
+      "hash": "b773cf16b2b37ee576b8d64857da65d3",
+      "size": 626,
+      "mtimeMs": 1783909282984
+    },
+    "wiki/entities/麦家.md": {
+      "hash": "d1c4ee1e6bdd457041e7b10e42a568a2",
+      "size": 733,
+      "mtimeMs": 1783907779592
+    },
+    "wiki/entities/黄晓丹.md": {
+      "hash": "87c0e6efd8534c5dbc8a0544575eb043",
+      "size": 1065,
+      "mtimeMs": 1783915696426
+    },
+    "wiki/entities/默尔索.md": {
+      "hash": "c7ff649898f292990198ef93308345df",
+      "size": 882,
+      "mtimeMs": 1783907711075
+    },
+    "wiki/index.md": {
+      "hash": "b9e3f961b84ddb2974a2764a5ed35fe9",
+      "size": 12454,
+      "mtimeMs": 1783916758418
+    },
+    "wiki/log.md": {
+      "hash": "72adc16c8c71b8cff0954745476c2249",
+      "size": 37623,
+      "mtimeMs": 1783916758409
+    },
+    "wiki/overview.md": {
+      "hash": "3a6b8de12b70516be93fe9f2f947b45c",
+      "size": 210,
+      "mtimeMs": 1783906621177
+    },
+    "wiki/queries/上瘾模型的伦理边界是什么.md": {
+      "hash": "2dab168f7aea2b88bdd35a9281e7d468",
+      "size": 1435,
+      "mtimeMs": 1783907547816
+    },
+    "wiki/queries/传统中国制度与法术的区分标准是否具有普遍性.md": {
+      "hash": "21462d7a11bda3a437065b183495ed2c",
+      "size": 1356,
+      "mtimeMs": 1783913507657
+    },
+    "wiki/queries/佛学智慧对现代心灵危机的实际效用如何.md": {
+      "hash": "adbdb8ecd694646a3bed783af148d376",
+      "size": 2273,
+      "mtimeMs": 1783915182550
+    },
+    "wiki/queries/女性主义内部的代际对话如何促进议题深化与共识形成.md": {
+      "hash": "d3df62b31e6a6fe0b2d898ad13ee29a1",
+      "size": 1347,
+      "mtimeMs": 1783910497694
+    },
+    "wiki/queries/如何做一个清醒的现代人.md": {
+      "hash": "3338f3818322f16172cab264482f17cb",
+      "size": 1854,
+      "mtimeMs": 1783910849397
+    },
+    "wiki/queries/如何区分并有效应对生活中的真实内疚与虚假内疚.md": {
+      "hash": "d34120015c40452a14d3eab890ff600e",
+      "size": 1969,
+      "mtimeMs": 1783911029436
+    },
+    "wiki/queries/如何将高敏感特质转化为职场优势.md": {
+      "hash": "8b62e3bd8be81c8ecb52d6a1c31c9a2c",
+      "size": 1933,
+      "mtimeMs": 1783911960490
+    },
+    "wiki/queries/如何平衡积极性驱动与消极停顿.md": {
+      "hash": "f685dcfc2dca64096f7af4e053df477e",
+      "size": 1782,
+      "mtimeMs": 1783911533015
+    },
+    "wiki/queries/如何建立更有效的跨辖区犯罪侦查协作机制.md": {
+      "hash": "ec3435151a2567368dee57ef7187e03a",
+      "size": 1893,
+      "mtimeMs": 1783910642469
+    },
+    "wiki/queries/如何量化监测社会阶层流动通道的开放程度.md": {
+      "hash": "2984f6a3c248a4952357a2eba1fefdea",
+      "size": 1653,
+      "mtimeMs": 1783914502953
+    },
+    "wiki/queries/差序格局理论在现代中国社会是否仍然适用.md": {
+      "hash": "7df11c55656b7b8b4f6e8a1a8fd154f1",
+      "size": 2215,
+      "mtimeMs": 1783908663940
+    },
+    "wiki/queries/心智成熟的核心是否为自律与承担责任.md": {
+      "hash": "a45e17e50a78e048782ccaaf1b11c497",
+      "size": 2031,
+      "mtimeMs": 1783912802959
+    },
+    "wiki/queries/意义疗法在现代社会的应用与验证如何.md": {
+      "hash": "bcca4aef1d50bb6fd3febba2410a243c",
+      "size": 2406,
+      "mtimeMs": 1783914431426
+    },
+    "wiki/queries/房龙的不宽容理论是否具有跨文化普适性.md": {
+      "hash": "d2e175c3582fae5283d367b9c8184749",
+      "size": 1385,
+      "mtimeMs": 1783908215793
+    },
+    "wiki/queries/技术证据在司法系统中应扮演何种角色.md": {
+      "hash": "981330a22b2c8c36eec5d46d0ba5f4a5",
+      "size": 2056,
+      "mtimeMs": 1783910642468
+    },
+    "wiki/queries/文学作品如何有效揭示社会结构性不平等.md": {
+      "hash": "34dbf997ba41b33e084d47d8807dc3e6",
+      "size": 1554,
+      "mtimeMs": 1783910158467
+    },
+    "wiki/queries/文学通俗化解读的张力.md": {
+      "hash": "d92f90f835fa8c4a0a05e868632bb19a",
+      "size": 1060,
+      "mtimeMs": 1783912452897
+    },
+    "wiki/queries/极端社会失序状态下内在道德情感与外部制度规则何者更能维系人性.md": {
+      "hash": "7060c3d19b2e58816f682ec21e7ba3e9",
+      "size": 2245,
+      "mtimeMs": 1783910933797
+    },
+    "wiki/queries/核心理念与短期业绩压力如何调和.md": {
+      "hash": "4018adbc63ce6d376e5fb0cc9f892c77",
+      "size": 1167,
+      "mtimeMs": 1783909097440
+    },
+    "wiki/queries/毛姆短篇与长篇小说的人性洞察异同.md": {
+      "hash": "a16994cc7c691b9d39e64248e112cf11",
+      "size": 1390,
+      "mtimeMs": 1783908304442
+    },
+    "wiki/queries/法律在追求普遍正义与回应个案差异间如何平衡.md": {
+      "hash": "836bd8f2daf0ea73bb0ad3e60a28bb2b",
+      "size": 1583,
+      "mtimeMs": 1783913892692
+    },
+    "wiki/queries/清代部族政权论的解释力与局限性如何.md": {
+      "hash": "492732d256af7a98b0064b73e2ddafce",
+      "size": 1305,
+      "mtimeMs": 1783913507656
+    },
+    "wiki/queries/清谈风气与政治效率的关系如何.md": {
+      "hash": "eab7ec51f1d0ba5e237cf3c3f14dd5b8",
+      "size": 1847,
+      "mtimeMs": 1783915090055
+    },
+    "wiki/queries/理学在道德建构与政治实践中的矛盾如何调和.md": {
+      "hash": "0c36b43addcb0411bb7fb8b749323466",
+      "size": 1902,
+      "mtimeMs": 1783915090056
+    },
+    "wiki/queries/生命之轻是否等同于存在主义的虚无.md": {
+      "hash": "42ae5b9351b612eea7efa3c1acc5baa9",
+      "size": 1675,
+      "mtimeMs": 1783909582990
+    },
+    "wiki/queries/生成式AI的实际能力与宣传预期之间的差距.md": {
+      "hash": "99b6e7d7c9e1c12e085eb4db6fd411b1",
+      "size": 1565,
+      "mtimeMs": 1783911816757
+    },
+    "wiki/queries/社交焦虑特质与创造力-同理心的关系.md": {
+      "hash": "9826f2bbe5830748d2c7fb93e1116433",
+      "size": 1762,
+      "mtimeMs": 1783912667383
+    },
+    "wiki/queries/维特根斯坦后期哲学的核心转向及其影响是什么.md": {
+      "hash": "1a3eef45a5642fe4ca395998557ccdd5",
+      "size": 2132,
+      "mtimeMs": 1783912235821
+    },
+    "wiki/queries/罗素的理性主义幸福观与东方哲学的融合可能性.md": {
+      "hash": "ca1c0e0dabdac5385e2aec53793cb3fc",
+      "size": 2340,
+      "mtimeMs": 1783916543474
+    },
+    "wiki/queries/阿德勒的目的论是否具有实证基础.md": {
+      "hash": "0eced2f5c173546a3363f1ab590737d1",
+      "size": 2166,
+      "mtimeMs": 1783909218552
+    },
+    "wiki/queries/非暴力沟通模型的有效性与局限性.md": {
+      "hash": "6679f75898afaf447e914c55ffddd99a",
+      "size": 1765,
+      "mtimeMs": 1783909282989
+    },
+    "wiki/queries/面纱中东西方哲学融合是否代表毛姆的个人思考.md": {
+      "hash": "85e9cd6c73aa861c37035ffb2443adce",
+      "size": 1465,
+      "mtimeMs": 1783909390581
+    },
+    "wiki/sources/82年生的金智英（再版｜同名电影原著）.md": {
+      "hash": "cd7920d7e693c95fde5438ca65f9ea35",
+      "size": 1939,
+      "mtimeMs": 1783910158453
+    },
+    "wiki/sources/Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md": {
+      "hash": "f4238eb649d0595b735d8fa5723ab05e",
+      "size": 7033,
+      "mtimeMs": 1783909493880
+    },
+    "wiki/sources/book1-claude-code.md": {
+      "hash": "845fc5b6c31c7cf6627f3200f83f779e",
+      "size": 2036,
+      "mtimeMs": 1783916118679
+    },
+    "wiki/sources/一个无政府主义者的意外死亡.md": {
+      "hash": "b18e04e540b4572c0f8f15ac1a7786e7",
+      "size": 2615,
+      "mtimeMs": 1783914591110
+    },
+    "wiki/sources/上瘾：让用户养成使用习惯的四大产品逻辑.md": {
+      "hash": "075accd729009cbc3ca2475d59a0591d",
+      "size": 2310,
+      "mtimeMs": 1783907547799
+    },
+    "wiki/sources/不止于正义.md": {
+      "hash": "0a5a847126a617d2f813219779b64c65",
+      "size": 3567,
+      "mtimeMs": 1783915442399
+    },
+    "wiki/sources/不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md": {
+      "hash": "d58f32c469cdefacc60c44b5404fa41b",
+      "size": 2013,
+      "mtimeMs": 1783909582967
+    },
+    "wiki/sources/东野圭吾经典推理作品集（套装共6册）.md": {
+      "hash": "a094c5e1436ac1bfb097a273e9af2eee",
+      "size": 7563,
+      "mtimeMs": 1783907959129
+    },
+    "wiki/sources/中国历代政治得失.md": {
+      "hash": "328099be33366ef20224a75db235fb88",
+      "size": 2732,
+      "mtimeMs": 1783913507643
+    },
+    "wiki/sources/中国哲学简史（插图修订版）.md": {
+      "hash": "e1b6455d9c12f9543360d16b6da586f6",
+      "size": 1762,
+      "mtimeMs": 1783916464028
+    },
+    "wiki/sources/中国通史（上下册）.md": {
+      "hash": "33f2caa2103ea3a9eb73242c4ef72d9c",
+      "size": 3382,
+      "mtimeMs": 1783915090041
+    },
+    "wiki/sources/九诗心：暗夜里的文学启明.md": {
+      "hash": "c87ca72840faf5ca416e71fc93b7a25a",
+      "size": 3947,
+      "mtimeMs": 1783915696425
+    },
+    "wiki/sources/乡土中国.md": {
+      "hash": "a9ad6881fb3f5243d873a4fd3acf116f",
+      "size": 2136,
+      "mtimeMs": 1783908663934
+    },
+    "wiki/sources/乡土中国（果麦经典）.md": {
+      "hash": "fdd7d1edd5885dfcefd3131f29d94fab",
+      "size": 3749,
+      "mtimeMs": 1783915955099
+    },
+    "wiki/sources/人生借阅室（打开一种人生）.md": {
+      "hash": "1d6d00184e5289ff4ac51fc08e7e13f1",
+      "size": 4854,
+      "mtimeMs": 1783911743060
+    },
+    "wiki/sources/人生总会有答案.md": {
+      "hash": "49168491f652341cf2c2799d761b5769",
+      "size": 5360,
+      "mtimeMs": 1783913281032
+    },
+    "wiki/sources/人生海海.md": {
+      "hash": "d9eddc841afae2d3440d436d2bce0eb3",
+      "size": 1448,
+      "mtimeMs": 1783907779591
+    },
+    "wiki/sources/人生的智慧.md": {
+      "hash": "655ad789cd360eca0e837bd9fd5a78d1",
+      "size": 2359,
+      "mtimeMs": 1783908093019
+    },
+    "wiki/sources/人生解忧：佛学入门四十讲.md": {
+      "hash": "81b6cbf033cf28085fc85551b873aaa2",
+      "size": 2495,
+      "mtimeMs": 1783915182541
+    },
+    "wiki/sources/从零开始的女性主义.md": {
+      "hash": "a49d5174bead2cacb01f2b5abce0f5cd",
+      "size": 6104,
+      "mtimeMs": 1783909956916
+    },
+    "wiki/sources/何为良好生活：行之于途而应于心.md": {
+      "hash": "4f8da1e31e10fc18879622e1737c398c",
+      "size": 3160,
+      "mtimeMs": 1783914705833
+    },
+    "wiki/sources/你一生的故事（译林幻系列）.md": {
+      "hash": "aa259948d2adb8d98569388d292e9065",
+      "size": 6212,
+      "mtimeMs": 1783913719155
+    },
+    "wiki/sources/你当像鸟飞往你的山.md": {
+      "hash": "c8850def182831ffc5da145acdb65b20",
+      "size": 2613,
+      "mtimeMs": 1783908574870
+    },
+    "wiki/sources/你永远都无法叫醒一个装睡的人.md": {
+      "hash": "79128926fae3b490f75810e4ae7f627f",
+      "size": 2897,
+      "mtimeMs": 1783913086037
+    },
+    "wiki/sources/你的敏感，就是你的天赋.md": {
+      "hash": "37a6dbe469c77bbe76c66657e0daf815",
+      "size": 2366,
+      "mtimeMs": 1783912998391
+    },
+    "wiki/sources/倦怠社会.md": {
+      "hash": "bdf95162679fc2abfa1664d21c689282",
+      "size": 1764,
+      "mtimeMs": 1783911532995
+    },
+    "wiki/sources/做一个清醒的现代人.md": {
+      "hash": "b5d217bc033a4a3543ec387215f97ff0",
+      "size": 2806,
+      "mtimeMs": 1783910849382
+    },
+    "wiki/sources/停止想太多：写给高敏者的职场突破指南.md": {
+      "hash": "a39994944f22e4dc7553c70dec336773",
+      "size": 2140,
+      "mtimeMs": 1783911960485
+    },
+    "wiki/sources/刘擎西方现代思想讲义.md": {
+      "hash": "f92930fe337c5ea87267f6928eac492f",
+      "size": 8843,
+      "mtimeMs": 1783909883260
+    },
+    "wiki/sources/别想生活有答案：改变生活的100个思维大冒险.md": {
+      "hash": "b83789091a6ba663b1d7027744655f07",
+      "size": 4924,
+      "mtimeMs": 1783909004674
+    },
+    "wiki/sources/历史深处的民国（全集）.md": {
+      "hash": "10870555ca0396124b51b1de728f10c2",
+      "size": 1362,
+      "mtimeMs": 1783915351392
+    },
+    "wiki/sources/反脆弱：从不确定性中获益.md": {
+      "hash": "cb7dbf4add062455120fa8ae0d2e8285",
+      "size": 6899,
+      "mtimeMs": 1783907621703
+    },
+    "wiki/sources/古龙作品大全集.md": {
+      "hash": "94c9e9356b2ecb20f8253e102842c938",
+      "size": 2043,
+      "mtimeMs": 1783910309586
+    },
+    "wiki/sources/可能性的艺术：比较政治学30讲.md": {
+      "hash": "c2012c538cf2d914dc4073aec9598f32",
+      "size": 3340,
+      "mtimeMs": 1783916205275
+    },
+    "wiki/sources/命运.md": {
+      "hash": "7cef6feef684a9480b17867a4a163bb3",
+      "size": 3701,
+      "mtimeMs": 1783911253877
+    },
+    "wiki/sources/哲学的故事.md": {
+      "hash": "30746bc4a970607fb60b07447e219b08",
+      "size": 980,
+      "mtimeMs": 1783908872169
+    },
+    "wiki/sources/在峡江的转弯处：陈行甲人生笔记.md": {
+      "hash": "b2899086b989ff3470a665bb8176ae4d",
+      "size": 2131,
+      "mtimeMs": 1783914502950
+    },
+    "wiki/sources/坏小孩（秦昊、王景春《隐秘的角落》原著）.md": {
+      "hash": "f77ca8995c8cbe62d15d7c88f51c2177",
+      "size": 7536,
+      "mtimeMs": 1783908380563
+    },
+    "wiki/sources/基业长青（珍藏版）.md": {
+      "hash": "822820109c7f630da99dedadfb8c2951",
+      "size": 2531,
+      "mtimeMs": 1783909097419
+    },
+    "wiki/sources/多谈谈问题（单读33）.md": {
+      "hash": "f49b7766304abc7861d40a8f51f3d176",
+      "size": 5822,
+      "mtimeMs": 1783911682467
+    },
+    "wiki/sources/失明症漫记（罗翔推荐）.md": {
+      "hash": "45769fa0f494418d446ff3b029f6751a",
+      "size": 2109,
+      "mtimeMs": 1783910933792
+    },
+    "wiki/sources/如何克服社交焦虑.md": {
+      "hash": "2de92cd47aeea053f3dba911c0ea07e0",
+      "size": 3363,
+      "mtimeMs": 1783912667359
+    },
+    "wiki/sources/始于极限：女性主义往复书简.md": {
+      "hash": "7f702790511b947732528567f8fe5ee3",
+      "size": 2122,
+      "mtimeMs": 1783910497687
+    },
+    "wiki/sources/宽容.md": {
+      "hash": "bee810d54f4f83c9aa4a8ff96477eaaa",
+      "size": 2347,
+      "mtimeMs": 1783908215788
+    },
+    "wiki/sources/少有人走的路：心智成熟的旅程.md": {
+      "hash": "3ac1e293c40cda5d9f025d7f44a002fe",
+      "size": 3226,
+      "mtimeMs": 1783912802952
+    },
+    "wiki/sources/局外人（果麦经典）.md": {
+      "hash": "4e66909f00743672bf6fb203c87272fe",
+      "size": 1894,
+      "mtimeMs": 1783907711073
+    },
+    "wiki/sources/布鲁特斯的心脏.md": {
+      "hash": "6c1d6c5e290eb837c6d4a1c309d676ed",
+      "size": 1635,
+      "mtimeMs": 1783907213141
+    },
+    "wiki/sources/带队伍：不会带团队，你就只能干到死!.md": {
+      "hash": "7662255a79e4b6bb2005b51482ba2df0",
+      "size": 1830,
+      "mtimeMs": 1783910072503
+    },
+    "wiki/sources/德米安：彷徨少年时（黑塞精选集）.md": {
+      "hash": "10ef214e9fba203c21afeed67b7b08e0",
+      "size": 3395,
+      "mtimeMs": 1783912391411
+    },
+    "wiki/sources/心是孤独的猎手.md": {
+      "hash": "55a4a1b21fe37bc18f4080ff3f2cb64f",
+      "size": 3444,
+      "mtimeMs": 1783907881564
+    },
+    "wiki/sources/思维的囚徒.md": {
+      "hash": "5f8b21a6dc8c3072586c1cecdba8dc1d",
+      "size": 2436,
+      "mtimeMs": 1783908155818
+    },
+    "wiki/sources/我们如何思考.md": {
+      "hash": "0716783bf6895cb15d77960831cbe265",
+      "size": 9734,
+      "mtimeMs": 1783914279757
+    },
+    "wiki/sources/我们活着的理由：弗兰克尔论生命的意义.md": {
+      "hash": "d7d76298f1d6eb7ff87893b94ecc9f55",
+      "size": 3906,
+      "mtimeMs": 1783914396057
+    },
+    "wiki/sources/我所相信的生活.md": {
+      "hash": "eb274e997ba7342f256777fa9dfd6b70",
+      "size": 2826,
+      "mtimeMs": 1783916543468
+    },
+    "wiki/sources/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md": {
+      "hash": "85375f2be6892718c0cff01721299bcb",
+      "size": 11130,
+      "mtimeMs": 1783914009331
+    },
+    "wiki/sources/我的心渴望一种更加惊险的生活（果麦经典）.md": {
+      "hash": "81f225a05a0b119c9a460a3bd595c263",
+      "size": 2907,
+      "mtimeMs": 1783914937768
+    },
+    "wiki/sources/打开：周濂的100堂西方哲学课.md": {
+      "hash": "4d14bae1ac578a6a96a88f78ab254c14",
+      "size": 6763,
+      "mtimeMs": 1783908489838
+    },
+    "wiki/sources/摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配.md": {
+      "hash": "a30cacc80694b77dc40c86e6e87d59d2",
+      "size": 2639,
+      "mtimeMs": 1783911029424
+    },
+    "wiki/sources/文学中的人生进化课.md": {
+      "hash": "240ccd03e203242c1599a2a52aa06354",
+      "size": 1500,
+      "mtimeMs": 1783912452893
+    },
+    "wiki/sources/明朝那些事儿·全集（2021年 增补版）.md": {
+      "hash": "215cd2dad4931482bde95eca4e7890e1",
+      "size": 1634,
+      "mtimeMs": 1783913584732
+    },
+    "wiki/sources/杀死一只知更鸟（同名电影原著）.md": {
+      "hash": "e747550512087f430d623a335ee3d760",
+      "size": 2613,
+      "mtimeMs": 1783907426754
+    },
+    "wiki/sources/毛姆短篇小说精选集.md": {
+      "hash": "87414d152710631aa8f77b664d656c30",
+      "size": 1306,
+      "mtimeMs": 1783908304433
+    },
+    "wiki/sources/毛泽东选集（全四卷）.md": {
+      "hash": "af1d19d0410698a0aeeedce237b7fbb7",
+      "size": 6130,
+      "mtimeMs": 1783916250409
+    },
+    "wiki/sources/法律的悖论.md": {
+      "hash": "8a6a496d59defc4e6980bd86ba9239ed",
+      "size": 2582,
+      "mtimeMs": 1783913892680
+    },
+    "wiki/sources/浪花少年侦探团.md": {
+      "hash": "53eb2b0691a110baa49a3fe11094d963",
+      "size": 1720,
+      "mtimeMs": 1783907478849
+    },
+    "wiki/sources/滔滔生活.md": {
+      "hash": "b593a9420284e3b7114a06ab07255453",
+      "size": 9175,
+      "mtimeMs": 1783911337374
+    },
+    "wiki/sources/焦虑的人.md": {
+      "hash": "e874f8efbcac11d5d375567fefe48f55",
+      "size": 5981,
+      "mtimeMs": 1783910238252
+    },
+    "wiki/sources/生成式人工智能.md": {
+      "hash": "5eb81fdf661e24ee0e2f75d4c68ea040",
+      "size": 1597,
+      "mtimeMs": 1783911816754
+    },
+    "wiki/sources/白夜行.md": {
+      "hash": "894815a9a7ab39085405acefe32544aa",
+      "size": 2194,
+      "mtimeMs": 1783907297462
+    },
+    "wiki/sources/皮囊.md": {
+      "hash": "c3825742c031b0f63f4608558146e46c",
+      "size": 1126,
+      "mtimeMs": 1783907349930
+    },
+    "wiki/sources/真希望我父母读过这本书.md": {
+      "hash": "e0a9f2094a4e06e372e18cd34c552787",
+      "size": 3762,
+      "mtimeMs": 1783916758402
+    },
+    "wiki/sources/红星照耀中国.md": {
+      "hash": "fad27264d38cfce12f722160f2b9f591",
+      "size": 4859,
+      "mtimeMs": 1783915562683
+    },
+    "wiki/sources/维特根斯坦传：天才之为责任.md": {
+      "hash": "e4c8a97b808d3c0a4e7f3931fbc1763c",
+      "size": 7213,
+      "mtimeMs": 1783908778693
+    },
+    "wiki/sources/维特根斯坦十讲.md": {
+      "hash": "d3fa214e0884a9bcbf272b27a1774f67",
+      "size": 1736,
+      "mtimeMs": 1783912235806
+    },
+    "wiki/sources/與中國打交道——美國前財長鮑爾森的二十年內幕觀察.md": {
+      "hash": "2371124b4b732ffaf8b5bf034fe6f73b",
+      "size": 413,
+      "mtimeMs": 1783915570135
+    },
+    "wiki/sources/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md": {
+      "hash": "4fd5043a8e14ab7f96ddeb89a34af583",
+      "size": 11958,
+      "mtimeMs": 1783913173871
+    },
+    "wiki/sources/荒原狼.md": {
+      "hash": "e60fb2779ebae31581a172435b37850d",
+      "size": 5597,
+      "mtimeMs": 1783910424527
+    },
+    "wiki/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md": {
+      "hash": "3fea61cecfcef52eef302b547b1df011",
+      "size": 3259,
+      "mtimeMs": 1783909218539
+    },
+    "wiki/sources/西方哲学史讲演录.md": {
+      "hash": "54a5e2dcc462a7dcf25eef8ed44fe31c",
+      "size": 5344,
+      "mtimeMs": 1783916679044
+    },
+    "wiki/sources/西西弗神话.md": {
+      "hash": "fe4f146de02da692742e9dfd9be0d5e5",
+      "size": 7322,
+      "mtimeMs": 1783910740488
+    },
+    "wiki/sources/认知觉醒：开启自我改变的原动力.md": {
+      "hash": "9d9fba9705f3c74aa840c2f1746af63b",
+      "size": 6021,
+      "mtimeMs": 1783912945398
+    },
+    "wiki/sources/读者（2022年第13期）.md": {
+      "hash": "cb033d04199ee00031c0c128f73e9ff5",
+      "size": 1536,
+      "mtimeMs": 1783909997270
+    },
+    "wiki/sources/足利女童连续失踪事件.md": {
+      "hash": "2aa1cdc0862a9d5d440f3f22530d66a8",
+      "size": 2266,
+      "mtimeMs": 1783910642457
+    },
+    "wiki/sources/逃避自由（弗洛姆作品系列）.md": {
+      "hash": "44c4e6cdb8fb86fbdc33665577862eac",
+      "size": 16245,
+      "mtimeMs": 1783911153605
+    },
+    "wiki/sources/道德经（中华国学经典精粹）.md": {
+      "hash": "d0c3a614a8b3e427e775f081cf1f1705",
+      "size": 1983,
+      "mtimeMs": 1783913798093
+    },
+    "wiki/sources/陪老婆怀孕.md": {
+      "hash": "e36b97e23b3d65ebaa9936f6d759b156",
+      "size": 2598,
+      "mtimeMs": 1783915737338
+    },
+    "wiki/sources/非暴力沟通.md": {
+      "hash": "e58e949857e03c4dd5bea4afbaa56774",
+      "size": 5655,
+      "mtimeMs": 1783909282998
+    },
+    "wiki/sources/面纱.md": {
+      "hash": "bc47e8d50b8b6a0880fc52c07ba74942",
+      "size": 3757,
+      "mtimeMs": 1783909376727
+    },
+    "wiki/synthesis/古代诗歌对现代人生存困境的回应.md": {
+      "hash": "c78125f5d36bc0d85c8b969d813500cb",
+      "size": 2690,
+      "mtimeMs": 1783915696466
+    },
+    "wiki/synthesis/构建可靠的团队级ai代理系统设计原则综合.md": {
+      "hash": "9a5904e34196c63906312a6795268e01",
+      "size": 2788,
+      "mtimeMs": 1783916118689
+    }
+  }
+}

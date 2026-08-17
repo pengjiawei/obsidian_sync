@@ -1,0 +1,1167 @@
+{
+  "entries": {
+    "布鲁特斯的心脏.md": {
+      "hash": "7fe335f0f0da529cd8f656762893adff2163af2ddd7994d0a2d1111f59f68d59",
+      "timestamp": 1783907232504,
+      "filesWritten": [
+        "wiki/sources/布鲁特斯的心脏.md",
+        "wiki/entities/布鲁特斯的心脏.md",
+        "wiki/concepts/尸体接力.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "白夜行.md": {
+      "hash": "38076476014aa07adae93283926b27f5c83d66977f0579eae903924d8e70b41a",
+      "timestamp": 1783907297497,
+      "filesWritten": [
+        "wiki/sources/白夜行.md",
+        "wiki/entities/东野圭吾.md",
+        "wiki/concepts/悬疑推理.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "皮囊.md": {
+      "hash": "9929e6707f793644c7b0cd6ce7e5c71361afcc818deca9549a785d69e65e4bf4",
+      "timestamp": 1783907349955,
+      "filesWritten": [
+        "wiki/sources/皮囊.md",
+        "wiki/entities/蔡崇达.md",
+        "wiki/concepts/非虚构写作.md",
+        "wiki/concepts/乡土与远方.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "杀死一只知更鸟（同名电影原著）.md": {
+      "hash": "91b69d9149d6fd3600d85180a122a69e81c84080e5151d3c2da5cecd6bf870b9",
+      "timestamp": 1783907426817,
+      "filesWritten": [
+        "wiki/sources/杀死一只知更鸟（同名电影原著）.md",
+        "wiki/entities/哈珀-李.md",
+        "wiki/entities/阿迪克斯-芬奇.md",
+        "wiki/entities/斯库特-芬奇.md",
+        "wiki/entities/杰姆-芬奇.md",
+        "wiki/entities/汤姆-鲁宾逊.md",
+        "wiki/entities/布-拉德利.md",
+        "wiki/concepts/知更鸟隐喻.md",
+        "wiki/concepts/同理心教育.md",
+        "wiki/concepts/社会偏见与文学批判.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "浪花少年侦探团.md": {
+      "hash": "573ecb123c1d45da7b36912a301724d8eb8a1d02d82fec404a4c5cb5689b0ffb",
+      "timestamp": 1783907478879,
+      "filesWritten": [
+        "wiki/sources/浪花少年侦探团.md",
+        "wiki/concepts/密室推理.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "上瘾：让用户养成使用习惯的四大产品逻辑.md": {
+      "hash": "ec6e688593691149761f3c42f2b453c5413a1d53d6d5cb710161d0afa869f285",
+      "timestamp": 1783907558946,
+      "filesWritten": [
+        "wiki/sources/上瘾：让用户养成使用习惯的四大产品逻辑.md",
+        "wiki/entities/尼尔-埃亚尔.md",
+        "wiki/entities/瑞安-胡佛.md",
+        "wiki/concepts/上瘾模型.md",
+        "wiki/concepts/用户依赖性.md",
+        "wiki/concepts/用户终身价值.md",
+        "wiki/concepts/维生素与止痛药.md",
+        "wiki/queries/上瘾模型的伦理边界是什么.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "反脆弱：从不确定性中获益.md": {
+      "hash": "8ab947d38da9e651746255fad8f42197983bfdee7e26fee77035599ad0ae8eb7",
+      "timestamp": 1783907645083,
+      "filesWritten": [
+        "wiki/sources/反脆弱：从不确定性中获益.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "局外人（果麦经典）.md": {
+      "hash": "8fd7dd475572c59b544babeb99252546311f97533f11d7e3750a3db9a066958a",
+      "timestamp": 1783907711123,
+      "filesWritten": [
+        "wiki/sources/局外人（果麦经典）.md",
+        "wiki/entities/阿尔贝-加缪.md",
+        "wiki/entities/默尔索.md",
+        "wiki/concepts/世界的荒诞与陌生感.md",
+        "wiki/concepts/社会的规训与审判.md",
+        "wiki/concepts/语言与沉默的张力.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "人生海海.md": {
+      "hash": "10463d02135557b3b49ea1efcf5981708a309f875d67ce054346869e54678f6c",
+      "timestamp": 1783907779614,
+      "filesWritten": [
+        "wiki/sources/人生海海.md",
+        "wiki/entities/麦家.md",
+        "wiki/concepts/秘密与窥探.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "心是孤独的猎手.md": {
+      "hash": "958f06e3fc0224cf1030ad0c0a1b4c32da1de1e849d17df7f06f66e070e866bc",
+      "timestamp": 1783907881610,
+      "filesWritten": [
+        "wiki/sources/心是孤独的猎手.md",
+        "wiki/entities/卡森-麦卡勒斯.md",
+        "wiki/entities/心是孤独的猎手.md",
+        "wiki/entities/辛格.md",
+        "wiki/entities/米克.md",
+        "wiki/entities/杰克.md",
+        "wiki/entities/科普兰医生.md",
+        "wiki/entities/比夫.md",
+        "wiki/entities/安东尼帕罗斯.md",
+        "wiki/concepts/孤独.md",
+        "wiki/concepts/倾听作为救赎.md",
+        "wiki/concepts/理想与行动的冲突.md",
+        "wiki/concepts/沟通的失效.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "东野圭吾经典推理作品集（套装共6册）.md": {
+      "hash": "caf045174599520ef3ab397a9a69170acef08c7857798ae4f401985279486c80",
+      "timestamp": 1783908002413,
+      "filesWritten": [
+        "wiki/sources/东野圭吾经典推理作品集（套装共6册）.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "人生的智慧.md": {
+      "hash": "a5a95aa8a6989d3bfdfb1778497c9dd7b9e2ed4218d8706fa1370ec0d9719944",
+      "timestamp": 1783908093072,
+      "filesWritten": [
+        "wiki/sources/人生的智慧.md",
+        "wiki/entities/叔本华.md",
+        "wiki/entities/歌德.md",
+        "wiki/concepts/内在幸福与独立.md",
+        "wiki/concepts/必然性与宿命论.md",
+        "wiki/concepts/人生阶段论.md",
+        "wiki/concepts/社会评价偏差.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "思维的囚徒.md": {
+      "hash": "83edcd541f035a69dff6eab8118701721335be604a45f19c84a546a7b50e79ac",
+      "timestamp": 1783908155860,
+      "filesWritten": [
+        "wiki/sources/思维的囚徒.md",
+        "wiki/entities/维克多弗兰克尔.md",
+        "wiki/concepts/意义疗法.md",
+        "wiki/concepts/选择态度的自由.md",
+        "wiki/concepts/活出生命的意义七原则.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "宽容.md": {
+      "hash": "d200ed74375fbb85a0b2f441e66f25e8329aae44365069af3a1a565f135e29ba",
+      "timestamp": 1783908224901,
+      "filesWritten": [
+        "wiki/sources/宽容.md",
+        "wiki/entities/房龙.md",
+        "wiki/concepts/不宽容的三类型.md",
+        "wiki/concepts/宗教改革的监狱隐喻.md",
+        "wiki/queries/房龙的不宽容理论是否具有跨文化普适性.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "毛姆短篇小说精选集.md": {
+      "hash": "43080beea88027decaf3d9ebfd8bc71e72ab490d1febfbc429c653e7bfd52a2b",
+      "timestamp": 1783908304490,
+      "filesWritten": [
+        "wiki/sources/毛姆短篇小说精选集.md",
+        "wiki/entities/毛姆.md",
+        "wiki/concepts/短篇小说的人性剖析.md",
+        "wiki/concepts/冷峻叙事.md",
+        "wiki/queries/毛姆短篇与长篇小说的人性洞察异同.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "坏小孩（秦昊、王景春《隐秘的角落》原著）.md": {
+      "hash": "71e6e05ee51e7a2b5b0d40d50beb8a3f91ca15b049a16411b0e27260ecfd6e08",
+      "timestamp": 1783908380598,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/坏小孩（秦昊、王景春《隐秘的角落》原著）.md"
+      ]
+    },
+    "打开：周濂的100堂西方哲学课.md": {
+      "hash": "d0ac0bcb73cd3c17bef0fc349d0f4fb95118a0551de18745f23d939474cfd4f6",
+      "timestamp": 1783908489862,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/打开：周濂的100堂西方哲学课.md"
+      ]
+    },
+    "你当像鸟飞往你的山.md": {
+      "hash": "887fb98f50c92e202855f5d107e3009a046d4ea9ccddda89f9443ef953e59f37",
+      "timestamp": 1783908574913,
+      "filesWritten": [
+        "wiki/sources/你当像鸟飞往你的山.md",
+        "wiki/entities/塔拉韦斯特弗.md",
+        "wiki/concepts/教育作为解放.md",
+        "wiki/concepts/积极自由.md",
+        "wiki/concepts/家庭创伤与记忆重构.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "乡土中国.md": {
+      "hash": "424af3036c528867b4ef5c720bc33cd8904585eb8249def1c2e6250facb4bc0c",
+      "timestamp": 1783908716452,
+      "filesWritten": [
+        "wiki/sources/乡土中国.md",
+        "wiki/entities/费孝通.md",
+        "wiki/concepts/差序格局.md",
+        "wiki/concepts/礼治秩序.md",
+        "wiki/concepts/维系着私人的道德.md",
+        "wiki/queries/差序格局理论在现代中国社会是否仍然适用.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "维特根斯坦传：天才之为责任.md": {
+      "hash": "82728705ebcf81b6c54a599a4a4576a9856d4de448ee3723362fcfb5b52df65a",
+      "timestamp": 1783908828598,
+      "filesWritten": [
+        "wiki/sources/维特根斯坦传：天才之为责任.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "哲学的故事.md": {
+      "hash": "39197b3b290c7467983294607542e65473ba377549e29d0799e67ce43627dd9b",
+      "timestamp": 1783908904535,
+      "filesWritten": [
+        "wiki/sources/哲学的故事.md",
+        "wiki/concepts/希望作为易受骗性的根源.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "别想生活有答案：改变生活的100个思维大冒险.md": {
+      "hash": "d8830da9a37d76c645a6bd50718b98c71dfc6cb23c008b85de23ad6419deae31",
+      "timestamp": 1783909004710,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/别想生活有答案：改变生活的100个思维大冒险.md"
+      ]
+    },
+    "基业长青（珍藏版）.md": {
+      "hash": "fa17ecdac4c0b48ed1df57585f5ccf769043a504aca7aa135d0d3b94bcd9c298",
+      "timestamp": 1783909097472,
+      "filesWritten": [
+        "wiki/sources/基业长青（珍藏版）.md",
+        "wiki/entities/吉姆-柯林斯.md",
+        "wiki/entities/摩托罗拉.md",
+        "wiki/concepts/造钟不是报时.md",
+        "wiki/concepts/伟大构想的迷思.md",
+        "wiki/concepts/务实的理想主义.md",
+        "wiki/concepts/核心理念.md",
+        "wiki/concepts/组织流分析.md",
+        "wiki/concepts/利润神话.md",
+        "wiki/queries/核心理念与短期业绩压力如何调和.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md": {
+      "hash": "d140e7295380d1743980ea251bb8633344a6e9f8517b4f8ead816f01f3bd710e",
+      "timestamp": 1783909224327,
+      "filesWritten": [
+        "wiki/sources/被讨厌的勇气：“自我启发之父”阿德勒的哲学课.md",
+        "wiki/entities/阿尔弗雷德-阿德勒.md",
+        "wiki/entities/岸见一郎.md",
+        "wiki/concepts/目的论.md",
+        "wiki/concepts/课题分离.md",
+        "wiki/concepts/他者贡献.md",
+        "wiki/concepts/横向关系.md",
+        "wiki/concepts/自我接纳.md",
+        "wiki/concepts/认真活在此时此刻.md",
+        "wiki/queries/阿德勒的目的论是否具有实证基础.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "非暴力沟通.md": {
+      "hash": "17aa09435db3873fc3a60f98beecb792b4e459efe29cec1a8a20f9e722d28202",
+      "timestamp": 1783909283034,
+      "filesWritten": [
+        "wiki/entities/非暴力沟通.md",
+        "wiki/entities/马歇尔-卢森堡.md",
+        "wiki/concepts/非暴力沟通.md",
+        "wiki/concepts/非暴力沟通的四要素.md",
+        "wiki/queries/非暴力沟通模型的有效性与局限性.md",
+        "wiki/log.md",
+        "wiki/index.md",
+        "wiki/sources/非暴力沟通.md"
+      ]
+    },
+    "面纱.md": {
+      "hash": "5036ebea7237626a7b23cff6adcbc85acb7a8268439449f10efbd1335d95d25b",
+      "timestamp": 1783909427434,
+      "filesWritten": [
+        "wiki/sources/面纱.md",
+        "wiki/entities/毛姆.md",
+        "wiki/concepts/揭开生活的面纱.md",
+        "wiki/concepts/文学中的道诠释.md",
+        "wiki/queries/面纱中东西方哲学融合是否代表毛姆的个人思考.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md": {
+      "hash": "67f8420ea0d9fc8c476a5d6d6d193af893c308c53cb03e2549c8d00dddaabb86",
+      "timestamp": 1783909493912,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/Dwwwrootcleverpdf-web10193如何形成清晰的观点.epub.md"
+      ]
+    },
+    "不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md": {
+      "hash": "9d7f112cbeaca569c88cb60b9f5078dc582691187f187c6fd517f6af4c651219",
+      "timestamp": 1783909592416,
+      "filesWritten": [
+        "wiki/sources/不能承受的生命之轻（米兰·昆德拉作品系列·2022版）.md",
+        "wiki/entities/米兰-昆德拉.md",
+        "wiki/entities/托马斯.md",
+        "wiki/entities/特蕾莎.md",
+        "wiki/entities/捷克斯洛伐克.md",
+        "wiki/concepts/生命之轻与重.md",
+        "wiki/concepts/永恒轮回.md",
+        "wiki/concepts/同情与同情病.md",
+        "wiki/concepts/灵与肉.md",
+        "wiki/queries/生命之轻是否等同于存在主义的虚无.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "刘擎西方现代思想讲义.md": {
+      "hash": "23149570a640b0306e105c4a97f22dbdc978cd45861d9e7f2ee79b38fd7b750b",
+      "timestamp": 1783909883293,
+      "filesWritten": [
+        "wiki/sources/刘擎西方现代思想讲义.md"
+      ]
+    },
+    "从零开始的女性主义.md": {
+      "hash": "a0919fa6461e09227549312047a0595e40838ebba26c0c2b825569980f150268",
+      "timestamp": 1783909956954,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/从零开始的女性主义.md"
+      ]
+    },
+    "读者（2022年第13期）.md": {
+      "hash": "2dd190d344c00432d71c49c189aba16c5aebee7f60463e6b3927b49986d80163",
+      "timestamp": 1783909997322,
+      "filesWritten": [
+        "wiki/sources/读者（2022年第13期）.md",
+        "wiki/entities/读者.md",
+        "wiki/concepts/成熟-作为人格特质.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "带队伍：不会带团队，你就只能干到死!.md": {
+      "hash": "540343495b02fe419e1ab91439047bdb5809acb958b8224d48be087cf063f09e",
+      "timestamp": 1783910072543,
+      "filesWritten": [
+        "wiki/sources/带队伍：不会带团队，你就只能干到死!.md",
+        "wiki/entities/赵伟.md",
+        "wiki/concepts/管理者角色理论.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "82年生的金智英（再版｜同名电影原著）.md": {
+      "hash": "e9c4c2b03d70161b168762eebdd3c950dfecc94532f7017f63bb94e9f6d3a8f1",
+      "timestamp": 1783910158524,
+      "filesWritten": [
+        "wiki/sources/82年生的金智英（再版｜同名电影原著）.md",
+        "wiki/entities/赵南柱.md",
+        "wiki/entities/金智英.md",
+        "wiki/concepts/母职惩罚.md",
+        "wiki/concepts/社会性别规训.md",
+        "wiki/concepts/理所当然的期待.md",
+        "wiki/queries/文学作品如何有效揭示社会结构性不平等.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "焦虑的人.md": {
+      "hash": "d48c38da99b296938ac47077cb2b2f4a7dbe7ec40f91fa1763076e30b128d931",
+      "timestamp": 1783910238288,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/焦虑的人.md"
+      ]
+    },
+    "古龙作品大全集.md": {
+      "hash": "bbbbbcc6eb552b198d8c74cf9d8c3a4f26a029805b6027e0ad0eb09a03d85647",
+      "timestamp": 1783910309651,
+      "filesWritten": [
+        "wiki/sources/古龙作品大全集.md",
+        "wiki/entities/古龙.md",
+        "wiki/entities/郭大路.md",
+        "wiki/entities/王动.md",
+        "wiki/concepts/古龙的武侠小说创新.md",
+        "wiki/concepts/古龙的人生哲学.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "荒原狼.md": {
+      "hash": "6594fff0d6b20392e0a69b3a7a2da8696351c48d8c73a6a7a8ca400693e0e260",
+      "timestamp": 1783910424563,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/荒原狼.md"
+      ]
+    },
+    "始于极限：女性主义往复书简.md": {
+      "hash": "3872553b88de8508228ac3b3eb38eb256bdbe8c6e7055ef5fc1dded145fbd39a",
+      "timestamp": 1783910505337,
+      "filesWritten": [
+        "wiki/sources/始于极限：女性主义往复书简.md",
+        "wiki/entities/上野千鹤子.md",
+        "wiki/entities/铃木凉美.md",
+        "wiki/concepts/女性主义往复书简.md",
+        "wiki/concepts/代际对话与信任重建.md",
+        "wiki/concepts/正视伤痛与自我诚实.md",
+        "wiki/queries/女性主义内部的代际对话如何促进议题深化与共识形成.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "足利女童连续失踪事件.md": {
+      "hash": "8fd4111e013f2d07f8a828b792425e84e30ebe41a85af3d18ad933d52098a6b0",
+      "timestamp": 1783910642525,
+      "filesWritten": [
+        "wiki/sources/足利女童连续失踪事件.md",
+        "wiki/entities/清水洁.md",
+        "wiki/entities/足利女童连续失踪事件-受害者.md",
+        "wiki/entities/栃木县警方.md",
+        "wiki/entities/群马县警方.md",
+        "wiki/concepts/dna型鉴定的科学性与局限性.md",
+        "wiki/concepts/跨辖区侦查协作.md",
+        "wiki/concepts/调查记者的社会角色与媒体责任.md",
+        "wiki/concepts/司法公正与冤案风险.md",
+        "wiki/queries/技术证据在司法系统中应扮演何种角色.md",
+        "wiki/queries/如何建立更有效的跨辖区犯罪侦查协作机制.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "西西弗神话.md": {
+      "hash": "a9e38e17b39b52b18f342b4c112b0143368c144cbd49387f977bf6813c7b0a70",
+      "timestamp": 1783910740527,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/西西弗神话.md"
+      ]
+    },
+    "做一个清醒的现代人.md": {
+      "hash": "f96ffb1eda8d5685bc9ea3f2bac04c75bc3580b08c48ea953e3b637c50e8c16b",
+      "timestamp": 1783910849445,
+      "filesWritten": [
+        "wiki/sources/做一个清醒的现代人.md",
+        "wiki/entities/刘擎.md",
+        "wiki/entities/马克斯韦伯.md",
+        "wiki/entities/扬-维尔纳米勒.md",
+        "wiki/entities/弗朗西斯福山.md",
+        "wiki/entities/安兰德.md",
+        "wiki/entities/迈克尔沃尔泽.md",
+        "wiki/concepts/祛魅.md",
+        "wiki/concepts/事实与价值二分.md",
+        "wiki/concepts/民粹主义的代表性垄断米勒定义.md",
+        "wiki/concepts/非人格化.md",
+        "wiki/concepts/复合平等.md",
+        "wiki/concepts/清醒的现代人.md",
+        "wiki/queries/如何做一个清醒的现代人.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "失明症漫记（罗翔推荐）.md": {
+      "hash": "81dc579085fea603e84ee15fe4eb446d65e333200c450f98bab9209f71f55267",
+      "timestamp": 1783910933855,
+      "filesWritten": [
+        "wiki/sources/失明症漫记（罗翔推荐）.md",
+        "wiki/entities/若泽-萨拉马戈.md",
+        "wiki/entities/罗翔.md",
+        "wiki/entities/微信读书.md",
+        "wiki/concepts/内疚作为道德感的加重表述.md",
+        "wiki/queries/极端社会失序状态下内在道德情感与外部制度规则何者更能维系人性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配.md": {
+      "hash": "524e2d5cc30da1c7853f90ab8b445979b709bf37026a45311173b8f2d6543208",
+      "timestamp": 1783911029490,
+      "filesWritten": [
+        "wiki/sources/摆脱精神内耗：为什么我们总被内疚、自责和负罪感支配.md",
+        "wiki/concepts/虚假内疚感.md",
+        "wiki/concepts/剥离流程.md",
+        "wiki/concepts/内疚之坑.md",
+        "wiki/concepts/推回.md",
+        "wiki/queries/如何区分并有效应对生活中的真实内疚与虚假内疚.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "逃避自由（弗洛姆作品系列）.md": {
+      "hash": "ae061045816162033dadcdd5a6c53e105045133c102d23812436602e55e16f93",
+      "timestamp": 1783911153654,
+      "filesWritten": [
+        "wiki/sources/逃避自由（弗洛姆作品系列）.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "命运.md": {
+      "hash": "9ac5150e95db756bc48f9c1301989c82115ee73e89f67820aa12de8a3643834b",
+      "timestamp": 1783911253923,
+      "filesWritten": [
+        "wiki/sources/命运.md",
+        "wiki/concepts/对宿命论的反抗.md",
+        "wiki/concepts/皮囊与内在.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "滔滔生活.md": {
+      "hash": "3b0f87c33d07e10654dc7571e6a260e1ed271b5f800380950dec94c5dcad3245",
+      "timestamp": 1783911403992,
+      "filesWritten": [
+        "wiki/sources/滔滔生活.md",
+        "wiki/index.md"
+      ]
+    },
+    "倦怠社会.md": {
+      "hash": "f02f104dcb7123cf784f05afe74a4531ff47b0d60cb132b3764b9d1c49d98c99",
+      "timestamp": 1783911544206,
+      "filesWritten": [
+        "wiki/sources/倦怠社会.md",
+        "wiki/concepts/倦怠社会.md",
+        "wiki/concepts/功绩社会.md",
+        "wiki/concepts/规训社会.md",
+        "wiki/concepts/深度无聊.md",
+        "wiki/concepts/消极的能力.md",
+        "wiki/entities/韩炳哲.md",
+        "wiki/entities/阿兰-埃亨伯格.md",
+        "wiki/queries/如何平衡积极性驱动与消极停顿.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "多谈谈问题（单读33）.md": {
+      "hash": "0c68778c72c7312511007f2c1f41747981cfe6093ee72ee757db576b105570cb",
+      "timestamp": 1783911682517,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/多谈谈问题（单读33）.md"
+      ]
+    },
+    "人生借阅室（打开一种人生）.md": {
+      "hash": "d4d4ae57615cea6b423c61d4c49bbfcdee3b4d93bc45e141762650ea17653b5c",
+      "timestamp": 1783911751319,
+      "filesWritten": [
+        "wiki/sources/人生借阅室（打开一种人生）.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "生成式人工智能.md": {
+      "hash": "fbf8d2826016dd1139a4a8b64a4ca8826eb14296c2a6acb062e51747eea74954",
+      "timestamp": 1783911884469,
+      "filesWritten": [
+        "wiki/sources/生成式人工智能.md",
+        "wiki/concepts/生成式人工智能.md",
+        "wiki/entities/丁磊.md",
+        "wiki/queries/生成式AI的实际能力与宣传预期之间的差距.md",
+        "wiki/index.md"
+      ]
+    },
+    "停止想太多：写给高敏者的职场突破指南.md": {
+      "hash": "a6ec81b80e80d23e1580c10d89debc18f00e2048f1df5aa134f50775628b4162",
+      "timestamp": 1783911965743,
+      "filesWritten": [
+        "wiki/sources/停止想太多：写给高敏者的职场突破指南.md",
+        "wiki/entities/梅洛迪-怀尔丁.md",
+        "wiki/concepts/高敏感者特质.md",
+        "wiki/concepts/过度思考的表现与干预.md",
+        "wiki/concepts/核心价值定义与实践.md",
+        "wiki/queries/如何将高敏感特质转化为职场优势.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "维特根斯坦十讲.md": {
+      "hash": "4b0e6869bcadc28d17c43067d201c12cbcafd5978621c45c8f27578888f60938",
+      "timestamp": 1783912298775,
+      "filesWritten": [
+        "wiki/sources/维特根斯坦十讲.md",
+        "wiki/entities/路德维希-维特根斯坦.md",
+        "wiki/entities/楼巍.md",
+        "wiki/entities/罗素.md",
+        "wiki/concepts/语言图画说.md",
+        "wiki/concepts/反本质主义.md",
+        "wiki/concepts/私人语言论证.md",
+        "wiki/concepts/归纳原则.md",
+        "wiki/concepts/语言游戏.md",
+        "wiki/concepts/意义即用法.md",
+        "wiki/concepts/甲虫盒子比喻.md",
+        "wiki/concepts/家族相似性.md",
+        "wiki/queries/维特根斯坦后期哲学的核心转向及其影响是什么.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "德米安：彷徨少年时（黑塞精选集）.md": {
+      "hash": "274099d60a33e9d013071a3231533a413b4681ca0b0dbbd2e5619f7ba9172d99",
+      "timestamp": 1783912391457,
+      "filesWritten": [
+        "wiki/sources/德米安：彷徨少年时（黑塞精选集）.md",
+        "wiki/entities/赫尔曼-黑塞.md",
+        "wiki/concepts/两个世界-德米安.md",
+        "wiki/concepts/该隐的标记与自我认同.md",
+        "wiki/concepts/鸟儿破壳-自我实现.md",
+        "wiki/concepts/雅各的战斗-独立与孤独.md",
+        "wiki/concepts/内在自我与直觉探索.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "文学中的人生进化课.md": {
+      "hash": "b53f7bc613affc2cb9749c66054e1077b49c2196b0ff9ea1db479c7a0c0b46cd",
+      "timestamp": 1783912519513,
+      "filesWritten": [
+        "wiki/sources/文学中的人生进化课.md",
+        "wiki/entities/史秀雄.md",
+        "wiki/entities/杜素娟.md",
+        "wiki/concepts/文学作为人生教科书.md",
+        "wiki/concepts/意义感的社会关联性.md",
+        "wiki/queries/文学通俗化解读的张力.md",
+        "wiki/index.md"
+      ]
+    },
+    "如何克服社交焦虑.md": {
+      "hash": "c3f834811752dff191b97eccd3de984e2700d45a983a9918e3ff79101b539dba",
+      "timestamp": 1783912708552,
+      "filesWritten": [
+        "wiki/sources/如何克服社交焦虑.md",
+        "wiki/entities/埃伦-亨德里克森.md",
+        "wiki/concepts/指明技术.md",
+        "wiki/concepts/内在评判.md",
+        "wiki/concepts/注意力聚焦策略.md",
+        "wiki/concepts/有毒完美主义.md",
+        "wiki/concepts/3秒钟原则.md",
+        "wiki/queries/社交焦虑特质与创造力-同理心的关系.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "少有人走的路：心智成熟的旅程.md": {
+      "hash": "66d86d3393183bd23894680472d52b670950eb87d1af40de0215d6445ad86166",
+      "timestamp": 1783912803003,
+      "filesWritten": [
+        "wiki/sources/少有人走的路：心智成熟的旅程.md",
+        "wiki/entities/m斯科特派克.md",
+        "wiki/concepts/逃避自由.md",
+        "wiki/concepts/熵与原罪.md",
+        "wiki/concepts/症状作为潜意识信息.md",
+        "wiki/queries/心智成熟的核心是否为自律与承担责任.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "认知觉醒：开启自我改变的原动力.md": {
+      "hash": "285a21ba5aea60321baf3f0fd330f44ddc7e6d2b883cfe5c848fe384a5c53fc6",
+      "timestamp": 1783912945447,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/认知觉醒：开启自我改变的原动力.md"
+      ]
+    },
+    "你的敏感，就是你的天赋.md": {
+      "hash": "bd34d99b33a07f3a1b56e136fdd745dcd0f489421eeb2220a0b241dbab1543e5",
+      "timestamp": 1783912998434,
+      "filesWritten": [
+        "wiki/sources/你的敏感，就是你的天赋.md",
+        "wiki/entities/伊米-洛.md",
+        "wiki/concepts/情绪强烈与稳定性区分.md",
+        "wiki/concepts/敏感者的适应策略.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "你永远都无法叫醒一个装睡的人.md": {
+      "hash": "bd1a5fac3a1b189f557c62d3ff3eca0c834340290ed315e46c6d8cb2ce013641",
+      "timestamp": 1783913086080,
+      "filesWritten": [
+        "wiki/sources/你永远都无法叫醒一个装睡的人.md",
+        "wiki/entities/周濂.md",
+        "wiki/concepts/装睡.md",
+        "wiki/concepts/独立之精神自由之思想.md",
+        "wiki/concepts/道德理性压倒理论理性.md",
+        "wiki/concepts/暴露焦虑症.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md": {
+      "hash": "f6b28056ebac0fc910442610ef6ebf833f4f26967a403efe9e17e889c7a201fd",
+      "timestamp": 1783913182932,
+      "filesWritten": [
+        "wiki/sources/芙蓉镇（第一届茅盾文学奖获奖作品｜同名电影原著）.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "人生总会有答案.md": {
+      "hash": "d6ac070fcb660064cacc4d21a50f6e4bbb322f8ae7c5972961724cebe45b7226",
+      "timestamp": 1783913349077,
+      "filesWritten": [
+        "wiki/sources/人生总会有答案.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "中国历代政治得失.md": {
+      "hash": "2d0b1b8de3cf7c9c6c6036bd064f2bb924b0b5465edbea3bb65708cdbb40c748",
+      "timestamp": 1783913514497,
+      "filesWritten": [
+        "wiki/sources/中国历代政治得失.md",
+        "wiki/entities/钱穆.md",
+        "wiki/concepts/部族政权.md",
+        "wiki/concepts/制度与法术的区分.md",
+        "wiki/concepts/读书人政府.md",
+        "wiki/concepts/清代卧碑禁令.md",
+        "wiki/queries/清代部族政权论的解释力与局限性如何.md",
+        "wiki/queries/传统中国制度与法术的区分标准是否具有普遍性.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "明朝那些事儿·全集（2021年 增补版）.md": {
+      "hash": "bf0a800dc04e462fae7be5bf9eb9ec7ad7cff3598d8ca312c349b56a8d4765c2",
+      "timestamp": 1783913584785,
+      "filesWritten": [
+        "wiki/sources/明朝那些事儿·全集（2021年 增补版）.md",
+        "wiki/entities/朱元璋.md",
+        "wiki/entities/朝鲜.md",
+        "wiki/entities/李成桂.md",
+        "wiki/entities/当年明月-明朝那些事儿.md",
+        "wiki/concepts/命名权.md",
+        "wiki/concepts/宗藩关系.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "你一生的故事（译林幻系列）.md": {
+      "hash": "8394492ea72f9e49c3b24f59e8580f015169d9da900b9c5fef3b537c4157f74a",
+      "timestamp": 1783913719195,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/你一生的故事（译林幻系列）.md"
+      ]
+    },
+    "道德经（中华国学经典精粹）.md": {
+      "hash": "f692d5d8cfbf060161aaca3411db9724828e3c52850b6ab6b76acf144c45d14a",
+      "timestamp": 1783913798146,
+      "filesWritten": [
+        "wiki/sources/道德经（中华国学经典精粹）.md",
+        "wiki/entities/河上公.md",
+        "wiki/concepts/宠辱若惊.md",
+        "wiki/concepts/不自见故明.md",
+        "wiki/concepts/人法地地法天.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "法律的悖论.md": {
+      "hash": "ad33e3e9004acf3262843e41665cdcd65e1c56209fe81e702194b531513a24bc",
+      "timestamp": 1783913892738,
+      "filesWritten": [
+        "wiki/sources/法律的悖论.md",
+        "wiki/concepts/法律的悖论.md",
+        "wiki/concepts/自然犯与法定犯.md",
+        "wiki/concepts/立法的节制与司法的限缩.md",
+        "wiki/concepts/刑罚的报应论与预防论.md",
+        "wiki/concepts/扩张解释与类推解释.md",
+        "wiki/concepts/道德规范作为法律的边界.md",
+        "wiki/queries/法律在追求普遍正义与回应个案差异间如何平衡.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md": {
+      "hash": "96cde15122e9879b9e808112b2142ae1f728f1de4e56923065c821d4ec22057e",
+      "timestamp": 1783914009375,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/我才不想做家务（全网剖析隐形家务最彻底的一本书！）.md"
+      ]
+    },
+    "我们如何思考.md": {
+      "hash": "b18081733d16dd51ce65eed19ac94a6fcdbc09c916b9d518a7b8a4209d2f080f",
+      "timestamp": 1783914279806,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/我们如何思考.md"
+      ]
+    },
+    "我们活着的理由：弗兰克尔论生命的意义.md": {
+      "hash": "74026411fad23d0f9958c05f80ef27bc4ffe367f7b6dde02e0f3437d5efbdbb5",
+      "timestamp": 1783914431478,
+      "filesWritten": [
+        "wiki/sources/我们活着的理由：弗兰克尔论生命的意义.md",
+        "wiki/entities/维克多-弗兰克尔.md",
+        "wiki/concepts/意义疗法.md",
+        "wiki/concepts/存在的真空.md",
+        "wiki/concepts/态度性价值.md",
+        "wiki/concepts/维度本体论.md",
+        "wiki/concepts/自我超越.md",
+        "wiki/queries/意义疗法在现代社会的应用与验证如何.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "在峡江的转弯处：陈行甲人生笔记.md": {
+      "hash": "1be124efb4bfc8e1a8cc82cb48799d74df9d55b26b655c55fa92ff3cfcfeb8e2",
+      "timestamp": 1783914503005,
+      "filesWritten": [
+        "wiki/sources/在峡江的转弯处：陈行甲人生笔记.md",
+        "wiki/entities/陈行甲.md",
+        "wiki/concepts/阶层流动上升通道变窄.md",
+        "wiki/concepts/知行合一.md",
+        "wiki/queries/如何量化监测社会阶层流动通道的开放程度.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "一个无政府主义者的意外死亡.md": {
+      "hash": "3f59e2cb8b7d7540d81d95435191a02699419da988c864a0d40eef6181a6e518",
+      "timestamp": 1783914591166,
+      "filesWritten": [
+        "wiki/sources/一个无政府主义者的意外死亡.md",
+        "wiki/entities/达里奥-福.md",
+        "wiki/entities/一个无政府主义者的意外死亡.md",
+        "wiki/concepts/权威表演性.md",
+        "wiki/concepts/艺术介入社会.md",
+        "wiki/concepts/喜剧作为批判工具.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "何为良好生活：行之于途而应于心.md": {
+      "hash": "f18e74479e19c88db17c5389088ec55b35b2372abfcced1573a6a33c10102691",
+      "timestamp": 1783914705934,
+      "filesWritten": [
+        "wiki/sources/何为良好生活：行之于途而应于心.md",
+        "wiki/entities/陈嘉映.md",
+        "wiki/entities/亚里士多德.md",
+        "wiki/entities/贺麟.md",
+        "wiki/entities/马斯洛.md",
+        "wiki/concepts/实践智慧.md",
+        "wiki/concepts/实践与制作.md",
+        "wiki/concepts/良好生活.md",
+        "wiki/concepts/实然与应然.md",
+        "wiki/concepts/内向效用.md",
+        "wiki/concepts/德性与习性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "我的心渴望一种更加惊险的生活（果麦经典）.md": {
+      "hash": "2518f1d194d33edf0a510d91f47eb8b21c3b201a8d8aa92daff7670609fb0f23",
+      "timestamp": 1783914950938,
+      "filesWritten": [
+        "wiki/sources/我的心渴望一种更加惊险的生活（果麦经典）.md",
+        "wiki/entities/毛姆.md",
+        "wiki/concepts/写作的使命与优先性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "中国通史（上下册）.md": {
+      "hash": "00d02d2d6831db801a6b367d5c35ee509c4a86be9c507c638ad98e2f8ca16859",
+      "timestamp": 1783915090134,
+      "filesWritten": [
+        "wiki/sources/中国通史（上下册）.md",
+        "wiki/entities/傅乐成.md",
+        "wiki/entities/杨朱.md",
+        "wiki/entities/嵇康.md",
+        "wiki/entities/阮籍.md",
+        "wiki/entities/王羲之.md",
+        "wiki/entities/玄武门之变.md",
+        "wiki/concepts/兼爱与为我.md",
+        "wiki/concepts/清谈及其社会政治影响.md",
+        "wiki/concepts/政治实用主义.md",
+        "wiki/concepts/传统思想的务实性.md",
+        "wiki/concepts/理学的社会政治影响.md",
+        "wiki/queries/清谈风气与政治效率的关系如何.md",
+        "wiki/queries/理学在道德建构与政治实践中的矛盾如何调和.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "人生解忧：佛学入门四十讲.md": {
+      "hash": "71dc8eb14d97ae1742746d1454185bf01c5b1e6cb8b6e736fcaf42941918182e",
+      "timestamp": 1783915254348,
+      "filesWritten": [
+        "wiki/sources/人生解忧：佛学入门四十讲.md",
+        "wiki/entities/成庆.md",
+        "wiki/concepts/当下体验与意识穿梭.md",
+        "wiki/concepts/四圣谛.md",
+        "wiki/concepts/无我.md",
+        "wiki/concepts/《心经》与《金刚经》.md",
+        "wiki/concepts/佛教生死观.md",
+        "wiki/queries/佛学智慧对现代心灵危机的实际效用如何.md",
+        "wiki/index.md",
+        "wiki/log.md"
+      ]
+    },
+    "历史深处的民国（全集）.md": {
+      "hash": "3cef4d79e6130094b816cfdf47674cb76214079435290317438155bac7429817",
+      "timestamp": 1783915351470,
+      "filesWritten": [
+        "wiki/sources/历史深处的民国（全集）.md",
+        "wiki/entities/薛岳.md",
+        "wiki/entities/蒋介石.md",
+        "wiki/entities/白崇禧.md",
+        "wiki/entities/陈诚.md",
+        "wiki/entities/中国最高军事统帅部.md",
+        "wiki/entities/湖南.md",
+        "wiki/concepts/军事决策中的个人意志与血性.md",
+        "wiki/concepts/寸土必争与战略转进.md",
+        "wiki/concepts/地方粮仓与国家存亡关联.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "不止于正义.md": {
+      "hash": "2c4a5c93c01d2269e6c2ac7c83c3c6a54653efe489a2a5748e0a79d908ff5c7f",
+      "timestamp": 1783915442482,
+      "filesWritten": [
+        "wiki/sources/不止于正义.md",
+        "wiki/entities/赵宏.md",
+        "wiki/entities/陈碧.md",
+        "wiki/entities/李红勃.md",
+        "wiki/entities/电车难题.md",
+        "wiki/entities/正义的决疑.md",
+        "wiki/concepts/平庸之恶.md",
+        "wiki/concepts/权利理论.md",
+        "wiki/concepts/损害原则.md",
+        "wiki/concepts/宽容悖论.md",
+        "wiki/concepts/女性权利意识与性别叙事.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "红星照耀中国.md": {
+      "hash": "1f9f2c3e76f401285c696b2bd386f851a4b36cc97c0edef9375787e02c558753",
+      "timestamp": 1783915562736,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/红星照耀中国.md"
+      ]
+    },
+    "與中國打交道——美國前財長鮑爾森的二十年內幕觀察.md": {
+      "hash": "922a209a4b169c90e0cabc63084016df8e788112e7ce2b867d52d1de134bc508",
+      "timestamp": 1783915570173,
+      "filesWritten": [
+        "wiki/sources/與中國打交道——美國前財長鮑爾森的二十年內幕觀察.md"
+      ]
+    },
+    "九诗心：暗夜里的文学启明.md": {
+      "hash": "1513942c423bc9780f121b195193e1ccd9d2476af816b69e9d38d8b7e7d43440",
+      "timestamp": 1783915696520,
+      "filesWritten": [
+        "wiki/sources/九诗心：暗夜里的文学启明.md",
+        "wiki/entities/黄晓丹.md",
+        "wiki/entities/文天祥.md",
+        "wiki/entities/陶渊明.md",
+        "wiki/entities/欧阳修.md",
+        "wiki/entities/李清照.md",
+        "wiki/entities/李陵.md",
+        "wiki/entities/曹丕.md",
+        "wiki/entities/吴梅村.md",
+        "wiki/entities/弗洛姆.md",
+        "wiki/entities/奥威尔.md",
+        "wiki/entities/特德·姜.md",
+        "wiki/entities/荣格.md",
+        "wiki/entities/爱的艺术.md",
+        "wiki/entities/1984.md",
+        "wiki/entities/你一生的故事.md",
+        "wiki/concepts/对生命本身的欢庆.md",
+        "wiki/concepts/语言作为思想载体（萎缩与扩展）.md",
+        "wiki/concepts/接受与抗争（命运与态度）.md",
+        "wiki/synthesis/古代诗歌对现代人生存困境的回应.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "陪老婆怀孕.md": {
+      "hash": "5787b8698bbe8d7002e8584282b7aa74d9a79ba67f1019b2d84aa0b954abc692",
+      "timestamp": 1783915737430,
+      "filesWritten": [
+        "wiki/sources/陪老婆怀孕.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "乡土中国（果麦经典）.md": {
+      "hash": "c8f3f288d2b55a4d1c728898f29d6b89dff85ec77c5d27ebc89b4a789422179a",
+      "timestamp": 1783916050601,
+      "filesWritten": [
+        "wiki/sources/乡土中国（果麦经典）.md",
+        "wiki/entities/费孝通.md",
+        "wiki/entities/乡土中国.md",
+        "wiki/concepts/乡土社会.md",
+        "wiki/concepts/差序格局.md",
+        "wiki/concepts/长老统治.md",
+        "wiki/concepts/维系着私人的道德.md",
+        "wiki/concepts/无为政治.md",
+        "wiki/concepts/男女有别.md",
+        "wiki/concepts/时势权力.md",
+        "wiki/concepts/欲望与需要.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "book1-claude-code.md": {
+      "hash": "a603a07eeabeeb31fd8e633ff50e7d91595d9bfc2297520aa0a75e6f4c18f7ab",
+      "timestamp": 1783916118740,
+      "filesWritten": [
+        "wiki/sources/book1-claude-code.md",
+        "wiki/entities/claude-code.md",
+        "wiki/concepts/控制平面.md",
+        "wiki/concepts/上下文治理.md",
+        "wiki/concepts/skill作为可复用的制度切片.md",
+        "wiki/concepts/ai代理系统错误处理原则.md",
+        "wiki/synthesis/构建可靠的团队级ai代理系统设计原则综合.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "可能性的艺术：比较政治学30讲.md": {
+      "hash": "28da208831b2bdf34833dee87bd182817ec841710ff05d812ff630910b6f688f",
+      "timestamp": 1783916206031,
+      "filesWritten": [
+        "wiki/sources/可能性的艺术：比较政治学30讲.md",
+        "wiki/entities/刘瑜.md",
+        "wiki/entities/费迪南德·朗.md",
+        "wiki/entities/塞缪尔·亨廷顿.md",
+        "wiki/entities/丹尼·罗德里克.md",
+        "wiki/entities/费尔南多·扎卡利亚.md",
+        "wiki/entities/迈克尔·曼.md",
+        "wiki/entities/曼德拉.md",
+        "wiki/entities/德克勒克.md",
+        "wiki/entities/皮诺切特.md",
+        "wiki/concepts/比较视野.md",
+        "wiki/concepts/民主问责与国家能力.md",
+        "wiki/concepts/三难困境.md",
+        "wiki/index.md"
+      ]
+    },
+    "毛泽东选集（全四卷）.md": {
+      "hash": "3dbf17e5efa3264b682c88b6f6d0cf629915a7db33cfb1219aa5d7619d23f1a9",
+      "timestamp": 1783916250450,
+      "filesWritten": [
+        "wiki/log.md",
+        "wiki/sources/毛泽东选集（全四卷）.md"
+      ]
+    },
+    "中国哲学简史（插图修订版）.md": {
+      "hash": "553fc542ecefbaadabf55fa2919d25c4d5ee7b09bb0676f00fcade69a3090d78",
+      "timestamp": 1783916464117,
+      "filesWritten": [
+        "wiki/sources/中国哲学简史（插图修订版）.md",
+        "wiki/entities/冯友兰.md",
+        "wiki/entities/孔子.md",
+        "wiki/entities/老子.md",
+        "wiki/entities/庄子.md",
+        "wiki/entities/孟子.md",
+        "wiki/entities/荀子.md",
+        "wiki/entities/朱熹.md",
+        "wiki/entities/王守仁.md",
+        "wiki/entities/墨子.md",
+        "wiki/entities/韩非子.md",
+        "wiki/sources/中国哲学简史（插图修订版）.md",
+        "wiki/sources/中国哲学简史（插图修订版）.md",
+        "wiki/sources/中国哲学简史（插图修订版）.md",
+        "wiki/concepts/仁.md",
+        "wiki/concepts/道.md",
+        "wiki/concepts/无为.md",
+        "wiki/concepts/兼爱.md",
+        "wiki/concepts/正名.md",
+        "wiki/concepts/性善性恶之辩.md",
+        "wiki/concepts/理气论.md",
+        "wiki/concepts/致良知.md",
+        "wiki/concepts/人生四境界说.md",
+        "wiki/concepts/名实之辩.md",
+        "wiki/concepts/名家.md",
+        "wiki/comparisons/孟子与告子的人性论之辩.md",
+        "wiki/comparisons/朱熹与王阳明的心物之辩.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "我所相信的生活.md": {
+      "hash": "68a9c3c5f1f3181fe86d8521d5e10af19097c55ce63ec5bd3dd221c436d46601",
+      "timestamp": 1783916543534,
+      "filesWritten": [
+        "wiki/sources/我所相信的生活.md",
+        "wiki/entities/伯特兰罗素.md",
+        "wiki/concepts/观照之乐与善意之爱.md",
+        "wiki/concepts/理性人生观.md",
+        "wiki/concepts/实用道德观.md",
+        "wiki/concepts/社会条件对幸福的重要性.md",
+        "wiki/queries/罗素的理性主义幸福观与东方哲学的融合可能性.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    },
+    "西方哲学史讲演录.md": {
+      "hash": "0d4f8e8cf88318cc6365b2ccc038a481a22e111e097e36bc8899687efd52d1c1",
+      "timestamp": 1783916679090,
+      "filesWritten": [
+        "wiki/sources/西方哲学史讲演录.md"
+      ]
+    },
+    "真希望我父母读过这本书.md": {
+      "hash": "6914046dc4b52566ca91697ef2cd37db85b70b43c091b8459684536af18dcf05",
+      "timestamp": 1783916758471,
+      "filesWritten": [
+        "wiki/sources/真希望我父母读过这本书.md",
+        "wiki/entities/菲利帕-佩里.md",
+        "wiki/concepts/确认感受.md",
+        "wiki/concepts/关系修复.md",
+        "wiki/concepts/合作型管教.md",
+        "wiki/log.md",
+        "wiki/index.md"
+      ]
+    }
+  }
+}
